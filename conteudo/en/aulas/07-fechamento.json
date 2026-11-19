@@ -1,0 +1,349 @@
+{
+  "slug": "fechamento",
+  "num": 7,
+  "menu": "Closing",
+  "titulo": "The three-step closing sequence",
+  "titulo_curto": "Closing in 3 steps",
+  "minutos": 20,
+  "lead": "Closing is not a lucky shot at the end of the conversation: it is a sequence of three moves, preceded by an agenda and followed by a date on the calendar. And what you close here is not a build project: it is ongoing advisory, the 90-day mentorship with the managers, with a metric and a review date.",
+  "objetivo": "recap, tie in and lead to an advisory commitment with a metric and a review date, without handing the decision back.",
+  "competencias": [
+    "conduzir-fechamento",
+    "propor-acompanhamento",
+    "marcar-proximo-passo"
+  ],
+  "aprende": [
+    {
+      "t": "The thirty-second agenda and the two acceptable outcomes"
+    },
+    {
+      "t": "Recap, tie in and lead, in that order"
+    },
+    {
+      "t": "Why the bridge is the advisory, not the build"
+    },
+    {
+      "t": "Book the next one inside this one and clean up the pipeline"
+    }
+  ],
+  "hero_alt": "A consultant and a manager looking together at a paper calendar on the wall and marking a date.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "From the meeting to the commitment",
+      "sub": "Agenda, three steps and the date. Click each block.",
+      "nos": [
+        {
+          "icone": "lista",
+          "titulo": "Agenda",
+          "sub": "30 seconds",
+          "detalhe": "\"First I'll ask you a few questions, then I'll show you what usually solves it, and if it makes sense we'll agree on the next step. Does that work? Want to add anything?\" It gets the first small yes, and the item they add is the real priority."
+        },
+        {
+          "icone": "chat",
+          "titulo": "1 · Recap",
+          "sub": "in their own words",
+          "detalhe": "Three or four points at most, in the words they used, not in your technical vocabulary. End with \"is that right?\" and wait for confirmation."
+        },
+        {
+          "icone": "alvo",
+          "titulo": "2 · Tie in",
+          "sub": "problem → goal → bridge",
+          "forte": true,
+          "detalhe": "The problem in their words → the goal they stated → the bridge in one sentence → the picture of the after. The Professional 2030 bridge is the advisory: the 90-day mentorship with the manager who knows the process, until the safe handoff to IT."
+        },
+        {
+          "icone": "seta",
+          "titulo": "3 · Lead",
+          "sub": "don't hand the ball back",
+          "detalhe": "\"So that's the path. Do we start on the 20th or the 27th?\" Two concrete options, not an open question. \"So, what do you think?\" hands the decision back to someone who has just received a lot of information."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Commitment",
+          "sub": "metric and review",
+          "detalhe": "The close comes out with three things: the start date, the metric that will show whether it worked (the diagnostic number), and the date of the first review. After the 90 days, monthly advisory."
+        }
+      ],
+      "legenda": "Every meeting has only two acceptable outcomes: close, or set the next meeting with a date. \"I'll let you know later\" is the start of going quiet.",
+      "dica": "To lead is not to pressure. If the diagnosis was done and the recap was confirmed, proposing the date is the natural step."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The three steps, with the phrases",
+      "sub": "In the order you will use them.",
+      "passos": [
+        {
+          "titulo": "Recap",
+          "sub": "what works and what empties it",
+          "texto": [
+            "Works: \"from what you told me: orders come in through three channels, the check is manual, and in busy weeks you lose about five closings. Is that right?\".",
+            "Empties it: \"I identified workflow bottlenecks and orchestration opportunities.\" He didn't talk like that. On screen, write down the points while he speaks and share them right then."
+          ]
+        },
+        {
+          "titulo": "Tie in",
+          "sub": "one tie-in per point",
+          "texto": [
+            "Problem: \"the manual check delays the close\". Goal: \"you said you want to close the month without anyone staying up all night\".",
+            "Bridge and picture: \"I propose to accompany whoever handles the check for 90 days, until the new process runs with the team and moves to IT with tests. At the end of the month, instead of two late nights, there's one review\"."
+          ]
+        },
+        {
+          "titulo": "Why not sell the build",
+          "sub": "building became easy",
+          "texto": [
+            "Delivering only the build turns into a price fight when the client can do it alone with AI. And a system nobody uses dies without the manager nearby.",
+            "The Mentor accompanies the prototype's manager through to validation with IT, with method, tests and security. That is what the company buys: confidence."
+          ]
+        },
+        {
+          "titulo": "Lead",
+          "sub": "two options, not a question",
+          "texto": [
+            "Led: \"do we start on the 20th or the 27th? The first review of the metric is set with you and the manager\".",
+            "Handed back: \"what do you think?\", \"just let me know if anything\", \"I'll let you think it over calmly\". The default result is \"I need to think about it\"."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "simconversa",
+      "titulo": "Simulated conversation: the second conversation",
+      "sub": "The same trucking company owner from lesson 3, now to close (fictional character). Choose the answer you would give.",
+      "personagem": {
+        "nome": "Owner of a mid-sized trucking company",
+        "papel": "second conversation · with the person in charge of the check"
+      },
+      "inicio": "abre",
+      "falas": {
+        "abre": {
+          "cliente": "Good morning. I brought the person in charge of the check, as we agreed. You can start.",
+          "opcoes": [
+            {
+              "t": "Thanks for your time. Here's my thinking: I recap what I understood, show the path and, if it makes sense, we agree on the start. Do you want to add anything?",
+              "vai": "recap",
+              "nota": 2,
+              "comenta": "Thirty-second agenda: direction, respect for their time and a small first yes."
+            },
+            {
+              "t": "I'll go straight to the proposal, so I don't take up your time.",
+              "vai": "recap",
+              "nota": 1,
+              "comenta": "Skipping the agenda seems efficient, but you lose the chance to learn what worries the two of them most."
+            }
+          ]
+        },
+        "recap": {
+          "cliente": "Sure. And I want to know one thing: how long until the team really uses this?",
+          "opcoes": [
+            {
+              "t": "From what you told me: the duplicate registration sends about three orders back each week, the check verifies everything by hand, and the last system went unused. Is that right?",
+              "vai": "amarra",
+              "nota": 2,
+              "comenta": "You recapped in their words, in three points, and waited for confirmation. And you saved his question for the tie-in."
+            },
+            {
+              "t": "I identified data flow bottlenecks and orchestration opportunities.",
+              "vai": "amarra",
+              "nota": 0,
+              "comenta": "Nobody there talked like that. They need to recognize themselves in what you say."
+            }
+          ]
+        },
+        "amarra": {
+          "cliente": "That's it. But last time we bought a ready-made system and nobody used it.",
+          "opcoes": [
+            {
+              "t": "That's why I'm not proposing to deliver a ready-made system. I propose to accompany the person in charge of the check for 90 days: they build the new process with the team, we test it and hand it to IT securely. The metric is the number of orders sent back each week.",
+              "vai": "conduz",
+              "nota": 2,
+              "comenta": "Problem → goal → bridge → picture of the after. And the bridge is the advisory, which answers his question: the team uses it because they built it together."
+            },
+            {
+              "t": "This time I build it and deliver it ready in three weeks.",
+              "vai": "conduz",
+              "nota": 1,
+              "comenta": "He just said the ready-made system died unused. Selling the build repeats the problem and turns into a price fight."
+            },
+            {
+              "t": "The solution has integration with the system, a control panel and agents that orchestrate the check.",
+              "vai": "fim-complexo",
+              "nota": 0,
+              "comenta": "Features that don't tie in to any of his problems raise the perception of complexity, the enemy of decision."
+            }
+          ]
+        },
+        "conduz": {
+          "cliente": "Makes sense.",
+          "opcoes": [
+            {
+              "t": "So, what do you think? Shall we go ahead?",
+              "vai": "fim-pensar",
+              "nota": 0,
+              "comenta": "You handed the whole decision back to someone who just received a lot of information."
+            },
+            {
+              "t": "Then do we start on the 20th or the 27th? And let's already set the first review of the metric with the two of you, thirty days after the start.",
+              "vai": "fim-bom",
+              "nota": 2,
+              "comenta": "Guided close: two dates, the metric, and the review scheduled within the meeting itself."
+            },
+            {
+              "t": "I'll send you the link to my calendar so you can pick.",
+              "vai": "fim-pensar",
+              "nota": 0,
+              "comenta": "A calendar link is not an outcome: it pushes the work to later, and later usually never comes."
+            }
+          ]
+        },
+        "fim-pensar": {
+          "fim": true,
+          "titulo": "\"I'll think about it\"",
+          "texto": "He says he'll talk to his partner and get back to you. With no date, the opportunity goes on the \"was going to get back to me\" list, and a good conversation dies for no apparent reason."
+        },
+        "fim-complexo": {
+          "fim": true,
+          "titulo": "Too complex",
+          "texto": "The person in charge of order checking is scared off by the number of pieces. The owner asks to think it over. Nothing you listed answered his question: how long until the team actually uses it."
+        },
+        "fim-bom": {
+          "fim": true,
+          "titulo": "Advisory commitment",
+          "texto": "He picks the 27th. He leaves the meeting with the start date, the metric (orders that come back per week) and the first review on both calendars. You didn't sell a system: you sold 90 days of ongoing advisory alongside someone who knows the process."
+        }
+      },
+      "licao": "Recap in his words, tie in to the goal, and lead with two dates. The bridge is the ongoing advisory, and the close carries a metric and a review."
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The closing line, the line for scheduling the next one, and the pipeline cleanup.",
+      "blocos": [
+        {
+          "rot": "Closing line · advisory with a metric",
+          "icone": "chat",
+          "conteudo": "RECAP\n\"From what you told me: <point 1 in his words>, <point 2>, <point 3>.\nIs that right?\"  [wait for confirmation]\n\nTIE IN (once per point, 3 at most)\n\"You said you want <his goal>.\nThat's why I propose to work alongside <manager who knows the process> for 90 days:\nhe builds the solution with the team, we test it and hand it over to IT safely.\nIn practice: <picture of the after>.\"\n\nLEAD\n\"The metric is <number from the diagnostic>. Do we start on <date A> or <date B>?\nAnd let's already set the first metric review for <review date>.\"\n\nAFTER THE 90 DAYS\nMonthly advisory: metric review, new cases, risks."
+        },
+        {
+          "rot": "Ready-made line · scheduling the next one",
+          "icone": "calendario",
+          "conteudo": "\"Great. For me to put this together properly, I need one more thirty-minute conversation,\nalready with <who else needs to take part>.\nI have Tuesday morning or Thursday afternoon. Which works better?\"\n[if he hesitates]\n\"No problem — let's set it now and, if needed, we'll adjust later.\nDo you prefer Tuesday or Thursday?\"\n[if he pushes it to the following week]\n\"Done, we'll look at the following week. Monday or Wednesday?\""
+        },
+        {
+          "rot": "Prompt · pipeline cleanup",
+          "icone": "lista",
+          "conteudo": "You are my sales manager and you are going to be tough on me. Below is my list of\nopen opportunities. For each one, I report: who it is, last contact,\nwhat was agreed, and whether there is a date set.\nLIST:\n- <company/person> | last contact: <date> | agreed: <what was left> | next date: <yes/no>\n- (repeat for each one)\nClassify each line as: REAL (has a date and a defined step), WARM (clear interest,\nno date) or GHOST (no date and no step, or stalled for more than 21 days).\nFor each one, write:\n1. The classification and why, in one line.\n2. A short, non-begging message to reopen — for the WARM ones, always ending\n   with two date options.\n3. For the GHOST ones, an elegant closing message that leaves the door open.\nAt the end, tell me how many REAL opportunities I actually have."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Your closing line and your real pipeline.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Your closing line",
+          "min": "25 min",
+          "texto": "Take a real diagnostic (or the simulated conversation from lesson 3) and fill in the closing line. Practice out loud and do this lesson's simulated conversation until you hit the top score.",
+          "pronto": "the line has 3 points in the client's words, the advisory bridge (not a build one), the metric, two start dates and the review date."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Pipeline cleanup",
+          "min": "20 min",
+          "texto": "List all open opportunities, with the date column, and run the cleanup prompt. Send the messages to the warm ones.",
+          "pronto": "you know how many REAL opportunities you have and every line has an action, including the ones to close out."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "You finished the recap and the tie-in. What is the best next sentence?",
+          "opcoes": [
+            "\"So, what do you think? Does it make sense to move forward?\"",
+            "\"When do you want to start: the 20th or the 27th?\"",
+            "\"I'll send you the link to my calendar.\""
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Two concrete options reduce the decision to a simple choice. The others hand the ball back or push work to later."
+        },
+        {
+          "p": "What is the order of the tie-in?",
+          "opcoes": [
+            "Solution → problem → goal",
+            "Problem → goal → bridge → picture of the after",
+            "Price → solution → deadline"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Whoever starts with the solution is pitching a product; whoever starts with the problem is solving someone's life."
+        },
+        {
+          "p": "The client says the last system they bought ended up unused. What should you propose?",
+          "opcoes": [
+            "A better system, delivered ready-made",
+            "Work alongside the manager who knows the process for 90 days, until the safe handoff to IT",
+            "A discount to make up for the bad experience"
+          ],
+          "certa": 1,
+          "ref": "simconversa",
+          "explica": "A ready-made build repeats the problem and turns into a price fight. The ongoing advisory answers what got stuck: the team uses what it builds together."
+        },
+        {
+          "p": "What does an advisory close need to have, besides the start date?",
+          "opcoes": [
+            "The metric and the date of the first review",
+            "The complete list of features",
+            "A guarantee of results"
+          ],
+          "certa": 0,
+          "ref": "diagrama",
+          "explica": "The metric comes from the diagnostic number, and the scheduled review shows whether it worked. A guarantee of results is a promise, not a method."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Start with an agenda",
+          "texto": "Thirty seconds that give direction and harvest the first yes."
+        },
+        {
+          "t": "Recap, tie in, lead",
+          "texto": "In that order, always, using their words."
+        },
+        {
+          "t": "The bridge is the ongoing advisory",
+          "texto": "A 90-day mentorship with the manager, then monthly advisory, not construction."
+        },
+        {
+          "t": "No date, no opportunity",
+          "texto": "Two options, set within the meeting itself, with a metric and a review."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "AI Mentor Program: how to lead the 90 days",
+          "href": "https://inematds.github.io/prof2030-mentor/"
+        },
+        {
+          "t": "Professional 2030 Area: the four roles",
+          "href": "https://eventos.inema.pro/prof2030/"
+        }
+      ]
+    }
+  ]
+}

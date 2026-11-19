@@ -1,0 +1,242 @@
+{
+  "slug": "tres-vieses",
+  "num": 6,
+  "menu": "Biases",
+  "titulo": "Three biases that drive a purchase",
+  "titulo_curto": "Three biases",
+  "minutos": 16,
+  "lead": "Nobody decides with a spreadsheet alone. Three mental shortcuts show up in almost every purchase: losing hurts more than gaining, nobody wants to be the first, and what has already been invested weighs heavily. You will recognize them, use them only with true facts, and know exactly where the line is. This is where trust lives.",
+  "objetivo": "use loss aversion, social proof and sunk effort only with true facts, and apply the test that separates influence from manipulation.",
+  "competencias": [
+    "usar-vieses-com-etica",
+    "construir-prova-social-honesta",
+    "separar-influencia-de-manipulacao"
+  ],
+  "aprende": [
+    {
+      "t": "What a decision bias is, and what a reframe is"
+    },
+    {
+      "t": "Loss aversion, social proof and sunk effort"
+    },
+    {
+      "t": "Honest social proof when you still have few clients"
+    },
+    {
+      "t": "The test that separates influence from manipulation"
+    }
+  ],
+  "hero_alt": "Two adults in a bright meeting room comparing two sheets of paper side by side, looking thoughtful.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Three shortcuts, one decision",
+      "sub": "The decision is felt first and rationalized later. Click each shortcut.",
+      "nos": [
+        {
+          "icone": "grafico",
+          "titulo": "Losing hurts more",
+          "sub": "loss aversion",
+          "detalhe": "\"You'll save money\" persuades less than \"you're losing money,\" even with the same number. Use the numbers they gave you in the diagnosis and their own unit of time: per week hurts more than per year."
+        },
+        {
+          "icone": "usuario",
+          "titulo": "Nobody wants to be the first",
+          "sub": "social proof",
+          "detalhe": "People want to know that someone like them, with a similar problem, has already walked this path. Industry and company size are enough; the client's name isn't needed."
+        },
+        {
+          "icone": "relogio",
+          "titulo": "What I've already spent counts",
+          "sub": "sunk effort",
+          "detalhe": "Six months of trying to solve it internally weigh heavily at the table. Acknowledge the effort and ask the right question: from here on, what is the best path?"
+        },
+        {
+          "icone": "check",
+          "titulo": "The decision",
+          "sub": "felt first",
+          "forte": true,
+          "detalhe": "The person will justify the decision with numbers later, even to their business partner. But the movement started with one of these three shortcuts."
+        }
+      ],
+      "legenda": "To reframe is to state the same fact from another angle. \"Saves ten hours a week\" and \"loses ten hours a week\" describe the same reality.",
+      "dica": "Working with biases is not deceiving: it's presenting the true information in a way the person can process."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "All three, with honesty",
+      "sub": "How to use each one, and how each one backfires.",
+      "passos": [
+        {
+          "titulo": "Loss framing",
+          "sub": "without exaggerating",
+          "texto": [
+            "Gain: \"your proposal goes out in three hours instead of three days,\" true and easy to postpone. Loss: \"every week your proposal takes three days is one more client who closes with whoever replied first.\"",
+            "Never invent a false deadline or artificial scarcity."
+          ]
+        },
+        {
+          "titulo": "Social proof",
+          "sub": "when you have few clients",
+          "texto": [
+            "A project done for free, with the result recorded, is legitimate proof, as long as you say that's how it was. An observed pattern counts too.",
+            "Anonymize it: \"a dental clinic with four chairs\". Inflating results or inventing a client works until the second question."
+          ]
+        },
+        {
+          "titulo": "Sunk effort",
+          "sub": "acknowledge it, never embarrass",
+          "texto": [
+            "Honest use: \"you've already put about six months into this. How much more does it make sense to invest before bringing in someone who has done it before?\".",
+            "Backfires: \"you wasted six months,\" said with the person who led the attempt in the room. Someone who just bought a tool will defend it: propose adding to it, not replacing it."
+          ]
+        },
+        {
+          "titulo": "Spread them out, don't stack them",
+          "sub": "three sentences, three moments",
+          "texto": [
+            "After the number, name the loss. When they hesitate, bring in a similar case. Before the close, acknowledge the effort.",
+            "All three in a row sound like a salesperson's argument. Spread out, they look like what they are: honest observations at the right moment."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The line between influence and manipulation",
+      "sub": "The test: if the client knew exactly what you are doing, would they still be comfortable?",
+      "passos": [
+        {
+          "titulo": "Influence",
+          "sub": "the fact is true",
+          "texto": [
+            "Use the numbers they gave you themselves. Cite a real case, anonymized.",
+            "Say what the solution does not do. This is what Professional 2030 calls trust: saying what you know and what you don't know how to do."
+          ]
+        },
+        {
+          "titulo": "Manipulation",
+          "sub": "the same mechanism, a false fact",
+          "texto": [
+            "Made-up deadlines and scarcity. Inflated numbers or a fictional client.",
+            "Hiding a known limit."
+          ]
+        },
+        {
+          "titulo": "Why the line is in your interest",
+          "sub": "three effects",
+          "texto": [
+            "A client convinced by pressure cancels, pays late and complains at delivery. A client convinced by a true argument refers others, and referrals arrive at the bottom of the pipeline.",
+            "And someone who sells by pushing ends up hating selling, and goes back to square one of lesson 1."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Template to copy",
+      "sub": "Reframing is writing work, not improvisation.",
+      "blocos": [
+        {
+          "rot": "Prompt · reframe bank",
+          "icone": "caneta",
+          "conteudo": "You are my editor of sales arguments. I will give you FACTS. You may only use those facts.\nWHAT I SELL: <one sentence: AI diagnostic, audit, mentorship or training>\nTYPICAL CLIENT: <sector and size>\nFACTS I HAVE (do not invent any others):\n- <e.g.: in 3 projects, the quote response time dropped from 2 days to 2 hours>\n- <e.g.: I have never served this specific sector>\n- <e.g.: my pilot takes 3 weeks>\nWrite, in US English and in a conversational tone:\n1. THREE \"cost of staying as is\" sentences, using the client's own numbers\n   as variables marked like this: <number they said>.\n2. THREE HONEST social proof sentences based on the facts above, anonymized\n   (sector and size, never a name). If a fact cannot support social proof, say so.\n3. TWO sentences that acknowledge the effort the company has already made, without sounding condescending.\n4. A list of what I CANNOT claim with the facts I have.\nHard rule: no made-up urgency, no number that I did not give you."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Your bank of sentences, built only from your own facts.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Reframe bank",
+          "min": "25 min",
+          "texto": "List the facts you really have (projects, results, what you have never done) and run the prompt. Save the result in a file of your own.",
+          "pronto": "the file has sentences for all three biases and item 4 (what you cannot claim) is filled in; if it came back empty, you redid it."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · The line test",
+          "min": "10 min",
+          "texto": "Reread the sentences you usually use in a sales conversation. Apply the test to each one: would the client be comfortable knowing what you are doing?",
+          "pronto": "you marked each sentence as influence or manipulation and rewrote or cut the ones that did not pass."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "What is the test that separates influence from manipulation?",
+          "opcoes": [
+            "If the client closed, it was influence; if they refused, it was manipulation",
+            "If the client knew exactly what you are doing, would they still be comfortable",
+            "If the technique is well known, it can be used without restriction"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Both sides use the same mental mechanism. What changes is whether the fact behind it is true."
+        },
+        {
+          "p": "You still have few clients. What is a legitimate social proof?",
+          "opcoes": [
+            "Citing a big company as if it were a client",
+            "A project done for free, with the result recorded, saying that's how it was",
+            "Rounding the result up"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Fragile proof told honestly is worth more than strong proof made up, which falls apart at the second question."
+        },
+        {
+          "p": "The manager who led six months of internal attempts is in the room. How do you use sunk effort?",
+          "opcoes": [
+            "\"You wasted six months.\"",
+            "\"You've already put in a lot of time. The question now is what the shortest path is from here.\"",
+            "Don't bring it up"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Acknowledging the effort guides the next decision; dismissing it makes you the adversary of the people in the room."
+        },
+        {
+          "p": "Why spread the three phrases across the conversation?",
+          "opcoes": [
+            "Because together they sound like a salesperson's pitch and trigger distrust",
+            "Because the client forgets quickly",
+            "You don't need to spread them out"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "Spread out, each one shows up at the right hook as an honest observation. Stacked together, they become a speech."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Losing weighs more than gaining",
+          "texto": "The same fact, said as a loss, moves people more, using the client's own numbers."
+        },
+        {
+          "t": "Nobody wants to be the first",
+          "texto": "Anonymized social proof can be built even with few clients."
+        },
+        {
+          "t": "Sunk effort carries weight",
+          "texto": "Acknowledge it, never embarrass."
+        },
+        {
+          "t": "The line is the truth of the fact",
+          "texto": "Same mechanism, opposite results."
+        }
+      ]
+    }
+  ]
+}

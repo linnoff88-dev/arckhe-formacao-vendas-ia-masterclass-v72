@@ -1,0 +1,280 @@
+{
+  "slug": "estagio-decisao",
+  "num": 4,
+  "menu": "Decisión",
+  "titulo": "Dónde está el cliente en la decisión",
+  "titulo_curto": "Etapa de la decisión",
+  "minutos": 18,
+  "lead": "Decirle lo mismo a quien apenas empieza a notar el problema y a quien ya va a firmar es el error más caro del proceso. Aquí ubicas a la persona en minutos, cambias tu rol según corresponda, pruebas las cinco compuertas de la decisión y descalificas sin culpa a quien no es cliente.",
+  "objetivo": "ubicar al cliente en la parte alta, media o baja del embudo, probar las 5 compuertas de la decisión y descalificar sin culpa a quien no es para ahora.",
+  "competencias": [
+    "identificar-estagio-de-decisao",
+    "testar-comportas-de-decisao",
+    "desqualificar-sem-culpa"
+  ],
+  "aprende": [
+    {
+      "t": "Parte alta, media y baja del embudo, y tu rol en cada una"
+    },
+    {
+      "t": "La cascada de las cinco compuertas de la decisión"
+    },
+    {
+      "t": "La matriz de preguntas que revela la etapa"
+    },
+    {
+      "t": "Preparar la conversación con IA sin inventar hechos"
+    }
+  ],
+  "hero_alt": "Mesa vista desde arriba con tres columnas de fichas de papel en blanco y una mano moviendo una ficha.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "La cascada de decisión",
+      "sub": "Toda compra pasa por cinco compuertas. Basta con que una esté cerrada para que todo el flujo se detenga.",
+      "nos": [
+        {
+          "icone": "relogio",
+          "titulo": "¿Es urgente?",
+          "sub": "duele ahora o después",
+          "forte": true,
+          "detalhe": "Prueba: \"¿qué cambia si esto sigue igual durante seis meses más?\". Sin consecuencia, no hay decisión."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "¿Existe solución?",
+          "sub": "esto se puede resolver",
+          "detalhe": "Prueba: \"¿has visto a alguien resolver esto? ¿Qué te hace pensar que se puede o que no se puede?\"."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "¿Confío en él?",
+          "sub": "cumple lo que promete",
+          "forte": true,
+          "detalhe": "Prueba: \"¿qué necesitarías ver para sentirte tranquilo de empezar conmigo?\". Es la compuerta que Profesional 2030 trabaja todo el tiempo: decir lo que sabes y lo que no sabes hacer."
+        },
+        {
+          "icone": "grafico",
+          "titulo": "¿Es mejor?",
+          "sub": "supera lo que ya tenemos",
+          "detalhe": "Prueba: \"¿qué resultado tendría que cambiar para que valga la pena reemplazar lo que existe hoy?\"."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "¿Cabe?",
+          "sub": "presupuesto y tiempo",
+          "detalhe": "Prueba: \"además del valor, ¿qué más tiene que estar listo para empezar el mes que viene?\"."
+        }
+      ],
+      "legenda": "\"Está caro\" casi siempre es la compuerta de la urgencia o la de la confianza trabada, no la del presupuesto. Insistir en la última es discutir el síntoma."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Tres etapas, tres roles",
+      "sub": "No cambias de personalidad: cambias de función.",
+      "passos": [
+        {
+          "titulo": "Parte alta · profesor",
+          "sub": "\"algo aquí no va bien\"",
+          "texto": [
+            "La persona sabe que algo la incomoda, pero no sabe nombrarlo ni que existe una solución. Valida la incomodidad, explica las causas posibles, muestra que el problema tiene nombre.",
+            "No vendas nada. Quien intenta cerrar aquí parece oportunista."
+          ]
+        },
+        {
+          "titulo": "Parte media · consejero",
+          "sub": "\"¿cómo resuelvo esto?\"",
+          "texto": [
+            "Ya entendió el problema y compara caminos y proveedores. Diferénciate por tu comprensión del problema, no por la lista de funciones.",
+            "Es donde más pesan la curiosidad, la autenticidad y la escucha."
+          ]
+        },
+        {
+          "titulo": "Parte baja · quien acompaña",
+          "sub": "\"con quién y cuándo\"",
+          "texto": [
+            "Ya decidió. El trabajo ahora es quitar fricción: plazos, etapas, quién participa, cómo empieza. Facilita; no vuelvas a vender.",
+            "En Profesional 2030 es aquí donde entra el acompañamiento: quien conduce la implementación junto con los gestores, no quien entrega y desaparece."
+          ]
+        },
+        {
+          "titulo": "Los dos errores clásicos",
+          "sub": "vender temprano, enseñar tarde",
+          "texto": [
+            "Vender en la parte alta: la persona todavía está entendiendo el problema y tú ya mandaste el presupuesto. Ella retrocede.",
+            "Enseñar en la parte baja: la persona quiere empezar y tú le das una clase de veinte minutos. Se enfría y el tema vuelve a la cola."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "La matriz que revela la etapa",
+      "sub": "La calidad de la respuesta, no el contenido, dice dónde está la persona.",
+      "passos": [
+        {
+          "titulo": "\"¿Qué te hizo buscar esto ahora?\"",
+          "sub": "detonante",
+          "texto": [
+            "Responde bien: tiene un detonante concreto, ya está al menos en la parte media del embudo. Se traba (\"solo estoy mirando\"): parte alta."
+          ]
+        },
+        {
+          "titulo": "\"¿Qué números te gustaría ver cambiar?\"",
+          "sub": "indicador",
+          "texto": [
+            "Cita indicador y meta: parte media o baja. \"Nunca medí eso\": parte alta, y acabas de encontrar el próximo tema."
+          ]
+        },
+        {
+          "titulo": "\"¿Y si empezamos 30 días después?\"",
+          "sub": "urgencia",
+          "texto": [
+            "Describe la consecuencia en detalle: parte baja del embudo. \"No sé, creo que nada\": no hay urgencia. Vuelve a la primera compuerta."
+          ]
+        },
+        {
+          "titulo": "\"¿Quién más necesita estar de acuerdo?\"",
+          "sub": "decisión",
+          "texto": [
+            "Nombra personas y roles: parte baja del embudo. Evasiva: o no es quien decide, o todavía no lo ha pensado.",
+            "Casi todos los que \"piden el precio de inmediato\" están, en realidad, en la parte alta del embudo."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Transformación y descalificación",
+      "sub": "Qué vender y de quién despedirse.",
+      "passos": [
+        {
+          "titulo": "Vende la transformación",
+          "sub": "la prueba de los dos retratos",
+          "texto": [
+            "Nadie sueña con un flujo automatizado; las personas sueñan con la vida que hay del otro lado. Habla del estado actual y del estado deseado, con plazo y con su lenguaje.",
+            "Antes de proponer, escribe dos frases: cómo es su día hoy y cómo será después. Si no puedes, el diagnóstico fue superficial."
+          ]
+        },
+        {
+          "titulo": "Señales de que no es para ahora",
+          "sub": "descalificar es respeto",
+          "texto": [
+            "Rechaza cualquier conversación y solo quiere la propuesta, incluso después de que se lo expliques. No sabe decir qué cambia si no se hace nada. Empuja la fecha dos, tres veces.",
+            "Quiere el servicio por un valor tan bajo que solo saldría con mala calidad."
+          ],
+          "exemplo": {
+            "rot": "Cómo salir sin quemar el puente",
+            "texto": "Por lo que me contaste, creo que todavía no es el momento, y no me sentiría bien cobrando por algo que no va a rendir ahora. Cuando suceda eso que mencionaste, escríbeme y retomamos."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Media hora antes de la conversación: un dossier que no inventa hechos.",
+      "blocos": [
+        {
+          "rot": "Prompt · dossier de pre-conversación",
+          "icone": "lupa",
+          "conteudo": "Eres mi analista de pre-conversación comercial. Voy a hablar con una empresa dentro de poco.\nEMPRESA: <nombre> — <sitio web, si hay>\nSECTOR: <ej.: logística de última milla>\nTAMAÑO APROXIMADO: <ej.: 30 empleados>\nLO QUE VENDO: <una frase: diagnóstico, revisión, mentoría o formación en IA>\nEntrégame, en español neutro de Latinoamérica:\n1. RESUMEN en 5 líneas de lo que probablemente hace esa empresa y cómo gana dinero.\n   Marca claramente con [SUPOSICIÓN] todo lo que sea inferencia tuya.\n2. CINCO HIPÓTESIS DE DOLOR típicas de ese sector y tamaño, de la más probable a la menos probable.\n3. Para cada hipótesis, UNA pregunta de raíz que la ponga a prueba sin parecer un estudio de mercado.\n4. TRES cosas que NO debo decir en esa conversación (jerga o promesa que suena vacía).\n5. Una frase de apertura, en el vocabulario de quienes trabajan en ese sector.\nNunca inventes números, clientes ni hechos específicos sobre la empresa. Si no lo sabes, escribe\n\"no sé — pregunta en la conversación\"."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Prepara una conversación y ubica al cliente en ella.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Dossier de pre-conversación",
+          "min": "20 min",
+          "texto": "Ejecuta el dossier para la próxima empresa con la que vas a conversar (o para una empresa real de tu nicho). Verifica cada afirmación factual.",
+          "pronto": "toda afirmación sobre la empresa está marcada como [SUPOSICIÓN] o \"no sé — pregunta en la conversación\", y descartaste cualquier número sin fuente."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · La matriz en una conversación",
+          "min": "15 min",
+          "texto": "Usa al menos dos preguntas de la matriz en una conversación real. Al colgar, anota la etapa de la persona y la frase que la reveló.",
+          "pronto": "tienes anotadas la etapa (parte alta, media o baja del embudo), la frase literal que la reveló y la compuerta que parece trabada."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "Preguntas \"¿qué pasa si empezamos 30 días después?\" y escuchas \"no sé, creo que nada\". ¿Qué indica eso?",
+          "opcoes": [
+            "Que está en la parte baja del embudo y es hora de enviar la propuesta",
+            "Que no existe urgencia: vuelve a investigar la consecuencia de no actuar",
+            "Que el precio es el único obstáculo y vale la pena ofrecer descuento"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Sin consecuencia no hay decisión. La compuerta cerrada es la de la urgencia, y el descuento no abre esa compuerta."
+        },
+        {
+          "p": "El cliente dice \"está caro\". ¿Qué compuerta suele estar trabada?",
+          "opcoes": [
+            "Siempre la del presupuesto",
+            "Casi siempre la de la urgencia o la de la confianza",
+            "La de la existencia de una solución"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Cuando duele poco o no confía, cualquier precio parece alto. Discutir el valor es tratar el síntoma."
+        },
+        {
+          "p": "En la parte baja del embudo, ¿cuál es tu papel?",
+          "opcoes": [
+            "Profesor: explicar las causas del problema",
+            "Quien facilita y acompaña la implementación: plazos, etapas, quién participa",
+            "Vendedor: reforzar los beneficios una vez más"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Ya decidió. Enseñar o vender de nuevo enfría la decisión; quitar fricción y acordar cómo empieza es lo que necesita."
+        },
+        {
+          "p": "El dossier de pre-conversación trajo una facturación exacta de la empresa, sin fuente. ¿Qué hacer?",
+          "opcoes": [
+            "Usar en la conversación para impresionar",
+            "Descartar el fragmento: un dato equivocado cuesta más caro que llegar sin datos",
+            "Pedirle al modelo que lo confirme"
+          ],
+          "certa": 1,
+          "ref": "codigo",
+          "explica": "La regla del dossier es no inventar hechos. Un número sin fuente es una suposición, y citar una suposición como hecho derriba la compuerta de la confianza."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Tres etapas, tres roles",
+          "texto": "Profesor en la parte alta, consejero en la media, quien acompaña en la baja."
+        },
+        {
+          "t": "La compra es una cascada",
+          "texto": "Una compuerta cerrada traba todo, y casi nunca es la del precio."
+        },
+        {
+          "t": "La respuesta revela la etapa",
+          "texto": "Usa la matriz en los primeros minutos."
+        },
+        {
+          "t": "Descalificar es respeto",
+          "texto": "Quien hoy no es cliente puede convertirse en una recomendación mañana."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "slug": "preco-processo",
+  "num": 8,
+  "menu": "Proceso",
+  "titulo": "Precio, objeciones y el motor del proceso",
+  "titulo_curto": "Precio y proceso",
+  "minutos": 20,
+  "lead": "La última clase cierra el ciclo: qué decir cuando piden precio antes de tiempo, por qué quien más regatea suele ser el peor cliente, cómo cambia la objeción según la etapa y qué números de tu proceso convierten la suerte en método. Y el trabajo que empieza después de la firma: el acompañamiento.",
+  "objetivo": "responder al precio temprano, ceder alcance y no precio, y medir los 4 números del proceso para atacar un paso a la vez.",
+  "competencias": [
+    "responder-preco-cedo",
+    "negociar-escopo",
+    "medir-processo-comercial"
+  ],
+  "aprende": [
+    {
+      "t": "\"¿Cuánto cuesta?\" demasiado pronto y el rango que devuelve la conversación"
+    },
+    {
+      "t": "Ceder alcance, nunca solo precio"
+    },
+    {
+      "t": "El trabajo que empieza después de la firma"
+    },
+    {
+      "t": "Los cuatro números del proceso y tu plan con fecha"
+    }
+  ],
+  "hero_alt": "Mesa de trabajo con un cuaderno abierto que muestra un embudo dibujado a mano, una calculadora y una taza.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "El motor del proceso",
+      "sub": "Cuatro pasos y lo que viene después. Haz clic en cada etapa.",
+      "nos": [
+        {
+          "icone": "chat",
+          "titulo": "Conversaciones",
+          "sub": "cuántas inicio",
+          "detalhe": "Cuántas conversaciones inicias por semana. Es la entrada del motor."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Diagnósticos",
+          "sub": "cuántas se vuelven investigación",
+          "detalhe": "Cuántas se vuelven un diagnóstico de verdad: con raíz, número y próximo paso."
+        },
+        {
+          "icone": "arquivo",
+          "titulo": "Propuestas",
+          "sub": "presentadas en vivo",
+          "detalhe": "Cuántas se vuelven una propuesta presentada, no enviada por escrito y olvidada."
+        },
+        {
+          "icone": "check",
+          "titulo": "Cerrados",
+          "sub": "tasa de cierre",
+          "forte": true,
+          "detalhe": "Cuántas cierran. Divide entre la primera y tendrás tu tasa de cierre. El cuello de botella está en el paso más estrecho, y solo ese vale la pena atacar cada vez."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Acompañamiento",
+          "sub": "después de la firma",
+          "detalhe": "Cerrar es la parte divertida; el trabajo empieza después. Un cliente mantenido cuesta mucho menos que un cliente nuevo, y un cliente satisfecho recomienda: quien llega por recomendación entra por la parte baja del embudo."
+        }
+      ],
+      "legenda": "Mira los porcentajes entre las cajas, no los totales. La etapa con el paso más bajo es donde trabajas este mes.",
+      "dica": "Una hoja de cálculo de cinco columnas basta. Empieza midiendo, aunque sea en papel."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Precio sin volverse commodity",
+      "sub": "Commodity es que te elijan solo por el precio. La tabla de precios está en los cursos 2 y 4; aquí está la conversación.",
+      "passos": [
+        {
+          "titulo": "\"¿Cuánto cuesta?\" temprano",
+          "sub": "la pregunta detrás",
+          "texto": [
+            "Al final de la conversación, es una señal de compra: responde directo. En los dos primeros minutos, es un pedido para convertirte en una línea de comparación.",
+            "Contrapregunta: \"para responderte bien, ¿el precio es lo que va a decidir, o hay otra cosa que pesa?\"."
+          ],
+          "exemplo": {
+            "rot": "Habla con ligereza",
+            "texto": "Podría decirte un millón ahora mismo y terminaríamos aquí, pero verías lo absurdo que sería, porque todavía no sé qué está pasando de tu lado. Déjame entender primero el problema."
+          }
+        },
+        {
+          "titulo": "El rango honesto",
+          "sub": "lo que mueve el número",
+          "texto": [
+            "Da un rango amplio y explica qué hace que el número suba o baje: alcance (cuántos procesos entran), integración (con cuántos sistemas se conecta) y acompañamiento (por cuánto tiempo me quedo contigo).",
+            "\"Hay clientes que gastan US$ 40 y hay clientes que gastan US$ 40 mil\" es verdad y devuelve la conversación al problema (valores ilustrativos: adapta a tu mercado)."
+          ]
+        },
+        {
+          "titulo": "Quien regatea demasiado",
+          "sub": "el adelanto de la relación",
+          "texto": [
+            "Negociación legítima: \"está por encima de lo que puedo ahora, ¿podemos empezar con una parte menor?\". Reduce el alcance, no el precio por el mismo trabajo.",
+            "Si cedes en el precio, cede también en el alcance. Un descuento sin más enseña que tu número estaba inflado."
+          ]
+        },
+        {
+          "titulo": "Objeción por etapa",
+          "sub": "el mismo \"está caro\"",
+          "texto": [
+            "Parte alta: miedo a equivocarse, enseña. Parte media: comparación, diferénciate por el entendimiento y por lo que no haces. Parte baja: momento, reduce el alcance o agenda un inicio futuro con fecha.",
+            "Pregunta que separa: \"¿caro en relación con el presupuesto, o con lo que crees que esto va a rendir?\". Objeciones básicas: curso 3."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Después de la firma y tu copiloto",
+      "sub": "Dónde nace el acompañamiento mensual y dónde ayuda la IA.",
+      "passos": [
+        {
+          "titulo": "La primera semana",
+          "sub": "define la percepción",
+          "texto": [
+            "Acuerda el inicio con una fecha, envía lo que quedó acordado y haz una pequeña entrega visible desde el comienzo. Cliente nuevo es cliente inseguro.",
+            "\"Lo recibí, lo reviso hoy y te respondo mañana\" resuelve buena parte de la ansiedad."
+          ]
+        },
+        {
+          "titulo": "Acompañamiento mensual",
+          "sub": "la base que se renueva",
+          "texto": [
+            "Mantener exige entrega y comunicación; conquistar desde cero exige prospección. La segunda cuenta siempre es más cara.",
+            "Después de la mentoría de 90 días, el acompañamiento mensual mantiene el indicador revisado y la confianza viva."
+          ]
+        },
+        {
+          "titulo": "Automatiza el aviso, nunca la entrega",
+          "sub": "el límite",
+          "texto": [
+            "Una respuesta automática \"lo recibí, respondo mañana\" es útil. Una entrega hecha en automático, sin nadie mirando, es el comienzo de un cliente perdido."
+          ]
+        },
+        {
+          "titulo": "Tu copiloto de ventas",
+          "sub": "lo que la IA hace y lo que no hace",
+          "texto": [
+            "Ayuda mucho: investigación previa a la conversación, guiones por sector, simulación de cliente difícil, análisis de las anotaciones y del embudo.",
+            "No te reemplaza: percibir el cambio de tono, esperar tres segundos más en silencio, asumir un límite de tu servicio frente al cliente."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Encuentra el cuello de botella y sal con un único experimento.",
+      "blocos": [
+        {
+          "rot": "Prompt · auditoría de tu proceso comercial",
+          "icone": "grafico",
+          "conteudo": "Eres mi auditor de proceso comercial. Sé específico y evita consejos genéricos.\nMIS NÚMEROS DEL ÚLTIMO MES\n- Conversaciones iniciadas: <n>\n- Se convirtieron en diagnóstico de verdad: <n>\n- Se convirtieron en propuesta presentada en vivo: <n>\n- Cerradas: <n>\n- Ticket promedio: <valor>\nCÓMO TRABAJO HOY\n- Apertura: <lo que hago en los primeros minutos>\n- Preguntas de raíz que suelo hacer: <lista>\n- Cómo hablo de precio: <describe>\n- Cómo termino las conversaciones: <describe>\nEntrega:\n1. Dónde está el MAYOR cuello de botella, con la cuenta que respalda esa conclusión.\n2. Las tres causas más probables de ese cuello de botella, ligadas a lo que describí arriba.\n3. UN experimento para las próximas 2 semanas: qué cambiar, en qué etapa,\n   y qué número tiene que moverse para decir que funcionó.\n4. Qué NO debo tocar ahora, para no confundir los resultados."
+        }
+      ]
+    },
+    {
+      "tipo": "mapa",
+      "titulo": "El mapa del curso",
+      "sub": "Las cuatro entregas de la conversación completa. Haz clic en un ejercicio para ver el \"listo cuando\".",
+      "degraus": [
+        {
+          "aula": "duas-orelhas",
+          "icone": "chat",
+          "quando": "Semana 1",
+          "titulo": "Escuchar",
+          "sub": "Tres niveles y sintonía",
+          "saida": "Tres frases literales y el entrenamiento de escucha.",
+          "passo": "La base de todo: el cliente habla la mayor parte del tiempo y tú sales con sus palabras."
+        },
+        {
+          "aula": "diagnostico",
+          "icone": "lupa",
+          "quando": "Semana 2",
+          "titulo": "Diagnosticar",
+          "sub": "Humo, fuego y número",
+          "saida": "Guion de una página y la conversación simulada.",
+          "passo": "Requiere la escucha. Cinco hitos, preguntas de raíz y el dolor en número dicho por él."
+        },
+        {
+          "aula": "sinais-energia",
+          "icone": "cerebro",
+          "quando": "Semana 3",
+          "titulo": "Leer la sala",
+          "sub": "Señales y sesgos",
+          "saida": "Lectura de las cinco señales con cita.",
+          "passo": "Requiere el diagnóstico. Lee la voz, los verbos y la resistencia, y usa los sesgos solo con hechos (clase 6)."
+        },
+        {
+          "aula": "fechamento",
+          "icone": "calendario",
+          "quando": "Semana 4",
+          "titulo": "Cerrar el acompañamiento",
+          "sub": "Tres pasos y la fecha",
+          "saida": "Frase de cierre con indicador y revisión.",
+          "passo": "Requiere las tres anteriores: recapitular, conectar con el objetivo y conducir hasta la mentoría de 90 días."
+        }
+      ],
+      "resultado": {
+        "titulo": "Al final del curso",
+        "texto": "Tú escuchas, diagnosticas con número, lees la sala y cierras un acompañamiento con indicador y fecha de revisión.",
+        "total": "16 ejercicios"
+      },
+      "legenda": "La venta serena (clase 1), la etapa de la decisión (clase 4), los sesgos (clase 6) y el proceso (clase 8) entran en el plan generado abajo."
+    },
+    {
+      "tipo": "gerador",
+      "titulo": "Genera tu plan con fechas",
+      "sub": "Elige la fecha de inicio y cuánto tiempo tienes por semana. El plan incluye los 16 ejercicios del curso.",
+      "curso": "Ventas con IA 5 · Masterclass: la venta serena",
+      "horas_padrao": 5,
+      "degraus": [
+        {
+          "titulo": "Clase 1 · Venta serena",
+          "aula": "venda-calma"
+        },
+        {
+          "titulo": "Clase 2 · Dos orejas, una boca",
+          "aula": "duas-orelhas"
+        },
+        {
+          "titulo": "Clase 3 · Conversación de diagnóstico",
+          "aula": "diagnostico"
+        },
+        {
+          "titulo": "Clase 4 · Etapa de la decisión",
+          "aula": "estagio-decisao"
+        },
+        {
+          "titulo": "Clase 5 · Cinco señales de energía",
+          "aula": "sinais-energia"
+        },
+        {
+          "titulo": "Clase 6 · Tres sesgos",
+          "aula": "tres-vieses"
+        },
+        {
+          "titulo": "Clase 7 · Cierre en 3 pasos",
+          "aula": "fechamento"
+        },
+        {
+          "titulo": "Clase 8 · Precio y proceso",
+          "aula": "preco-processo"
+        }
+      ],
+      "txt": {
+        "titulo": "Plan — Ventas con IA 5 · Masterclass: la venta serena",
+        "inicio": "Inicio",
+        "ritmo": "Ritmo",
+        "termino": "Término previsto",
+        "ate": "hasta",
+        "pronto": "listo cuando",
+        "semanas": "semanas",
+        "travou": "## Lo que se trabó y la regla que creé",
+        "h": "h por semana",
+        "exs": "ejercicios"
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Cierra el curso con tus números y tu plan.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Los cuatro números",
+          "min": "30 min",
+          "texto": "Anota los cuatro números del último mes (conversaciones, diagnósticos, propuestas presentadas, cerrados) y ejecuta el prompt de la auditoría.",
+          "pronto": "tienes los 4 números, el paso más estrecho señalado con la cuenta y 1 único experimento para las próximas 2 semanas, con el número que necesita moverse."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Plan con fechas",
+          "min": "15 min",
+          "texto": "Usa el generador de arriba con tu fecha de inicio y tu tiempo por semana. Guarda el plano.md e importa el .ics en el calendario.",
+          "pronto": "el plan con fechas está guardado y los ejercicios aparecen en tu calendario."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "El cliente pide un descuento del 30% por el mismo trabajo. ¿Cuál es la mejor respuesta?",
+          "opcoes": [
+            "Dar el descuento para no perder la oportunidad",
+            "Reducir el alcance proporcionalmente y proponer empezar por una parte menor",
+            "Mantener el precio y terminar la conversación"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Cede alcance, nunca solo precio. El descuento puro enseña que el número estaba inflado, y la próxima conversación empieza desde el nuevo nivel."
+        },
+        {
+          "p": "En los primeros dos minutos, el cliente pregunta \"¿cuánto cuesta?\". ¿Qué suele significar eso?",
+          "opcoes": [
+            "Que ya decidió comprar",
+            "Que quiere convertirte en una línea de comparación de precios",
+            "Que no tiene presupuesto"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Al final de la conversación la pregunta es señal de compra; al principio es un pedido de referencia. Respóndele con un rango honesto y vuelve al problema."
+        },
+        {
+          "p": "Tu embudo: 20 conversaciones, 15 diagnósticos, 4 propuestas, 3 cerrados. ¿Dónde trabajar este mes?",
+          "opcoes": [
+            "Iniciar más conversaciones",
+            "En el paso del diagnóstico a la propuesta, el más estrecho",
+            "En el cierre"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Mira los porcentajes entre las cajas: 75%, 27% y 75%. El paso más estrecho es el único que vale la pena atacar a la vez."
+        },
+        {
+          "p": "¿Por qué importa tanto el acompañamiento después de la firma?",
+          "opcoes": [
+            "Porque un cliente que se mantiene cuesta menos que uno nuevo, y un cliente satisfecho recomienda",
+            "Porque el contrato lo obliga",
+            "No importa: el trabajo de ventas termina con la firma"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "Quien llega por recomendación ya viene con confianza prestada y entra por la parte baja del embudo. Es también lo que vende el Profesional 2030: acompañar."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "El precio temprano es un pedido de referencia",
+          "texto": "Respóndele con un rango honesto y vuelve al problema."
+        },
+        {
+          "t": "Cede alcance, nunca solo precio",
+          "texto": "El descuento puro enseña que el número estaba inflado."
+        },
+        {
+          "t": "Mide cuatro números",
+          "texto": "Ataca solo el paso más estrecho a la vez."
+        },
+        {
+          "t": "El curso en una línea",
+          "texto": "Curioso antes que convincente, escucha, encuentra la raíz en número, lee la sala, recapitula, conecta, conduce, y nunca te vayas sin una fecha."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "Curso 2 · Playbook de Consultoría (escalera de precios y menú)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-consultoria-v72/"
+        },
+        {
+          "t": "Curso 4 · De Cero al Primer Cliente (rangos por servicio)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/"
+        },
+        {
+          "t": "Curso 3 · Fundamentos (cerrar sin forzar y objeciones)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-fundamentos-v72/"
+        },
+        {
+          "t": "Continúa en Profesional 2030: formación Mentor",
+          "href": "https://inematds.github.io/prof2030-mentor/"
+        },
+        {
+          "t": "Área Profesional 2030: los cuatro roles",
+          "href": "https://eventos.inema.pro/prof2030/"
+        }
+      ]
+    }
+  ]
+}

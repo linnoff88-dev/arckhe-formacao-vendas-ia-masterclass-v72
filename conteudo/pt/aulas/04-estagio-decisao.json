@@ -1,0 +1,127 @@
+{
+  "slug": "estagio-decisao",
+  "num": 4,
+  "menu": "Decisão",
+  "titulo": "Onde o cliente está na decisão",
+  "titulo_curto": "Estágio da decisão",
+  "minutos": 18,
+  "lead": "Falar a mesma coisa para quem está começando a perceber o problema e para quem já vai assinar é o erro mais caro do processo. Aqui você localiza a pessoa em minutos, muda o seu papel de acordo, testa as cinco comportas da decisão e desqualifica quem não é cliente sem sentir culpa.",
+  "objetivo": "localizar o cliente em topo, meio ou fundo, testar as 5 comportas da decisão e desqualificar sem culpa quem não é para agora.",
+  "competencias": ["identificar-estagio-de-decisao", "testar-comportas-de-decisao", "desqualificar-sem-culpa"],
+  "aprende": [
+    {"t": "Topo, meio e fundo, e o seu papel em cada um"},
+    {"t": "A cascata das cinco comportas da decisão"},
+    {"t": "A matriz de perguntas que revela o estágio"},
+    {"t": "Preparar a conversa com IA sem inventar fato"}
+  ],
+  "hero_alt": "Mesa vista de cima com três colunas de fichas de papel em branco e uma mão movendo uma ficha.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "A cascata de decisão",
+      "sub": "Toda compra passa por cinco comportas. Basta uma fechada para o fluxo inteiro parar.",
+      "nos": [
+        {"icone": "relogio", "titulo": "É urgente?", "sub": "dói agora ou depois", "forte": true,
+         "detalhe": "Teste: \"o que muda se isso continuar do jeito que está por mais seis meses?\". Sem consequência, não há decisão."},
+        {"icone": "lupa", "titulo": "Existe solução?", "sub": "isso é resolvível",
+         "detalhe": "Teste: \"você já viu alguém resolver isso? O que te faz achar que dá ou não dá?\"."},
+        {"icone": "escudo", "titulo": "Confio nele?", "sub": "entrega o que diz", "forte": true,
+         "detalhe": "Teste: \"o que você precisaria ver para ficar tranquilo de começar comigo?\". É a comporta que o Profissional 2030 trabalha o tempo todo: dizer o que sabe e o que não sabe fazer."},
+        {"icone": "grafico", "titulo": "É melhor?", "sub": "supera o que já temos",
+         "detalhe": "Teste: \"que resultado precisaria mudar para valer a pena trocar o que existe hoje?\"."},
+        {"icone": "calendario", "titulo": "Cabe?", "sub": "orçamento e tempo",
+         "detalhe": "Teste: \"além do valor, o que mais precisa estar de pé para começar no mês que vem?\"."}
+      ],
+      "legenda": "\"Está caro\" quase sempre é a comporta da urgência ou a da confiança travada, não a do orçamento. Insistir na última é discutir o sintoma."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Três estágios, três papéis",
+      "sub": "Você não muda de personalidade: muda de função.",
+      "passos": [
+        {"titulo": "Topo · professor", "sub": "\"algo aqui não vai bem\"",
+         "texto": ["A pessoa sabe que algo incomoda, mas não sabe nomear nem que existe solução. Valide o incômodo, explique as causas possíveis, mostre que o problema tem nome.", "Não venda nada. Quem tenta fechar aqui parece oportunista."]},
+        {"titulo": "Meio · conselheiro", "sub": "\"como resolvo isso?\"",
+         "texto": ["Ela entendeu o problema e compara caminhos e fornecedores. Diferencie-se pelo entendimento do problema, não pela lista de recursos.", "É onde curiosidade, autenticidade e escuta pesam mais."]},
+        {"titulo": "Fundo · quem acompanha", "sub": "\"com quem e quando\"",
+         "texto": ["Ela já decidiu. O trabalho agora é remover atrito: prazos, etapas, quem participa, como começa. Facilite; não venda de novo.", "No Profissional 2030 é aqui que entra o acompanhamento: quem conduz a implantação junto com os gestores, não quem entrega e some."]},
+        {"titulo": "Os dois erros clássicos", "sub": "vender cedo, ensinar tarde",
+         "texto": ["Vender no topo: ela ainda está entendendo o problema e você já mandou o orçamento. Ela recua.", "Ensinar no fundo: ela quer começar e você dá uma aula de vinte minutos. Ela esfria e o assunto volta para a fila."]}
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "A matriz que revela o estágio",
+      "sub": "A qualidade da resposta, não o conteúdo, diz onde a pessoa está.",
+      "passos": [
+        {"titulo": "\"O que fez você procurar isso agora?\"", "sub": "gatilho",
+         "texto": ["Responde bem: tem um gatilho concreto, já é pelo menos meio de funil. Trava (\"estou só olhando\"): topo."]},
+        {"titulo": "\"Quais números você gostaria de ver mudar?\"", "sub": "indicador",
+         "texto": ["Cita indicador e meta: meio ou fundo. \"Nunca medi isso\": topo, e você acabou de achar o próximo assunto."]},
+        {"titulo": "\"E se começarmos 30 dias depois?\"", "sub": "urgência",
+         "texto": ["Descreve a consequência em detalhe: fundo. \"Não sei, acho que nada\": não há urgência. Volte à primeira comporta."]},
+        {"titulo": "\"Quem mais precisa estar de acordo?\"", "sub": "decisão",
+         "texto": ["Nomeia pessoas e papéis: fundo. Evasiva: ou não é quem decide, ou ainda não pensou nisso.", "Quase todo mundo que \"pede preço logo\" está, na verdade, no topo."]}
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Transformação e desqualificação",
+      "sub": "O que vender e de quem se despedir.",
+      "passos": [
+        {"titulo": "Venda a transformação", "sub": "o teste dos dois retratos",
+         "texto": ["Ninguém sonha com um fluxo automatizado; as pessoas sonham com a vida do outro lado dele. Fale do estado atual e do estado desejado, com prazo e com a linguagem dele.", "Antes de propor, escreva duas frases: como é o dia dele hoje e como será depois. Se não consegue, o diagnóstico foi raso."]},
+        {"titulo": "Sinais de que não é para agora", "sub": "desqualificar é respeito",
+         "texto": ["Recusa qualquer conversa e só quer a proposta, mesmo depois de você explicar. Não sabe dizer o que muda se nada for feito. Empurra a data duas, três vezes.", "Quer o serviço por um valor tão baixo que só sairia com qualidade ruim."],
+         "exemplo": {"rot": "Como sair sem queimar a ponte", "texto": "Pelo que você me contou, acho que ainda não é o momento, e eu não ia me sentir bem cobrando por algo que não vai render agora. Quando aquilo que você citou acontecer, me chama que a gente retoma."}}
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Meia hora antes da conversa: um dossiê que não inventa fato.",
+      "blocos": [
+        {"rot": "Prompt · dossiê de pré-conversa", "icone": "lupa",
+         "conteudo": "Você é meu analista de pré-conversa comercial. Vou falar com uma empresa daqui a pouco.\nEMPRESA: <nome> — <site, se houver>\nSETOR: <ex.: logística de última milha>\nPORTE APROXIMADO: <ex.: 30 funcionários>\nO QUE EU VENDO: <uma frase: diagnóstico, revisão, mentoria ou treinamento de IA>\nMe entregue, em português do Brasil:\n1. RESUMO em 5 linhas do que essa empresa provavelmente faz e como ganha dinheiro.\n   Marque claramente com [SUPOSIÇÃO] tudo o que for inferência sua.\n2. CINCO HIPÓTESES DE DOR típicas desse setor e porte, da mais provável para a menos.\n3. Para cada hipótese, UMA pergunta de raiz que a testa sem parecer pesquisa de mercado.\n4. TRÊS coisas que eu NÃO devo dizer nessa conversa (jargão ou promessa que soa vazia).\n5. Uma frase de abertura, no vocabulário de quem trabalha nesse setor.\nNunca invente número, cliente ou fato específico sobre a empresa. Se não souber, escreva\n\"não sei — pergunte na conversa\"."}
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Prepare uma conversa e localize o cliente nela.",
+      "exercicios": [
+        {"id": "e1", "titulo": "1 · Dossiê de pré-conversa", "min": "20 min",
+         "texto": "Rode o dossiê para a próxima empresa com quem você vai conversar (ou para uma empresa real do seu nicho). Confira cada afirmação factual.",
+         "pronto": "toda afirmação sobre a empresa está marcada como [SUPOSIÇÃO] ou \"não sei — pergunte na conversa\", e você descartou qualquer número sem fonte."},
+        {"id": "e2", "titulo": "2 · A matriz numa conversa", "min": "15 min",
+         "texto": "Use pelo menos duas perguntas da matriz numa conversa real. Ao desligar, anote o estágio da pessoa e a frase que o revelou.",
+         "pronto": "você tem anotados o estágio (topo, meio ou fundo), a frase literal que o revelou e a comporta que parece travada."}
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste rápido",
+      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "perguntas": [
+        {"p": "Você pergunta \"o que acontece se a gente começar 30 dias depois?\" e ouve \"não sei, acho que nada\". O que isso indica?", "opcoes": ["Que ela está no fundo do funil e é hora de mandar a proposta", "Que não existe urgência: volte a investigar a consequência de não agir", "Que o preço é o único obstáculo e vale oferecer desconto"], "certa": 1, "ref": "passos",
+         "explica": "Sem consequência não há decisão. A comporta fechada é a da urgência, e desconto não abre essa comporta."},
+        {"p": "O cliente diz \"está caro\". Qual comporta costuma estar travada?", "opcoes": ["Sempre a do orçamento", "Quase sempre a da urgência ou a da confiança", "A da existência de solução"], "certa": 1, "ref": "diagrama",
+         "explica": "Quando dói pouco ou ele não confia, qualquer preço parece alto. Discutir valor é tratar o sintoma."},
+        {"p": "No fundo do funil, qual é o seu papel?", "opcoes": ["Professor: explicar as causas do problema", "Quem facilita e acompanha a implantação: prazos, etapas, quem participa", "Vendedor: reforçar os benefícios mais uma vez"], "certa": 1, "ref": "passos",
+         "explica": "Ela já decidiu. Ensinar ou vender de novo esfria a decisão; remover atrito e combinar como começa é o que ela precisa."},
+        {"p": "O dossiê de pré-conversa trouxe um faturamento exato da empresa, sem fonte. O que fazer?", "opcoes": ["Usar na conversa para impressionar", "Descartar o trecho: dado errado custa mais caro do que chegar sem dado", "Pedir ao modelo para confirmar"], "certa": 1, "ref": "codigo",
+         "explica": "A regra do dossiê é não inventar fato. Número sem fonte é palpite, e citar palpite como fato derruba a comporta da confiança."}
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo",
+      "itens": [
+        {"t": "Três estágios, três papéis", "texto": "Professor no topo, conselheiro no meio, quem acompanha no fundo."},
+        {"t": "A compra é uma cascata", "texto": "Uma comporta fechada trava tudo, e quase nunca é a do preço."},
+        {"t": "A resposta revela o estágio", "texto": "Use a matriz nos primeiros minutos."},
+        {"t": "Desqualificar é respeito", "texto": "Quem não é cliente hoje pode virar indicação amanhã."}
+      ]
+    }
+  ]
+}

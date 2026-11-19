@@ -1,0 +1,242 @@
+{
+  "slug": "duas-orelhas",
+  "num": 2,
+  "menu": "Listening",
+  "titulo": "Two ears, one mouth",
+  "titulo_curto": "Two ears, one mouth",
+  "minutos": 15,
+  "lead": "Listening seems like the easy part, and it is the rarest. This lesson separates three levels of listening, shows the talk ratio that changes the result, and teaches you to build rapport in a few minutes, without forced friendliness and without turning into someone else. Anyone who advises a company for months needs this from the very first minute.",
+  "objetivo": "listen on 3 levels, let the client take up most of the conversation, and build rapport in 2 or 3 minutes, without forcing it.",
+  "competencias": [
+    "escutar-em-tres-niveis",
+    "criar-sintonia",
+    "controlar-proporcao-de-fala"
+  ],
+  "aprende": [
+    {
+      "t": "The talk ratio that decides the conversation"
+    },
+    {
+      "t": "The three levels of listening and how to move up one per conversation"
+    },
+    {
+      "t": "Rapport in two or three minutes, and when to stop"
+    },
+    {
+      "t": "The energy you give off while you read the client"
+    }
+  ],
+  "hero_alt": "Adult man listening carefully in a work conversation, with his hand resting on a notebook.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The three levels of listening",
+      "sub": "From the most common to the rarest. Click each level.",
+      "estilo": "escada",
+      "nos": [
+        {
+          "icone": "chat",
+          "titulo": "Level 1 · words",
+          "sub": "I listen to reply",
+          "detalhe": "You hear the words while you build your answer. Technically you listened; in practice, half your attention was looking for the next argument. It produces polite conversations and lost sales."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Level 2 · meaning",
+          "sub": "I listen to understand",
+          "detalhe": "You chase the meaning: what is this person telling me? The next question comes from the last answer, not from your list. Here the conversation becomes an investigation."
+        },
+        {
+          "icone": "cerebro",
+          "titulo": "Level 3 · energy and silence",
+          "sub": "the unsaid",
+          "forte": true,
+          "detalhe": "You listen to the tone, the pauses, and what was left unsaid. A long pause can mean \"I'm thinking\" or \"I checked out five minutes ago,\" and the right move is the opposite in each case."
+        }
+      ],
+      "legenda": "The easiest level is the most frequent one. Moving up one layer per conversation already changes your month's results.",
+      "dica": "Compare two conversations with the same content: in one you talk 80% of the time and leave with hypotheses; in the other the client talks 80% and you leave with facts they told you themselves."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "How to recognize your level and move up",
+      "sub": "A test for level 1, three moves for level 2, and what level 3 picks up.",
+      "passos": [
+        {
+          "titulo": "You are at level 1",
+          "sub": "when…",
+          "texto": [
+            "You interrupt with \"exactly!\" before the sentence ends. Afterward you remember what you said, not what you heard. You ask the same questions in every conversation.",
+            "Honest test: when you hang up, write down from memory three sentences from the client, in their own words. If only what you said comes out, you stayed at level 1."
+          ]
+        },
+        {
+          "titulo": "The level 2 moves",
+          "sub": "pull the thread, hand it back, ask about the effect",
+          "texto": [
+            "Pull the thread: \"you said this always runs late; how late, usually?\". Hand it back in their words: \"so the bottleneck isn't the order, it's the checking. Is that right?\".",
+            "Ask about the effect: \"and when it runs late, who feels it first?\". The answer reveals who wants this solved the most."
+          ]
+        },
+        {
+          "titulo": "What level 3 picks up",
+          "sub": "and what gets in the way",
+          "texto": [
+            "The voice that drops on a topic, the sentence that starts and never ends, the subject he changes every time you get close.",
+            "What gets in the way: filling every pause, taking so many notes that you stop listening, and interpreting on your own. Confirm with a question, not a guess."
+          ]
+        },
+        {
+          "titulo": "Rapport has a dose",
+          "sub": "two to three minutes",
+          "texto": [
+            "Rapport is the feeling of being in tune. Make a light comment and see if the person gives something back. If they came back with a question, they want to talk; if they answered in one line, they want to work: move on.",
+            "Fake rapport (\"I have one too!\" when you don't) falls apart by the third question and makes the person doubt everything that comes after."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Mirror the pace and manage your own energy",
+      "sub": "While you read the client, they are reading you.",
+      "passos": [
+        {
+          "titulo": "Mirror, don't imitate",
+          "sub": "the other person's pace",
+          "texto": [
+            "Fast, upbeat client: match the energy and keep your questions coming. Reserved client: lower your volume and stretch your pauses. Straight-to-the-point client: cut the small talk down to thirty seconds.",
+            "Manipulation test: if it would still make sense with the client knowing what you are doing, it is not manipulation."
+          ]
+        },
+        {
+          "titulo": "Before",
+          "sub": "decide your goal",
+          "texto": [
+            "Knowing what you want from that conversation removes half the anxiety. Without a goal, you improvise, and improvising sounds like insecurity."
+          ]
+        },
+        {
+          "titulo": "During",
+          "sub": "react later",
+          "texto": [
+            "If the client is curt, take it in stride and hand back a question. And celebrate on the inside: celebrating a yes too much tells them it is rare for you."
+          ]
+        },
+        {
+          "titulo": "After",
+          "sub": "write down what you heard",
+          "texto": [
+            "Write down their phrases, numbers and deadlines, not what you felt. A written phrase becomes a proposal the following week; a feeling disappears in two days."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Template to copy",
+      "sub": "Practice level 2 without spending a real conversation: the AI plays the difficult client.",
+      "blocos": [
+        {
+          "rot": "Prompt · listening practice with a simulated client",
+          "icone": "chat",
+          "conteudo": "You are going to simulate a client so I can practice listening. Rules:\nROLE: you are <owner of a mid-sized trucking company, busy and skeptical>. You have a real problem\nwith <describe in one line, e.g.: rework when checking orders>, but you will NOT hand it over\non a silver platter: answer briefly, mention symptoms and only go deeper if I ask a good question.\nMY TASK: find the root problem and how much it costs, only by asking questions.\nSIMULATION RULES:\n- One line at a time. Never write my lines.\n- If I propose a solution before understanding the problem, resist the way a real client would.\n- If I ask two questions in the same message, answer only the second.\nAT THE END (when I write \"end\"): step out of the role and give me a report with\n(a) what the root problem was that I should have found,\n(b) my questions that worked and why,\n(c) the moments when I spoke when I should have waited,\n(d) a score from 0 to 10 for my listening, and be tough."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "One real conversation and one practice session.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Three verbatim phrases",
+          "min": "10 min",
+          "texto": "In your next work conversation (sales or not), when you hang up, write from memory three phrases the other person said, in their own words, and estimate your share of the talking.",
+          "pronto": "you have 3 phrases from the other person in quotes, with no paraphrasing, and a number for your share of the talking."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Listening practice with AI",
+          "min": "25 min",
+          "texto": "Run the simulated client prompt with the type of company you serve. Lead by only asking questions and write \"end\" when you think you've reached the root.",
+          "pronto": "the final report points out at least 1 moment where you steamrolled; if it only had praise, you redid it asking for harshness."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "The client answered your light question with a short sentence and gave nothing back. What does that indicate?",
+          "opcoes": [
+            "That he didn't like you; it's worth pushing on another personal topic",
+            "That he wants to get to the point; end the small talk and start the investigation",
+            "That the conversation is lost and it's better to reschedule"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Offer the thread and see if they pull it. A short answer is the sign of someone who wants to work: respect that and move on. Pushing the chat feels forced."
+        },
+        {
+          "p": "Which move is typical of listening level 2?",
+          "opcoes": [
+            "Interrupting with \"exactly!\" to show you understood",
+            "Handing it back in their words: \"so the bottleneck is the order check, is that right?\"",
+            "Following the list of questions in the prepared order"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "At level 2 the next question comes from the last answer. Interrupting and following a fixed list are level 1 signs."
+        },
+        {
+          "p": "A long pause from the client in the middle of the conversation. What should you do?",
+          "opcoes": [
+            "Fill it right away, so it doesn't get awkward",
+            "Wait and, if you need to, confirm with a question what it means",
+            "Change the subject"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "A pause can mean \"I'm thinking\" or \"I checked out.\" Filling it erases the signal before you can read it; confirming with a question avoids guessing."
+        },
+        {
+          "p": "Why does celebrating a small yes too much get in the way?",
+          "opcoes": [
+            "Because it signals need: it looks like that is rare for you",
+            "Because the client may ask for a discount",
+            "It doesn't; it shows enthusiasm"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "Too much enthusiasm raises the question \"why is no one else buying?\" A \"great, let's agree on the next steps\" signals routine, and routine puts the buyer at ease."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Whoever talks, guesses",
+          "texto": "The client takes up most of the time; you leave with facts they said themselves."
+        },
+        {
+          "t": "Three levels",
+          "texto": "Answer, understand and listen to the energy. Move up one level per conversation."
+        },
+        {
+          "t": "Rapport has a dose",
+          "texto": "Two to three minutes, and follow the thread only if the person pulls it."
+        },
+        {
+          "t": "You are being read too",
+          "texto": "Too much need pushes people away; ease puts them at ease."
+        }
+      ]
+    }
+  ]
+}

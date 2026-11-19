@@ -1,0 +1,387 @@
+{
+  "slug": "preco-processo",
+  "num": 8,
+  "menu": "Process",
+  "titulo": "Price, objections and the engine of the process",
+  "titulo_curto": "Price and process",
+  "minutos": 20,
+  "lead": "The last lesson closes the cycle: what to say when they ask for the price too early, why the people who haggle the most tend to be the worst clients, how the objection changes with the stage, and which numbers in your process turn luck into method. And the work that starts after the signature: the ongoing advisory.",
+  "objetivo": "answer the price early, give up scope and not price, and measure the 4 numbers of the process so you can attack one step at a time.",
+  "competencias": [
+    "responder-preco-cedo",
+    "negociar-escopo",
+    "medir-processo-comercial"
+  ],
+  "aprende": [
+    {
+      "t": "\"How much does it cost?\" too early, and the range that hands the conversation back"
+    },
+    {
+      "t": "Give up scope, never just price"
+    },
+    {
+      "t": "The work that starts after the signature"
+    },
+    {
+      "t": "The four numbers of the process and your dated plan"
+    }
+  ],
+  "hero_alt": "A work desk with an open notebook showing a hand-drawn funnel, a calculator and a cup.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The engine of the process",
+      "sub": "Four steps and what comes after. Tap each stage.",
+      "nos": [
+        {
+          "icone": "chat",
+          "titulo": "Conversations",
+          "sub": "how many I start",
+          "detalhe": "How many conversations you start per week. This is the engine's input."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Diagnostics",
+          "sub": "how many become an investigation",
+          "detalhe": "How many become a real diagnostic: with a root, a number and a next step."
+        },
+        {
+          "icone": "arquivo",
+          "titulo": "Proposals",
+          "sub": "presented live",
+          "detalhe": "How many become a proposal presented live, not sent in writing and forgotten."
+        },
+        {
+          "icone": "check",
+          "titulo": "Closed",
+          "sub": "closing rate",
+          "forte": true,
+          "detalhe": "How many close. Divide by the first one and you have your closing rate. The bottleneck is in the narrowest step, and that is the only one worth attacking at a time."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Ongoing advisory",
+          "sub": "after the signature",
+          "detalhe": "Closing is the fun part; the work starts after. Keeping a client costs far less than winning a new one, and a satisfied client refers others: whoever arrives by referral enters through the bottom of the pipeline."
+        }
+      ],
+      "legenda": "Look at the percentages between the boxes, not the totals. The stage with the lowest pass-through is where you work this month.",
+      "dica": "A five-column spreadsheet does the job. Start measuring, even if it's on paper."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Price without becoming a commodity",
+      "sub": "A commodity is being chosen on price alone. The price table lives in courses 2 and 4; here the focus is the conversation.",
+      "passos": [
+        {
+          "titulo": "\"How much does it cost?\" early",
+          "sub": "the question behind it",
+          "texto": [
+            "At the end of the conversation, it is a buying signal: answer directly. In the first two minutes, it is a request to turn you into a line in a comparison.",
+            "Counter-question: \"so I can answer you properly, is price what will decide this, or is something else weighing on it?\"."
+          ],
+          "exemplo": {
+            "rot": "Speak lightly",
+            "texto": "I could tell you a million right now and we'd wrap up here, but you'd see how pointless that is, because I still don't know what's going on over there. Let me understand the problem first."
+          }
+        },
+        {
+          "titulo": "The honest range",
+          "sub": "what moves the number",
+          "texto": [
+            "Give a wide range and say what makes the number move: scope (how many processes are included), integration (how many systems it connects to) and ongoing advisory (how long I stay with you).",
+            "\"Some clients spend US$ 40 and some spend US$ 40 thousand\" is true and brings the conversation back to the problem (illustrative values: adapt to your market)."
+          ]
+        },
+        {
+          "titulo": "Who haggles too much",
+          "sub": "a preview of the relationship",
+          "texto": [
+            "Legitimate negotiation: \"that's above what I can do right now, can we start with a smaller part?\". Reduce scope, not the price for the same work.",
+            "If you give in on price, give in on scope too. A pure discount teaches them your number was inflated."
+          ]
+        },
+        {
+          "titulo": "Objection by stage",
+          "sub": "the same \"it's too expensive\"",
+          "texto": [
+            "Top: fear of getting it wrong, teach. Middle: comparison, set yourself apart by your understanding and by what you don't do. Bottom: timing, reduce scope or set a future start with a date.",
+            "The question that separates them: \"Expensive compared to the budget, or to what you think this will return?\". Basic objections: course 3."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "After signing, and your copilot",
+      "sub": "Where monthly advisory begins and where AI helps.",
+      "passos": [
+        {
+          "titulo": "The first week",
+          "sub": "sets the perception",
+          "texto": [
+            "Agree on a start date, send what was agreed and make a small, visible delivery right at the beginning. A new client is an insecure client.",
+            "\"Got it, I'll look at it today and get back to you by tomorrow\" settles a good part of the anxiety."
+          ]
+        },
+        {
+          "titulo": "Monthly advisory",
+          "sub": "the base that renews",
+          "texto": [
+            "Keeping a client takes delivery and communication; winning one from scratch takes prospecting. The second is always more expensive.",
+            "After the 90-day mentorship, monthly advisory keeps the metric reviewed and the trust alive."
+          ]
+        },
+        {
+          "titulo": "Automate the notice, never the delivery",
+          "sub": "the limit",
+          "texto": [
+            "An automatic reply like \"got it, I'll get back to you by tomorrow\" is useful. A delivery done on autopilot, with no one looking at it, is the start of a lost client."
+          ]
+        },
+        {
+          "titulo": "Your sales copilot",
+          "sub": "what AI does and what it doesn't",
+          "texto": [
+            "It helps a lot with: pre-conversation research, scripts by sector, simulating a difficult client, and analyzing your notes and your pipeline.",
+            "It doesn't replace you: noticing a change in tone, waiting three more seconds in silence, admitting a limit of your service in front of the client."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Template to copy",
+      "sub": "Find the bottleneck and leave with a single experiment.",
+      "blocos": [
+        {
+          "rot": "Prompt · audit of your sales process",
+          "icone": "grafico",
+          "conteudo": "You are my sales process auditor. Be specific and avoid generic advice.\nMY NUMBERS FROM LAST MONTH\n- Conversations started: <n>\n- Became a real diagnosis: <n>\n- Became a proposal presented live: <n>\n- Closed: <n>\n- Average ticket: <value>\nHOW I WORK TODAY\n- Opening: <what I do in the first minutes>\n- Root questions I usually ask: <list>\n- How I talk about price: <describe>\n- How I end conversations: <describe>\nDeliver:\n1. Where the BIGGEST bottleneck is, with the math that supports that conclusion.\n2. The three most likely causes of that bottleneck, tied to what I described above.\n3. ONE experiment for the next 2 weeks: what to change, at which stage,\n   and which number has to move to say it worked.\n4. What I should NOT touch right now, so I don't confuse the results."
+        }
+      ]
+    },
+    {
+      "tipo": "mapa",
+      "titulo": "The course map",
+      "sub": "The four deliverables of the whole conversation. Click an exercise to see the \"done when\".",
+      "degraus": [
+        {
+          "aula": "duas-orelhas",
+          "icone": "chat",
+          "quando": "Week 1",
+          "titulo": "Listen",
+          "sub": "Three levels and rapport",
+          "saida": "Three literal phrases and listening practice.",
+          "passo": "The foundation of everything: the client talks most of the time and you leave with their words."
+        },
+        {
+          "aula": "diagnostico",
+          "icone": "lupa",
+          "quando": "Week 2",
+          "titulo": "Diagnose",
+          "sub": "Smoke, fire and the number",
+          "saida": "A one-page script and the simulated conversation.",
+          "passo": "Requires listening. Five milestones, root questions, and the pain as a number stated by them."
+        },
+        {
+          "aula": "sinais-energia",
+          "icone": "cerebro",
+          "quando": "Week 3",
+          "titulo": "Read the room",
+          "sub": "Signals and biases",
+          "saida": "Reading of the five signals with a quote.",
+          "passo": "Requires the diagnosis. Read voice, verbs and resistance, and use biases only with facts (lesson 6)."
+        },
+        {
+          "aula": "fechamento",
+          "icone": "calendario",
+          "quando": "Week 4",
+          "titulo": "Close the ongoing advisory",
+          "sub": "Three steps and the date",
+          "saida": "Closing statement with a metric and a review.",
+          "passo": "Requires the previous three: recap, tie in to the goal and lead to the 90-day mentorship."
+        }
+      ],
+      "resultado": {
+        "titulo": "By the end of the course",
+        "texto": "You listen, diagnose with a number, read the room and close an ongoing advisory with a metric and a review date.",
+        "total": "16 exercises"
+      },
+      "legenda": "Calm sale (lesson 1), decision stage (lesson 4), biases (lesson 6) and process (lesson 8) go into the plan generated below."
+    },
+    {
+      "tipo": "gerador",
+      "titulo": "Generate your plan with dates",
+      "sub": "Choose the start date and how much time you have per week. The plan includes the course's 16 exercises.",
+      "curso": "Selling with AI 5 · Masterclass: the calm sale",
+      "horas_padrao": 5,
+      "degraus": [
+        {
+          "titulo": "Lesson 1 · Calm sale",
+          "aula": "venda-calma"
+        },
+        {
+          "titulo": "Lesson 2 · Two ears, one mouth",
+          "aula": "duas-orelhas"
+        },
+        {
+          "titulo": "Lesson 3 · Diagnostic conversation",
+          "aula": "diagnostico"
+        },
+        {
+          "titulo": "Lesson 4 · Decision stage",
+          "aula": "estagio-decisao"
+        },
+        {
+          "titulo": "Lesson 5 · Five energy signals",
+          "aula": "sinais-energia"
+        },
+        {
+          "titulo": "Lesson 6 · Three biases",
+          "aula": "tres-vieses"
+        },
+        {
+          "titulo": "Lesson 7 · Closing in 3 steps",
+          "aula": "fechamento"
+        },
+        {
+          "titulo": "Lesson 8 · Price and process",
+          "aula": "preco-processo"
+        }
+      ],
+      "txt": {
+        "titulo": "Plan — Selling with AI 5 · Masterclass: the calm sale",
+        "inicio": "Start",
+        "ritmo": "Pace",
+        "termino": "Expected end",
+        "ate": "by",
+        "pronto": "done when",
+        "semanas": "weeks",
+        "travou": "## What got stuck and the rule I created",
+        "h": "h per week",
+        "exs": "exercises"
+      }
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Close the course with your numbers and your plan.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · The four numbers",
+          "min": "30 min",
+          "texto": "Write down the four numbers from the last month (conversations, diagnostics, proposals presented, closed) and run the audit prompt.",
+          "pronto": "you have the 4 numbers, the narrowest point identified with the math, and 1 single experiment for the next 2 weeks, with the number that needs to move."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Dated plan",
+          "min": "15 min",
+          "texto": "Use the generator above with your start date and your time per week. Save the plano.md and import the .ics into your calendar.",
+          "pronto": "the plan with dates is saved and the exercises show up in your calendar."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "The client asks for a 30% discount on the same work. What is the best response?",
+          "opcoes": [
+            "Give the discount so you don't lose the opportunity",
+            "Reduce the scope proportionally and propose starting with a smaller part",
+            "Keep the price and end the conversation"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Give up scope, never just price. A pure discount teaches that the number was inflated, and the next conversation starts from the new level."
+        },
+        {
+          "p": "In the first two minutes, the client asks \"how much does it cost?\" What does that usually mean?",
+          "opcoes": [
+            "That they have already decided to buy",
+            "That they want to turn you into a line in a price comparison",
+            "That they have no budget"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "At the end of the conversation, the question is a buying signal; at the start, it is a request for a reference point. Answer with an honest range and go back to the problem."
+        },
+        {
+          "p": "Your pipeline: 20 conversations, 15 diagnostics, 4 proposals, 3 closed. Where should you work this month?",
+          "opcoes": [
+            "Start more conversations",
+            "On the handoff from diagnostic to proposal, the narrowest one",
+            "On the close"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Look at the percentages between the boxes: 75%, 27% and 75%. The narrowest handoff is the only one worth attacking at a time."
+        },
+        {
+          "p": "Why does ongoing advisory after signing matter so much?",
+          "opcoes": [
+            "Because keeping a client costs less than winning a new one, and a satisfied client refers others",
+            "Because the contract requires it",
+            "It doesn't matter: the sales work ends at signing"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "Someone who comes by referral already arrives with borrowed trust and enters at the bottom of the pipeline. It is also what Professional 2030 sells: ongoing advisory."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "An early price question is a request for a reference point",
+          "texto": "Answer with an honest range and go back to the problem."
+        },
+        {
+          "t": "Give up scope, never just price",
+          "texto": "A pure discount teaches them that the number was inflated."
+        },
+        {
+          "t": "Track four numbers",
+          "texto": "Attack only the narrowest handoff at a time."
+        },
+        {
+          "t": "The course in one line",
+          "texto": "Be curious before convincing, listen, find the root in numbers, read the room, recap, tie in, lead, and never leave without a date."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "Course 2 · Consulting Playbook (price ladder and menu)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-consultoria-v72/"
+        },
+        {
+          "t": "Course 4 · From Zero to First Client (ranges by service)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-primeiro-cliente-v72/"
+        },
+        {
+          "t": "Course 3 · Fundamentals (closing without pushing and objections)",
+          "href": "https://inematds.github.io/formacao-vendas-ia-fundamentos-v72/"
+        },
+        {
+          "t": "Continue in Professional 2030: Mentor program",
+          "href": "https://inematds.github.io/prof2030-mentor/"
+        },
+        {
+          "t": "Professional 2030 Area: the four roles",
+          "href": "https://eventos.inema.pro/prof2030/"
+        }
+      ]
+    }
+  ]
+}

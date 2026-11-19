@@ -1,0 +1,240 @@
+{
+  "slug": "venda-calma",
+  "num": 1,
+  "menu": "Calm sale",
+  "titulo": "The calm sale: the four pillars",
+  "titulo_curto": "Calm sale",
+  "minutos": 15,
+  "lead": "People who understand AI often get stuck in the conversation, not in the technology. This lesson replaces improvising and a memorized script with four pillars that work together: curiosity, authenticity, listening that leads, and a light close. And it shows what you actually sell in the end: trust and ongoing advisory, not the build.",
+  "objetivo": "replace improvising with the 4 pillars of the calm sale and find your own sticking point, selling a service built on trust rather than a build.",
+  "competencias": [
+    "conduzir-conversa-comercial",
+    "diagnosticar-travas-de-venda",
+    "posicionar-servico-de-confianca"
+  ],
+  "aprende": [
+    {
+      "t": "What it means to sell an AI service, and what it doesn't"
+    },
+    {
+      "t": "The five sticking points for sellers, and where each one is tackled"
+    },
+    {
+      "t": "The four pillars: curiosity, authenticity, listening, and a light close"
+    },
+    {
+      "t": "Why, in the end, what you sell is the ongoing advisory"
+    }
+  ],
+  "hero_alt": "A consultant sitting across from the owner of a small shop, leaning in to listen, with coffee cups on the table.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The four pillars of the calm sale",
+      "sub": "Four pillars in sequence and one destination. Click each block.",
+      "nos": [
+        {
+          "icone": "lupa",
+          "titulo": "Curiosity",
+          "sub": "before the pitch",
+          "detalhe": "Understand before you propose. A pitch is the presentation of what you do: it doesn't go away, it just steps aside. If you start with the pitch, you guess; if you start by asking, you collect the material for the proposal."
+        },
+        {
+          "icone": "usuario",
+          "titulo": "Authenticity",
+          "sub": "no character",
+          "detalhe": "Nobody buys from someone who recites features in an artificial tone. A script is a bicycle training wheel: necessary at the start, absorbed through repetition, and the bicycle is your own voice."
+        },
+        {
+          "icone": "chat",
+          "titulo": "Listening that leads",
+          "sub": "whoever talks, guesses",
+          "forte": true,
+          "detalhe": "If you're the one talking, you're guessing what the person needs; if they're talking, they're telling you. You listen, organize, and hand it back with a direction: \"So the problem is X, is that right?\"."
+        },
+        {
+          "icone": "check",
+          "titulo": "Light close",
+          "sub": "almost administrative",
+          "detalhe": "The sale is lost in a poorly done diagnosis, not in the close. When the investigation was good, closing is just agreeing on a date and a way to start."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Ongoing advisory",
+          "sub": "sold as a service",
+          "detalhe": "Selling isn't taking money from someone: it's helping solve a problem. In Professional 2030 this has a name: diagnose, review, follow up, and teach. What the conversation closes is an ongoing advisory with a metric and a date, not a build project."
+        }
+      ],
+      "legenda": "The closing block is the smallest of all. If it seems like the hardest, the problem is in the listening and the diagnosis.",
+      "dica": "Building got easy; whoever sells only the build competes on price. Whoever investigates the problem becomes the only person who understood the company."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "What this course calls selling",
+      "sub": "Three shifts before any technique.",
+      "passos": [
+        {
+          "titulo": "Selling is leading",
+          "sub": "not presenting technology",
+          "texto": [
+            "Selling an AI service is almost never selling technology. It's getting a busy person, who has been let down before, to agree to change one piece of the company's routine.",
+            "Selling is asking questions until the real problem shows up, and leaving every meeting with a next step that has a date."
+          ],
+          "exemplo": {
+            "rot": "Not selling",
+            "texto": "Listing features and waiting for excitement; pulling out a yes with a catchy line; dropping the price until someone accepts. That isn't selling, it's surrender."
+          }
+        },
+        {
+          "titulo": "Inventory of sticking points",
+          "sub": "five sticking points, five addresses",
+          "texto": [
+            "\"I don't know how to show the value\" → diagnosis (lessons 3 and 4). \"I have to become someone else\" → authenticity (this lesson). \"I don't know how to charge\" → pricing (lesson 8).",
+            "\"I already assume they'll say no\" → reading the real signals (lesson 5). \"I feel like I'm pushing\" → agreed next step (lesson 7). None of the five is technical."
+          ]
+        },
+        {
+          "titulo": "Script in three phases",
+          "sub": "training wheel",
+          "texto": [
+            "Conversations 1 to 10: script written out in front of you, no shame in looking at it. Conversations 10 to 30: just the five milestones in your head (open, investigate, size up, recap, agree on the next step).",
+            "After that, it's just conversation. If the script makes you ignore what the person just said, it has become an obstacle: let it go."
+          ]
+        },
+        {
+          "titulo": "Character signals",
+          "sub": "when you are performing",
+          "texto": [
+            "Your voice changes pitch when you get to the price. You use words you would never say to a friend, like \"robust solution\".",
+            "After the conversation you feel relief, not interest. A sign that you performed instead of talking."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "A prompt to practice pillar 1 and the four-week plan.",
+      "blocos": [
+        {
+          "rot": "Prompt · five curious openers",
+          "icone": "chat",
+          "conteudo": "You are my sales conversation coach. I sell <what you sell: AI diagnostic, 90-day mentorship with managers, team training>\nto <type of company: clinic, trucking company, accounting firm...>.\nWrite 5 conversation openers that:\n1. start with a QUESTION about the person's business, never about my service;\n2. use the vocabulary of people who work in that industry, not tech jargon;\n3. fit in two sentences spoken out loud;\n4. naturally lead to a second question — write that second question too.\nThen point out which of the 5 would sound fake if said by someone who has never worked\nin the industry, and rewrite those in an honest way: curious without pretending to have experience."
+        },
+        {
+          "rot": "Four-week plan",
+          "icone": "calendario",
+          "conteudo": "WEEK 1 · pillar 1\nIn every conversation, ask 3 questions before giving any opinion.\nWrite down what came up that you would not have found out otherwise.\n\nWEEK 2 · guilt-free script\nFive milestones on one sheet: open, investigate, size up, recap, agree on the next step.\nUse it in your next two real conversations.\n\nWEEK 3 · talk ratio\nAt the end of each conversation, estimate what % of the time you were talking. Goal: under 30%.\n\nWEEK 4 · next step scheduled\nClose at least one conversation with a date: \"we agreed to talk again on <day>, at <time>\"."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Start with yourself, then with the first sentence of the conversation.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Your sticking point",
+          "min": "10 min",
+          "texto": "Read the five sticking points and pick the one that weighs on you most. Write one sentence about when it showed up in your last sales conversation, and the lesson in this course that tackles it.",
+          "pronto": "you have written down 1 sticking point, 1 real situation where it showed up, and the number of the lesson that will tackle it."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Five curious openers",
+          "min": "20 min",
+          "texto": "Run the five-openers prompt with your service and your type of client. Read all five out loud and cut the ones that sound like an ad voice-over.",
+          "pronto": "at least 3 openers are left that start with a question about the client's business, and none mentions a tool or your service."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "According to the calm sale, where are most sales lost?",
+          "opcoes": [
+            "At the close, for lack of technique when asking for the yes",
+            "At the diagnosis, for not investigating the problem in depth",
+            "On price, because there is always someone cheaper"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "When the investigation was good, closing is almost administrative. The common mistake is studying closing techniques to make up for a shallow diagnosis."
+        },
+        {
+          "p": "What is the written script for in the first conversations?",
+          "opcoes": [
+            "To read out loud so you don't forget anything",
+            "To keep you from forgetting the essential questions while you are still nervous; later it gets absorbed",
+            "To look professional in front of the client"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "A script is a bike's training wheels: required at the start and disposable later. Reading out loud is exactly what turns into a character."
+        },
+        {
+          "p": "Which of these is a truly curious opener?",
+          "opcoes": [
+            "\"We have a robust AI agent solution for your industry.\"",
+            "\"How does that work in there today?\"",
+            "\"I have a clinic too, I know exactly how it is.\" (without having one)"
+          ],
+          "certa": 1,
+          "ref": "codigo",
+          "explica": "The question about today's process gives away the whole operation for free. The first is a pitch; the third is invented experience, which falls apart by the third question."
+        },
+        {
+          "p": "In Professional 2030, what does the sales conversation close at the end?",
+          "opcoes": [
+            "The agent-building project, with a delivery deadline",
+            "An ongoing advisory with a metric and a review date",
+            "A discount to lock in the client"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Building became easy and turns into a price fight. What the company buys is trust: someone who diagnoses, reviews, advises and trains."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Selling is leading a conversation",
+          "texto": "It is not presenting technology; it is investigating until the problem shows up."
+        },
+        {
+          "t": "Four pillars",
+          "texto": "Curiosity before the pitch, authenticity without a persona, listening that leads, and a light close."
+        },
+        {
+          "t": "The script is training wheels",
+          "texto": "Required at the start, absorbed through repetition."
+        },
+        {
+          "t": "The destination is ongoing advisory",
+          "texto": "The calm sale ends in a service built on trust, not in a build project."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Going further",
+      "links": [
+        {
+          "t": "Professional 2030 Area: the four roles",
+          "href": "https://eventos.inema.pro/prof2030/"
+        },
+        {
+          "t": "AI Consulting Area",
+          "href": "https://eventos.inema.pro/consultoria-ia/"
+        }
+      ]
+    }
+  ]
+}

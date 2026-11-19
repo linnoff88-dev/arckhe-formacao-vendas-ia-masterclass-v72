@@ -1,0 +1,217 @@
+{
+  "slug": "sinais-energia",
+  "num": 5,
+  "menu": "Signals",
+  "titulo": "The five energy signals",
+  "titulo_curto": "Five energy signals",
+  "minutos": 17,
+  "lead": "Every conversation carries information that isn't in the words. This lesson teaches you to read five concrete signals (voice, verbs, the way they tell it, resistance, and the speech of someone who has already decided) and what to do with each one the moment it shows up. Reading the other person starts with reading yourself.",
+  "objetivo": "read the voice, the verbs, the way they tell the story, the resistance, and the talk of someone who has already decided, and act when each signal shows up.",
+  "competencias": [
+    "ler-sinais-de-energia",
+    "responder-a-resistencia",
+    "reconhecer-decisao-tomada"
+  ],
+  "aprende": [
+    {
+      "t": "Why reacting on impulse costs the sale"
+    },
+    {
+      "t": "The five signals and what to do with each one"
+    },
+    {
+      "t": "Open resistance with a question, not with a defense"
+    },
+    {
+      "t": "Stop selling when they have already bought"
+    }
+  ],
+  "hero_alt": "Consultant wearing headphones on a video call, eyes closed for a moment, focused on the client's voice.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The five signals",
+      "sub": "On their own, each one can mislead. Together, they almost never miss. Click each signal.",
+      "nos": [
+        {
+          "icone": "megafone",
+          "titulo": "Voice",
+          "sub": "changes before the words do",
+          "detalhe": "Tone dropped: slow down and ask exactly about that point. Tone rose: follow along and go deeper, that's where the desire is. Leaned forward: stop presenting and agree on the next step."
+        },
+        {
+          "icone": "caneta",
+          "titulo": "Verbs",
+          "sub": "the level of commitment",
+          "forte": true,
+          "detalhe": "\"I should\" (outside obligation, almost zero) → \"I need to\" (real motivation) → \"I'll try\" (maybe, a ready-made way out) → \"I will do it\" (commitment). The subject can be the same; the chance of it happening changes."
+        },
+        {
+          "icone": "chat",
+          "titulo": "Story × solution",
+          "sub": "how they tell it",
+          "detalhe": "Story mode (characters, the day it went wrong): they're engaged; answer with a similar case. Solution mode (steps, systems, deadlines): answer with operational clarity and draw out a story."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Resistance",
+          "sub": "\"what if…\", \"we already tried\", \"great, but\"",
+          "detalhe": "None of these is a no. They're all doors, and most people walk right past them by answering the easy part of the sentence. Resistance opens with a question, never with a defense."
+        },
+        {
+          "icone": "check",
+          "titulo": "Already bought",
+          "sub": "stop talking",
+          "detalhe": "\"When this is up and running, can we measure it?\" It sold itself. Answer in one or two sentences and move straight to the next step with two dates."
+        }
+      ],
+      "legenda": "Excited voice with a weak verb: enthusiasm without commitment, urgency is missing. Restrained voice with a strong verb: a decision made quietly, agree on the date.",
+      "dica": "Before the five signals comes you: I notice what I feel → I choose what to do with it → I notice what they feel → I lead the relationship."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The moment the signal appears",
+      "sub": "What to do about the signals that are easiest to miss.",
+      "passos": [
+        {
+          "titulo": "Reacting costs a lot",
+          "sub": "choosing the response",
+          "texto": [
+            "A client may treat you badly for reasons that have nothing to do with you. If you answer in kind, it ends right there.",
+            "If you answer \"I see, tell me more about that,\" you sometimes uncover a big problem hidden behind the rudeness."
+          ]
+        },
+        {
+          "titulo": "Weak verb",
+          "sub": "don't correct, ask",
+          "texto": [
+            "\"You said you should solve this. What would make it a must?\" \"When you say try, what makes you unsure?\"",
+            "Almost always, the answer reveals the hidden objection."
+          ]
+        },
+        {
+          "titulo": "Resistance",
+          "sub": "the door and the question",
+          "texto": [
+            "\"What if it doesn't work in our reality?\" is fear of failing in front of others → \"what would need to happen in the first few weeks for you to feel at ease?\".",
+            "\"Great, but we're different\" means not feeling understood → \"different how, specifically?\"."
+          ]
+        },
+        {
+          "titulo": "Already bought",
+          "sub": "how a won sale gets lost",
+          "texto": [
+            "Stacking three benefits nobody asked for. Raising an objection he hasn't brought up and planting it in his head.",
+            "Talking so much that he starts to wonder what it will be like to work with you every day."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Template to copy",
+      "sub": "Right after the conversation: from your notes to a reading of the five signals.",
+      "blocos": [
+        {
+          "rot": "Prompt · conversation reading",
+          "icone": "cerebro",
+          "conteudo": "You are my analyst of sales conversations. Below are MY NOTES from a\nconversation I just had. Analyze them using five signals: (1) voice and pace, (2) commitment verbs —\nshould / need to / will try / will do, (3) story mode × solution mode,\n(4) resistance patterns, (5) phrases from someone who has already decided.\nNOTES:\n<paste your notes here, with his phrases as literal as you can remember>\nDeliver:\n1. A signal-by-signal reading, quoting the phrase that supports each conclusion.\n   If there is no evidence for a signal, write \"no evidence\" — do not make it up.\n2. What stage of the decision this person is probably in, and why.\n3. Which gate is stuck: urgency, feasibility, trust, comparison or budget.\n4. ONE single recommended action for the next contact, with the phrase ready to use."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "The five-minute habit and the reading it makes possible.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Five minutes of literal phrases",
+          "min": "5 min",
+          "texto": "Right after your next conversation, set aside five minutes to write down literal phrases, not impressions. \"He said: we already tried this and burned money\" is worth more than \"he seemed resistant.\"",
+          "pronto": "you have at least 5 client phrases in quotes and no line of impression without a phrase to back it up."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Reading the five signals",
+          "min": "15 min",
+          "texto": "Paste your notes into the reading prompt. Ignore any conclusion that comes without a quote.",
+          "pronto": "every conclusion in the reading quotes one of your phrases, and you have 1 action with a ready phrase for the next contact."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "The client says: \"once this is up and running, can we measure the results?\" What should you do?",
+          "opcoes": [
+            "Take advantage of the interest and present the other benefits",
+            "Answer in two sentences and tie it to the next step with two dates",
+            "Anticipate the objections he hasn't raised yet"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "That is what someone who has already bought says. From there, the only thing that ruins the sale is to keep talking."
+        },
+        {
+          "p": "Which verb shows the greatest commitment?",
+          "opcoes": [
+            "\"I should\"",
+            "\"I'll try\"",
+            "\"I will do it\""
+          ],
+          "certa": 2,
+          "ref": "diagrama",
+          "explica": "\"Should\" is an outside obligation and \"I'll try\" already comes with the exit built in. \"I will do it\" is commitment."
+        },
+        {
+          "p": "\"We already tried something like that.\" Which response opens up the resistance?",
+          "opcoes": [
+            "\"But with me it's different.\"",
+            "\"Tell me what happened: I want to make sure I don't repeat that.\"",
+            "\"Technology has come a long way today.\""
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "It's an old wound. Countering with an argument shuts the person down; asking shows you listened."
+        },
+        {
+          "p": "Upbeat voice, but the verb is \"I should.\" What does that indicate?",
+          "opcoes": [
+            "Decision made: set the date",
+            "Enthusiasm without commitment: urgency is missing",
+            "Disguised disinterest"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "The signals are read together. High energy with a weak verb calls for going back to the urgency gate, not closing."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Reading the other person starts with you",
+          "texto": "Reacting on impulse is what costs the most sales."
+        },
+        {
+          "t": "Verbs reveal the commitment",
+          "texto": "Should, need to, I'll try, I'll do it."
+        },
+        {
+          "t": "Resistance opens up with a question",
+          "texto": "Never with defense."
+        },
+        {
+          "t": "When they've already bought, stop",
+          "texto": "All that's left is setting the date."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "slug": "tres-vieses",
+  "num": 6,
+  "menu": "Vieses",
+  "titulo": "Três vieses que movem a compra",
+  "titulo_curto": "Três vieses",
+  "minutos": 16,
+  "lead": "Ninguém decide só com planilha. Três atalhos mentais aparecem em quase toda compra: perder dói mais que ganhar, ninguém quer ser o primeiro e o que já foi investido pesa. Você vai reconhecê-los, usá-los só com fatos verdadeiros e saber exatamente onde fica a linha. É aqui que mora a confiança.",
+  "objetivo": "usar aversão à perda, prova social e esforço investido só com fatos verdadeiros e aplicar o teste que separa influência de manipulação.",
+  "competencias": ["usar-vieses-com-etica", "construir-prova-social-honesta", "separar-influencia-de-manipulacao"],
+  "aprende": [
+    {"t": "O que é um viés de decisão e um reenquadre"},
+    {"t": "Aversão à perda, prova social e esforço já investido"},
+    {"t": "Prova social honesta quando você ainda tem poucos clientes"},
+    {"t": "O teste que separa influência de manipulação"}
+  ],
+  "hero_alt": "Dois adultos numa sala de reunião clara comparando duas folhas de papel lado a lado, pensativos.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Três atalhos, uma decisão",
+      "sub": "A decisão é sentida antes e racionalizada depois. Clique em cada atalho.",
+      "nos": [
+        {"icone": "grafico", "titulo": "Perder dói mais", "sub": "aversão à perda",
+         "detalhe": "\"Você vai economizar\" convence menos do que \"você está perdendo\", mesmo com número idêntico. Use os números que ele deu no diagnóstico e a unidade de tempo dele: por semana dói mais do que por ano."},
+        {"icone": "usuario", "titulo": "Ninguém quer ser o primeiro", "sub": "prova social",
+         "detalhe": "As pessoas querem saber que alguém parecido, num problema parecido, já passou por esse caminho. Setor e porte bastam; nome do cliente não é necessário."},
+        {"icone": "relogio", "titulo": "O que já gastei conta", "sub": "esforço investido",
+         "detalhe": "Seis meses tentando resolver internamente pesam na mesa. Reconheça o esforço e faça a pergunta certa: daqui para frente, qual é o melhor caminho?"},
+        {"icone": "check", "titulo": "A decisão", "sub": "sentida antes", "forte": true,
+         "detalhe": "A pessoa vai justificar a decisão com números depois, inclusive para o sócio. Mas o movimento começou em um desses três atalhos."}
+      ],
+      "legenda": "Reenquadrar é dizer o mesmo fato de outro ângulo. \"Economiza dez horas por semana\" e \"perde dez horas por semana\" descrevem a mesma realidade.",
+      "dica": "Trabalhar com vieses não é enganar: é apresentar a informação verdadeira do jeito que a pessoa consegue processar."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Os três, com honestidade",
+      "sub": "Como usar e como cada um sai pela culatra.",
+      "passos": [
+        {"titulo": "Enquadre de perda", "sub": "sem exagerar",
+         "texto": ["Ganho: \"sua proposta sai em três horas em vez de três dias\", verdadeiro e fácil de adiar. Perda: \"cada semana que a proposta leva três dias é mais um cliente que fecha com quem respondeu antes\".", "Nunca invente prazo falso nem escassez artificial."]},
+        {"titulo": "Prova social", "sub": "quando você tem poucos clientes",
+         "texto": ["Um projeto feito sem cobrar, com resultado registrado, é prova legítima, desde que você diga que foi assim. Um padrão observado também vale.", "Anonimize: \"uma clínica odontológica com quatro cadeiras\". Inflar resultado ou inventar cliente funciona até a segunda pergunta."]},
+        {"titulo": "Esforço investido", "sub": "reconhecer, nunca constranger",
+         "texto": ["Uso honesto: \"vocês já colocaram uns seis meses nisso. Quanto mais faz sentido investir antes de trazer alguém que já fez?\".", "Pela culatra: \"vocês desperdiçaram seis meses\", com quem liderou a tentativa na sala. Quem acabou de comprar uma ferramenta vai defendê-la: proponha somar, não trocar."]},
+        {"titulo": "Espalhe, não empilhe", "sub": "três frases, três momentos",
+         "texto": ["Depois do número, nomeie a perda. Diante da hesitação, traga o semelhante. Antes do fechamento, reconheça o esforço.", "As três seguidas soam como argumentação de vendedor. Distribuídas, parecem o que são: observações honestas no momento certo."]}
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "A linha entre influência e manipulação",
+      "sub": "O teste: se o cliente soubesse exatamente o que você está fazendo, continuaria confortável?",
+      "passos": [
+        {"titulo": "Influência", "sub": "o fato é verdadeiro",
+         "texto": ["Usar os números que ele mesmo deu. Citar caso real, anonimizado.", "Dizer o que a solução não faz. É o que o Profissional 2030 chama de confiança: dizer o que sabe e o que não sabe fazer."]},
+        {"titulo": "Manipulação", "sub": "o mesmo mecanismo, fato falso",
+         "texto": ["Prazo e escassez inventados. Número inflado ou cliente fictício.", "Esconder um limite conhecido."]},
+        {"titulo": "Por que a linha é do seu interesse", "sub": "três efeitos",
+         "texto": ["Cliente convencido por pressão cancela, atrasa pagamento e reclama na entrega. Cliente convencido por argumento verdadeiro indica, e indicação chega no fundo do funil.", "E quem vende empurrando passa a odiar vender, e volta à estaca zero da aula 1."]}
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Reenquadre é trabalho de escrita, não de improviso.",
+      "blocos": [
+        {"rot": "Prompt · banco de reenquadres", "icone": "caneta",
+         "conteudo": "Você é meu editor de argumentos comerciais. Vou te dar FATOS. Você só pode usar esses fatos.\nO QUE EU VENDO: <uma frase: diagnóstico, revisão, mentoria ou treinamento de IA>\nCLIENTE TÍPICO: <setor e porte>\nFATOS QUE EU TENHO (não invente nenhum outro):\n- <ex.: em 3 projetos, o tempo de resposta de orçamento caiu de 2 dias para 2 horas>\n- <ex.: nunca atendi esse setor específico>\n- <ex.: meu piloto leva 3 semanas>\nEscreva, em português do Brasil e em tom de conversa:\n1. TRÊS frases de \"custo de continuar como está\", usando números do próprio cliente\n   como variáveis marcadas assim: <número que ele disse>.\n2. TRÊS frases de prova social HONESTAS a partir dos fatos acima, anonimizadas\n   (setor e porte, nunca nome). Se um fato não sustentar prova social, diga isso.\n3. DUAS frases que reconhecem o esforço que a empresa já fez, sem soar condescendente.\n4. Uma lista do que eu NÃO posso afirmar com os fatos que tenho.\nRegra dura: nada de urgência inventada, nada de número que eu não te dei."}
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Seu banco de frases, só com fatos seus.",
+      "exercicios": [
+        {"id": "e1", "titulo": "1 · Banco de reenquadres", "min": "25 min",
+         "texto": "Liste os fatos que você realmente tem (projetos, resultados, o que você nunca fez) e rode o prompt. Guarde o resultado num arquivo só seu.",
+         "pronto": "o arquivo tem frases dos três vieses e o item 4 (o que você não pode afirmar) está preenchido; se veio vazio, você refez."},
+        {"id": "e2", "titulo": "2 · O teste da linha", "min": "10 min",
+         "texto": "Releia as frases que você costuma usar numa conversa comercial. Aplique a cada uma o teste: o cliente ficaria confortável sabendo o que você está fazendo?",
+         "pronto": "você marcou cada frase como influência ou manipulação e reescreveu ou cortou as que não passaram."}
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste rápido",
+      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "perguntas": [
+        {"p": "Qual é o teste que separa influência de manipulação?", "opcoes": ["Se o cliente fechou, foi influência; se recusou, foi manipulação", "Se o cliente soubesse exatamente o que você está fazendo, continuaria confortável", "Se a técnica é conhecida, pode ser usada sem restrição"], "certa": 1, "ref": "passos",
+         "explica": "Os dois lados usam o mesmo mecanismo mental. O que muda é se o fato por trás é verdadeiro."},
+        {"p": "Você ainda tem poucos clientes. Qual é uma prova social legítima?", "opcoes": ["Citar uma empresa grande como se fosse cliente", "Um projeto feito sem cobrar, com resultado registrado, dizendo que foi assim", "Arredondar o resultado para cima"], "certa": 1, "ref": "passos",
+         "explica": "Prova frágil dita com honestidade vale mais que prova forte inventada, que cai na segunda pergunta."},
+        {"p": "O gestor que liderou seis meses de tentativa interna está na sala. Como usar o esforço investido?", "opcoes": ["\"Vocês desperdiçaram seis meses.\"", "\"Vocês já dedicaram bastante tempo. A pergunta agora é qual o caminho mais curto daqui para frente.\"", "Não tocar no assunto"], "certa": 1, "ref": "passos",
+         "explica": "Reconhecer o esforço orienta a próxima decisão; desqualificá-lo transforma você no adversário de quem está na sala."},
+        {"p": "Por que espalhar as três frases ao longo da conversa?", "opcoes": ["Porque juntas soam como argumentação de vendedor e disparam desconfiança", "Porque o cliente esquece rápido", "Não precisa espalhar"], "certa": 0, "ref": "passos",
+         "explica": "Distribuídas, cada uma aparece no gancho certo como observação honesta. Empilhadas, viram discurso."}
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo",
+      "itens": [
+        {"t": "Perder pesa mais que ganhar", "texto": "O mesmo fato dito como perda move mais, com os números do próprio cliente."},
+        {"t": "Ninguém quer ser o primeiro", "texto": "Prova social anonimizada se constrói mesmo com poucos clientes."},
+        {"t": "O esforço investido pesa", "texto": "Reconheça, nunca constranja."},
+        {"t": "A linha é a verdade do fato", "texto": "Mesmo mecanismo, resultados opostos."}
+      ]
+    }
+  ]
+}

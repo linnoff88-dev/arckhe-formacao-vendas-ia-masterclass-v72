@@ -1,0 +1,113 @@
+{
+  "slug": "duas-orelhas",
+  "num": 2,
+  "menu": "Escuta",
+  "titulo": "Duas orelhas, uma boca",
+  "titulo_curto": "Duas orelhas, uma boca",
+  "minutos": 15,
+  "lead": "Escutar parece a parte fácil e é a mais rara. Esta aula separa três níveis de escuta, mostra a proporção de fala que muda o resultado e ensina a criar sintonia em poucos minutos, sem simpatia forçada e sem virar outra pessoa. Quem acompanha uma empresa por meses precisa disso desde o primeiro minuto.",
+  "objetivo": "escutar em 3 níveis, deixar o cliente ocupar a maior parte da conversa e criar sintonia em 2 ou 3 minutos, sem forçar.",
+  "competencias": ["escutar-em-tres-niveis", "criar-sintonia", "controlar-proporcao-de-fala"],
+  "aprende": [
+    {"t": "A proporção de fala que decide a conversa"},
+    {"t": "Os três níveis de escuta e como subir um por conversa"},
+    {"t": "Sintonia em dois ou três minutos, e quando parar"},
+    {"t": "A energia que você emite enquanto lê o cliente"}
+  ],
+  "hero_alt": "Homem adulto ouvindo com atenção numa conversa de trabalho, com a mão parada sobre um caderno.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Os três níveis de escuta",
+      "sub": "Do mais comum ao mais raro. Clique em cada nível.",
+      "estilo": "escada",
+      "nos": [
+        {"icone": "chat", "titulo": "Nível 1 · palavras", "sub": "ouço para responder",
+         "detalhe": "Você ouve as palavras enquanto monta a sua resposta. Tecnicamente escutou; na prática, metade da atenção procurava o próximo argumento. Produz conversas educadas e vendas perdidas."},
+        {"icone": "lupa", "titulo": "Nível 2 · sentido", "sub": "ouço para entender",
+         "detalhe": "Você persegue o sentido: o que essa pessoa está me contando? A pergunta seguinte nasce da última resposta, não da sua lista. Aqui a conversa vira investigação."},
+        {"icone": "cerebro", "titulo": "Nível 3 · energia e silêncio", "sub": "o não dito", "forte": true,
+         "detalhe": "Você escuta a entonação, as pausas e o que não foi dito. Uma pausa longa pode ser \"estou pensando\" ou \"desliguei faz cinco minutos\", e a conduta certa é oposta em cada caso."}
+      ],
+      "legenda": "O nível mais fácil é o mais frequente. Subir uma camada por conversa já muda o resultado do mês.",
+      "dica": "Compare duas conversas com o mesmo conteúdo: numa você fala 80% e sai com hipóteses; na outra o cliente fala 80% e você sai com fatos ditos por ele."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Como reconhecer e subir de nível",
+      "sub": "Um teste para o nível 1, três movimentos para o nível 2 e o que o nível 3 capta.",
+      "passos": [
+        {"titulo": "Você está no nível 1", "sub": "quando…",
+         "texto": ["Interrompe com \"exatamente!\" antes de a frase terminar. No fim lembra do que disse, não do que ouviu. Faz as mesmas perguntas em toda conversa.", "Teste honesto: ao desligar, escreva de memória três frases do cliente, com as palavras dele. Se só sai o que você falou, ficou no nível 1."]},
+        {"titulo": "Os movimentos do nível 2", "sub": "puxar, devolver, perguntar o efeito",
+         "texto": ["Puxar o fio: \"você falou que isso sempre atrasa; atrasa quanto, normalmente?\". Devolver com as palavras dele: \"então o gargalo não é o pedido, é a conferência. É isso?\".", "Perguntar o efeito: \"e quando atrasa, quem sente primeiro?\". A resposta revela quem mais quer isso resolvido."]},
+        {"titulo": "O que o nível 3 capta", "sub": "e o que atrapalha",
+         "texto": ["A voz que baixa num assunto, a frase que começa e não termina, o tema que ele muda toda vez que você chega perto.", "Atrapalha: preencher toda pausa, anotar tanto que você para de ouvir e interpretar sozinho. Confirme com pergunta, não com adivinhação."]},
+        {"titulo": "Sintonia tem dose", "sub": "dois a três minutos",
+         "texto": ["Rapport é a sensação de sintonia. Faça um comentário leve e veja se a pessoa devolve. Se devolveu com pergunta, ela quer conversar; se respondeu em uma linha, quer trabalhar: siga.", "Rapport falso (\"eu também tenho um!\" sem ter) desmorona na terceira pergunta e faz a pessoa duvidar de tudo o que vem depois."]}
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Espelhar o ritmo e cuidar da sua energia",
+      "sub": "Enquanto você lê o cliente, ele está lendo você.",
+      "passos": [
+        {"titulo": "Espelhar, não imitar", "sub": "o ritmo do outro",
+         "texto": ["Cliente rápido e animado: acompanhe a energia e mantenha as perguntas. Cliente contido: baixe o volume e alongue as pausas. Cliente objetivo: corte a conversa leve para trinta segundos.", "Teste de manipulação: se faria sentido com o cliente sabendo o que você está fazendo, não é manipulação."]},
+        {"titulo": "Antes", "sub": "decida o objetivo",
+         "texto": ["Saber o que você quer daquela conversa remove metade da ansiedade. Sem objetivo, você improvisa, e improviso soa como insegurança."]},
+        {"titulo": "Durante", "sub": "reaja depois",
+         "texto": ["Se o cliente for ríspido, receba com naturalidade e devolva uma pergunta. E celebre por dentro: comemorar demais um sim comunica que aquilo é raro para você."]},
+        {"titulo": "Depois", "sub": "registre o que ouviu",
+         "texto": ["Anote frases dele, números e prazos, não o que você sentiu. Frase anotada vira proposta na semana seguinte; sensação some em dois dias."]}
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Treine o nível 2 sem gastar uma conversa real: a IA faz o cliente difícil.",
+      "blocos": [
+        {"rot": "Prompt · treino de escuta com cliente simulado", "icone": "chat",
+         "conteudo": "Você vai simular um cliente para eu treinar escuta. Regras:\nPAPEL: você é <dono de uma transportadora média, ocupado e cético>. Tem um problema real\nde <descreva em uma linha, ex.: retrabalho na conferência de pedidos>, mas NÃO vai entregá-lo\nde bandeja: responda curto, mencione sintomas e só aprofunde se eu fizer uma pergunta boa.\nMINHA TAREFA: descobrir o problema de raiz e o quanto ele custa, só perguntando.\nREGRAS DA SIMULAÇÃO:\n- Uma fala por vez. Nunca escreva a minha fala.\n- Se eu propuser solução antes de entender o problema, resista como um cliente real resistiria.\n- Se eu fizer duas perguntas na mesma mensagem, responda só a segunda.\nAO FIM (quando eu escrever \"fim\"): saia do papel e me dê um relatório com\n(a) qual era o problema de raiz que eu deveria ter encontrado,\n(b) as minhas perguntas que funcionaram e por quê,\n(c) os momentos em que eu falei quando deveria ter esperado,\n(d) uma nota de 0 a 10 para a minha escuta, sendo duro."}
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Uma conversa real e um treino.",
+      "exercicios": [
+        {"id": "e1", "titulo": "1 · Três frases literais", "min": "10 min",
+         "texto": "Na próxima conversa de trabalho (comercial ou não), ao desligar, escreva de memória três frases que a outra pessoa disse, com as palavras dela, e estime a sua proporção de fala.",
+         "pronto": "você tem 3 frases do outro entre aspas, sem paráfrase, e um número para a sua proporção de fala."},
+        {"id": "e2", "titulo": "2 · Treino de escuta com IA", "min": "25 min",
+         "texto": "Rode o prompt do cliente simulado com o tipo de empresa que você atende. Conduza só perguntando e escreva \"fim\" quando achar que chegou à raiz.",
+         "pronto": "o relatório final aponta pelo menos 1 momento em que você atropelou; se veio só elogio, você refez pedindo severidade."}
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste rápido",
+      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "perguntas": [
+        {"p": "O cliente respondeu à sua pergunta leve com uma frase curta e não devolveu nada. O que isso indica?", "opcoes": ["Que ele não gostou de você; vale insistir em outro assunto pessoal", "Que ele quer ir ao assunto; encerre a conversa leve e comece a investigação", "Que a conversa está perdida e é melhor remarcar"], "certa": 1, "ref": "passos",
+         "explica": "Dê o fio e veja se ele puxa. Resposta curta é sinal de quem quer trabalhar: respeite e siga. Insistir no papo soa forçado."},
+        {"p": "Qual movimento é típico do nível 2 de escuta?", "opcoes": ["Interromper com \"exatamente!\" para mostrar que entendeu", "Devolver com as palavras dele: \"então o gargalo é a conferência, é isso?\"", "Seguir a lista de perguntas na ordem preparada"], "certa": 1, "ref": "passos",
+         "explica": "No nível 2 a próxima pergunta nasce da última resposta. Interromper e seguir a lista fixa são sinais do nível 1."},
+        {"p": "Uma pausa longa do cliente no meio da conversa. O que fazer?", "opcoes": ["Preencher logo, para não ficar estranho", "Esperar e, se precisar, confirmar com uma pergunta o que ela significa", "Mudar de assunto"], "certa": 1, "ref": "diagrama",
+         "explica": "Pausa pode ser \"estou pensando\" ou \"desliguei\". Preencher apaga o sinal antes de você lê-lo; confirmar com pergunta evita adivinhar."},
+        {"p": "Por que comemorar muito um sim pequeno atrapalha?", "opcoes": ["Porque comunica necessidade: parece que aquilo é raro para você", "Porque o cliente pode pedir desconto", "Não atrapalha; mostra entusiasmo"], "certa": 0, "ref": "passos",
+         "explica": "Entusiasmo excessivo levanta a pergunta \"por que ninguém mais compra?\". Um \"ótimo, vamos combinar os próximos passos\" transmite rotina, e rotina tranquiliza quem compra."}
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo",
+      "itens": [
+        {"t": "Quem fala, adivinha", "texto": "O cliente ocupa a maior parte do tempo; você sai com fatos ditos por ele."},
+        {"t": "Três níveis", "texto": "Responder, entender e ouvir a energia. Suba um nível por conversa."},
+        {"t": "Sintonia tem dose", "texto": "Dois a três minutos, e siga o fio só se a pessoa puxar."},
+        {"t": "Você também é lido", "texto": "Necessidade excessiva afasta; naturalidade tranquiliza."}
+      ]
+    }
+  ]
+}

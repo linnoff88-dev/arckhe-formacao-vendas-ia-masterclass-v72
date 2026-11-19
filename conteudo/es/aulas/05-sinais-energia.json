@@ -1,0 +1,217 @@
+{
+  "slug": "sinais-energia",
+  "num": 5,
+  "menu": "Señales",
+  "titulo": "Las cinco señales de energía",
+  "titulo_curto": "Cinco señales de energía",
+  "minutos": 17,
+  "lead": "Toda conversación lleva información que no está en las palabras. Esta clase te enseña a leer cinco señales concretas (voz, verbos, forma de contar, resistencia y el habla de quien ya decidió) y qué hacer con cada una en el momento en que aparece. Leer al otro empieza por leerte a ti.",
+  "objetivo": "leer la voz, los verbos, el modo de contar, la resistencia y el habla de quien ya decidió, y actuar cuando aparece cada señal.",
+  "competencias": [
+    "ler-sinais-de-energia",
+    "responder-a-resistencia",
+    "reconhecer-decisao-tomada"
+  ],
+  "aprende": [
+    {
+      "t": "Por qué reaccionar por impulso cuesta la venta"
+    },
+    {
+      "t": "Las cinco señales y qué hacer con cada una"
+    },
+    {
+      "t": "Abrir la resistencia con una pregunta, no con una defensa"
+    },
+    {
+      "t": "Dejar de vender cuando ya compró"
+    }
+  ],
+  "hero_alt": "Consultora con audífonos en una videollamada, con los ojos cerrados por un instante, concentrada en la voz del cliente.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Las cinco señales",
+      "sub": "Aisladas, cada una puede engañar. Juntas, casi nunca fallan. Haz clic en cada señal.",
+      "nos": [
+        {
+          "icone": "megafone",
+          "titulo": "Voz",
+          "sub": "cambia antes que las palabras",
+          "detalhe": "El tono bajó: desacelera y pregunta exactamente sobre ese punto. El tono subió: acompaña y profundiza, ahí está el deseo. Se inclinó hacia adelante: deja de presentar y acuerda el próximo paso."
+        },
+        {
+          "icone": "caneta",
+          "titulo": "Verbos",
+          "sub": "el grado de compromiso",
+          "forte": true,
+          "detalhe": "\"Yo debería\" (obligación externa, casi cero) → \"yo necesito\" (motivación real) → \"voy a intentar\" (quizás, salida lista) → \"voy a hacer\" (compromiso). El tema puede ser el mismo; cambia la probabilidad de que ocurra."
+        },
+        {
+          "icone": "chat",
+          "titulo": "Historia × solución",
+          "sub": "cómo lo cuenta",
+          "detalhe": "Modo historia (personajes, el día que salió mal): está involucrado; responde con un caso parecido. Modo solución (etapas, sistemas, plazos): responde con claridad operativa y saca una historia."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Resistencia",
+          "sub": "\"¿y si…?\", \"ya lo intentamos\", \"genial, pero\"",
+          "detalhe": "Ninguna es un no. Todas son puertas, y la mayoría pasa de largo respondiendo a la parte fácil de la frase. La resistencia se abre con una pregunta, nunca con una defensa."
+        },
+        {
+          "icone": "check",
+          "titulo": "Ya compró",
+          "sub": "cállate",
+          "detalhe": "\"Cuando esto esté funcionando, ¿podremos medirlo?\" Se vendió sola. Responde en una o dos frases y engancha el próximo paso con dos fechas."
+        }
+      ],
+      "legenda": "Voz animada con verbo débil: entusiasmo sin compromiso, falta urgencia. Voz contenida con verbo fuerte: decisión tomada en silencio, acuerda la fecha.",
+      "dica": "Antes de las cinco señales estás tú: percibo lo que siento → elijo qué hago con eso → percibo lo que siente el otro → conduzco la relación."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "En el momento en que aparece la señal",
+      "sub": "Qué hacer con las señales más fáciles de pasar por alto.",
+      "passos": [
+        {
+          "titulo": "Reaccionar sale caro",
+          "sub": "elegir la respuesta",
+          "texto": [
+            "Un cliente puede tratarte mal por motivos que nada tienen que ver contigo. Quien responde al mismo nivel termina ahí la conversación.",
+            "Quien responde \"entiendo, cuéntame más sobre eso\" a veces descubre un problema grande escondido detrás de la grosería."
+          ]
+        },
+        {
+          "titulo": "Verbo débil",
+          "sub": "no corrijas, pregunta",
+          "texto": [
+            "\"Dijiste que deberías resolver esto. ¿Qué haría que pasara a ser algo preciso?\" \"Cuando hablas de intentar, ¿qué te genera duda?\"",
+            "Casi siempre la respuesta revela la objeción escondida."
+          ]
+        },
+        {
+          "titulo": "Resistencia",
+          "sub": "la puerta y la pregunta",
+          "texto": [
+            "\"¿Y si no funciona con nuestra realidad?\" es miedo a equivocarse frente a los demás → \"¿qué tendría que pasar en las primeras semanas para que te quedes tranquilo?\".",
+            "\"Genial, pero nosotros somos diferentes\" es no haberse sentido comprendido → \"¿diferentes en qué, específicamente?\"."
+          ]
+        },
+        {
+          "titulo": "Ya compró",
+          "sub": "cómo se pierde una venta ganada",
+          "texto": [
+            "Encadenar tres beneficios que nadie pidió. Anticipar una objeción que él no planteó y plantarla en su cabeza.",
+            "Hablar tanto que él empieza a preguntarse cómo será trabajar contigo todos los días."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Justo después de la conversación: de tus notas a una lectura de las cinco señales.",
+      "blocos": [
+        {
+          "rot": "Prompt · lectura de conversación",
+          "icone": "cerebro",
+          "conteudo": "Eres mi analista de conversaciones comerciales. Abajo están MIS NOTAS de una\nconversación que acabo de tener. Analiza usando cinco señales: (1) voz y ritmo, (2) verbos de\ncompromiso — debería / necesito / voy a intentar / voy a hacer, (3) modo historia × modo solución,\n(4) patrones de resistencia, (5) frases de quien ya decidió.\nNOTAS:\n<pega aquí tus notas, con las frases de la persona lo más literales que recuerdes>\nEntrega:\n1. Una lectura señal por señal, citando la frase que sustenta cada conclusión.\n   Si no hay evidencia para una señal, escribe \"sin evidencia\" — no inventes.\n2. En qué etapa de la decisión probablemente está esa persona, y por qué.\n3. Cuál es la compuerta trabada: urgencia, viabilidad, confianza, comparación o presupuesto.\n4. UNA sola acción recomendada para el próximo contacto, con la frase lista."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "El hábito de cinco minutos y la lectura que permite.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Cinco minutos de frases literales",
+          "min": "5 min",
+          "texto": "Justo después de la próxima conversación, reserva cinco minutos para anotar frases literales, no impresiones. \"Dijo: ya intentamos esto y quemamos dinero\" vale más que \"se veía resistente\".",
+          "pronto": "tienes al menos 5 frases del cliente entre comillas y ninguna línea de impresión sin una frase que la sustente."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Lectura de las cinco señales",
+          "min": "15 min",
+          "texto": "Pega tus notas en el prompt de lectura. Ignora toda conclusión que llegue sin cita.",
+          "pronto": "cada conclusión de la lectura cita una frase tuya, y tienes 1 acción con frase lista para el próximo contacto."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "El cliente dice: \"cuando esto esté funcionando, ¿podremos medir los resultados?\". ¿Qué haces?",
+          "opcoes": [
+            "Aprovechar el interés y presentar los otros beneficios",
+            "Responder en dos frases y conectar con el siguiente paso con dos fechas",
+            "Anticipar las objeciones que él aún no ha planteado"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Es lo que dice quien ya compró. A partir de ahí, lo único que arruina la venta es seguir hablando."
+        },
+        {
+          "p": "¿Qué verbo muestra el mayor compromiso?",
+          "opcoes": [
+            "\"Debería\"",
+            "\"Voy a intentar\"",
+            "\"Voy a hacer\""
+          ],
+          "certa": 2,
+          "ref": "diagrama",
+          "explica": "\"Debería\" es obligación externa y \"voy a intentar\" ya trae la salida lista. \"Voy a hacer\" es compromiso."
+        },
+        {
+          "p": "\"Ya intentamos algo así.\" ¿Qué respuesta abre la resistencia?",
+          "opcoes": [
+            "\"Pero conmigo es diferente.\"",
+            "\"Cuéntame qué pasó: quiero asegurarme de no repetir eso.\"",
+            "\"Hoy la tecnología ha evolucionado mucho.\""
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Es una herida antigua. Rebatir con argumentos cierra a la persona; preguntar muestra que escuchaste."
+        },
+        {
+          "p": "Voz animada, pero el verbo es \"debería\". ¿Qué indica eso?",
+          "opcoes": [
+            "Decisión tomada: acuerda la fecha",
+            "Entusiasmo sin compromiso: falta urgencia",
+            "Desinterés disfrazado"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Las señales se leen juntas. Energía alta con verbo débil pide volver a la compuerta de la urgencia, no cerrar."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Leer al otro empieza por ti",
+          "texto": "Reaccionar por impulso es lo que más ventas cuesta."
+        },
+        {
+          "t": "Los verbos revelan el compromiso",
+          "texto": "Debería, necesito, voy a intentar, voy a hacer."
+        },
+        {
+          "t": "La resistencia se abre con una pregunta",
+          "texto": "Nunca con defensa."
+        },
+        {
+          "t": "Cuando ya compró, detente",
+          "texto": "Solo queda acordar la fecha."
+        }
+      ]
+    }
+  ]
+}

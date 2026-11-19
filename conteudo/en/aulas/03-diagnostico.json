@@ -1,0 +1,406 @@
+{
+  "slug": "diagnostico",
+  "num": 3,
+  "menu": "Diagnosis",
+  "titulo": "The diagnostic conversation",
+  "titulo_curto": "Diagnostic conversation",
+  "minutos": 20,
+  "lead": "This is where the sale is won or lost. What comes after (proposal, price, signature) only tidies up what was agreed in this conversation. You will tell apart questions that fill time from questions that open up the problem, turn pain into a number, and get to the fire when the client has only shown the smoke.",
+  "objetivo": "lead the diagnostic conversation in 5 milestones, find the fire behind the smoke and leave with the pain as a number stated by the client.",
+  "competencias": [
+    "conduzir-diagnostico",
+    "fazer-perguntas-de-raiz",
+    "quantificar-a-dor"
+  ],
+  "aprende": [
+    {
+      "t": "The five milestones of the diagnostic conversation"
+    },
+    {
+      "t": "Surface questions × root questions"
+    },
+    {
+      "t": "Turn pain into a number in four questions"
+    },
+    {
+      "t": "Practice in a simulated conversation with a scoreboard"
+    }
+  ],
+  "hero_alt": "Consultant and the owner of a trucking company standing in the warehouse, next to the order-checking table.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The five milestones of the diagnosis",
+      "sub": "It fits on one page. It's not meant to be read aloud: it's so you don't leave without what you need.",
+      "nos": [
+        {
+          "icone": "chat",
+          "titulo": "Open",
+          "sub": "2 minutes and the agenda",
+          "detalhe": "Two minutes of light conversation and the proposed agenda for the meeting: first I ask, then I show what usually solves it, and if it makes sense we agree on the next step."
+        },
+        {
+          "icone": "camadas",
+          "titulo": "Situation",
+          "sub": "how it works today",
+          "detalhe": "How it works today, with whom, in which steps. These are surface questions: they warm things up and cost nothing, but whoever stays only on them ends up with nothing useful."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Root",
+          "sub": "2 or 3 uncomfortable questions",
+          "forte": true,
+          "detalhe": "Cost of inaction, who suffers most, why now. Two or three per conversation, spaced out, with time to answer. Eight in a row become a deposition and the person shuts down."
+        },
+        {
+          "icone": "grafico",
+          "titulo": "Number",
+          "sub": "the math is theirs",
+          "detalhe": "Frequency → unit → value of the unit → feedback: \"so this is costing close to X per month, is that about right?\" They confirm it and the number becomes theirs."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Close the meeting",
+          "sub": "recap and schedule",
+          "detalhe": "Recap in their words and agree on the next step with a date. No \"I'll send you a proposal\" without knowing which problem it is for."
+        }
+      ],
+      "legenda": "You leave with a diagnosis when you can explain the client's problem in three sentences, have a number the client gave you, and know what happens if they do nothing."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The diagnostic tools",
+      "sub": "The doctor's office, the root question, the math and the fire.",
+      "passos": [
+        {
+          "titulo": "The doctor's office analogy",
+          "sub": "when they ask for the price first",
+          "texto": [
+            "No one leaves the doctor's office with a prescription without the doctor asking anything, and no one finds that strange. Use this image when the client wants to skip the investigation and go straight to the quote.",
+            "A proposal made in the dark comes out too expensive or too cheap. Questions first lead to a proposal for the real problem."
+          ]
+        },
+        {
+          "titulo": "Surface × root",
+          "sub": "what changes the level",
+          "texto": [
+            "Surface: \"What's the budget?\", \"How many people are on the team?\", \"Do you already use any tools?\".",
+            "Root: \"How much is it costing you not to solve this today?\", \"Who else feels this bottleneck?\", \"Why did it become a priority now?\", \"If nothing changes in six months, what happens?\"."
+          ]
+        },
+        {
+          "titulo": "Pain in numbers",
+          "sub": "frequency × unit × value",
+          "texto": [
+            "\"How often does this happen?\" → \"Each time, what gets lost?\" → \"And what is that usually worth?\" → \"So it's costing close to X per month, is that about right?\".",
+            "Without direct money, use time, but translate it into consequences: people are generous with themselves when counting hours."
+          ]
+        },
+        {
+          "titulo": "Smoke and fire",
+          "sub": "the pain they can't name",
+          "texto": [
+            "\"The team is slow to respond\" is the smoke. Three chained questions (why is it slow? where does the information come from? who checks it?) get you to the fire: duplicate records at the source.",
+            "Answering the literal request delivers a bandage where surgery was needed."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "When the client holds back information",
+      "sub": "Three reasons, and the objections that arrive in disguise.",
+      "passos": [
+        {
+          "titulo": "Three reasons",
+          "sub": "doesn't know, has a favorite, got burned",
+          "texto": [
+            "They don't know: they believe the symptom is the problem; questions fix that. They already have a favorite: they're checking what another vendor said.",
+            "They've been burned: they paid for something similar that didn't work. Here only transparency opens the door."
+          ],
+          "exemplo": {
+            "rot": "Phrase",
+            "texto": "So I can propose the right thing and not waste your money, I need to understand this point better. What could you tell me?"
+          }
+        },
+        {
+          "titulo": "Silent objections",
+          "sub": "every lukewarm phrase deserves a question",
+          "texto": [
+            "\"We already tried something similar and it didn't work\" → \"What exactly didn't work? I want to make sure I don't repeat the same mistake\".",
+            "\"I'll check with the team\" → \"Who else needs to be in this conversation for it to move forward?\". An objection raised early is information; one held until the end becomes \"I'll think about it\"."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "simconversa",
+      "titulo": "Simulated conversation: the trucking company owner",
+      "sub": "A simulated conversation for practice (fictional character). Choose the answer you would give; the comment appears right after.",
+      "personagem": {
+        "nome": "Owner of a mid-sized trucking company",
+        "papel": "busy and skeptical · decides with their partner"
+      },
+      "inicio": "abre",
+      "falas": {
+        "abre": {
+          "cliente": "My team takes too long to answer customers. I want a bot that answers fast. Can you send me the price?",
+          "opcoes": [
+            {
+              "t": "I'll send it today. A customer service bot comes at a fixed price.",
+              "vai": "fim-escuro",
+              "nota": 0,
+              "comenta": "Proposal in the dark: without knowing what's going on, the price comes out too high or too low, and you sell a bandage."
+            },
+            {
+              "t": "I can send it. But without understanding what happens there, I'll get the price wrong, up or down. Can I have 20 minutes of questions?",
+              "vai": "situacao",
+              "nota": 2,
+              "comenta": "This is the doctor's office line: you hand the request back without seeming resistant and show that rushing is costly for them."
+            },
+            {
+              "t": "Sure. What are your biggest difficulties today?",
+              "vai": "situacao",
+              "nota": 1,
+              "comenta": "You avoided the price in the dark, but the question is too generic to be useful."
+            }
+          ]
+        },
+        "situacao": {
+          "cliente": "Requests come in by WhatsApp, email and phone. The attendant checks the system and replies. Sometimes it takes a day.",
+          "opcoes": [
+            {
+              "t": "A bot answers in seconds, on all three channels. Problem solved.",
+              "vai": "fim-curativo",
+              "nota": 0,
+              "comenta": "You addressed the smoke. You still don't know why the reply takes so long."
+            },
+            {
+              "t": "And why does it take a day? What happens between the order coming in and her answering?",
+              "vai": "raiz",
+              "nota": 2,
+              "comenta": "You pulled the thread: the next question came from his answer, not from a list."
+            },
+            {
+              "t": "Got it. What's your budget for this?",
+              "vai": "raiz",
+              "nota": 1,
+              "comenta": "Surface question: it costs nothing, but it doesn't open up the problem. He answers reluctantly and you move on without the cause."
+            }
+          ]
+        },
+        "raiz": {
+          "cliente": "Because the information on the order doesn't always match. She has to check with the warehouse before she can answer.",
+          "opcoes": [
+            {
+              "t": "So the robot checks the warehouse on its own and answers.",
+              "vai": "fim-curativo",
+              "nota": 0,
+              "comenta": "Automating the check of wrong information just gets it wrong faster. You forgot to ask where the error comes from."
+            },
+            {
+              "t": "Where does that mismatched information come from? And who checks it today?",
+              "vai": "numero",
+              "nota": 2,
+              "comenta": "Third chained question. It's the one that takes you from smoke to fire."
+            }
+          ]
+        },
+        "numero": {
+          "cliente": "The one who checks is the verification desk. Often the customer is registered twice, with different addresses, and the order goes out wrong.",
+          "opcoes": [
+            {
+              "t": "How often does that happen? And each time it goes out wrong, what do you lose?",
+              "vai": "objecao",
+              "nota": 2,
+              "comenta": "Frequency and unit: the start of the math he will do himself, which will support the value of your work."
+            },
+            {
+              "t": "We found it: the problem is the customer records. I suggest cleaning up the database.",
+              "vai": "objecao",
+              "nota": 1,
+              "comenta": "You found the fire, but you skipped the number. Pain without a number doesn't support a price and doesn't show whether the work paid off afterward."
+            }
+          ]
+        },
+        "objecao": {
+          "cliente": "About three orders a week come back, and we lose the shipping cost and sometimes the customer. But look, we already tried a similar system and it didn't work out.",
+          "opcoes": [
+            {
+              "t": "With me it's different, you can relax.",
+              "vai": "fim-defesa",
+              "nota": 0,
+              "comenta": "A defensive answer to an old wound. He shuts down, because he wasn't heard."
+            },
+            {
+              "t": "What exactly didn't work? I want to make sure I don't repeat that.",
+              "vai": "fecho",
+              "nota": 2,
+              "comenta": "You opened up the silent objection early, while there's still time to answer it."
+            },
+            {
+              "t": "Got it. Going back to the orders that come back…",
+              "vai": "fecho",
+              "nota": 1,
+              "comenta": "You let a lukewarm sentence slip by. It usually comes back at the end, in the form of \"I'll think about it.\""
+            }
+          ]
+        },
+        "fecho": {
+          "cliente": "We bought a system, but nobody on the team used it. It was abandoned.",
+          "opcoes": [
+            {
+              "t": "From what you told me: the order comes in through three channels, the duplicate record makes about three orders a week come back, and the last system went unused. Is that right? I'd like a 30-minute conversation with you and whoever handles the verification desk. Tuesday morning or Thursday afternoon?",
+              "vai": "fim-bom",
+              "nota": 2,
+              "comenta": "You recapped in his words, got his confirmation, and set the next step with the person who feels the bottleneck, with two date options."
+            },
+            {
+              "t": "Perfect, I'll prepare a proposal and send it to you by email.",
+              "vai": "fim-sumico",
+              "nota": 0,
+              "comenta": "You left without a date and without confirming the problem. A proposal by email with no conversation is usually the start of the disappearing act."
+            }
+          ]
+        },
+        "fim-escuro": {
+          "fim": true,
+          "titulo": "Price in the dark",
+          "texto": "He compares your price with two other quotes for a robot and picks the cheapest. Nobody there knows the problem is the customer records, and the robot will answer quickly with the wrong information."
+        },
+        "fim-curativo": {
+          "fim": true,
+          "titulo": "Bandage on the smoke",
+          "texto": "You deliver the quick answer, but orders keep coming back, because the error is in the duplicate records at the source. The customer stays unhappy and you're left not understanding why."
+        },
+        "fim-defesa": {
+          "fim": true,
+          "titulo": "The wound wasn't heard",
+          "texto": "He thanks you and says he'll check with his partner. The bad experience with the previous system is still standing, and now you're on the side of those who promise too much."
+        },
+        "fim-sumico": {
+          "fim": true,
+          "titulo": "Proposal with no address",
+          "texto": "The proposal arrives, he opens it, doesn't reply. With no conversation scheduled and no confirmed problem, the opportunity becomes one more line of \"was going to get back to me.\""
+        },
+        "fim-bom": {
+          "fim": true,
+          "titulo": "The fire, the number and the date",
+          "texto": "You leave with the root problem in his words, a number he gave himself, and the next conversation set with the person who handles the verification desk. And you know the last system died from lack of use: in lesson 7, that becomes the ongoing advisory proposal."
+        }
+      },
+      "licao": "The customer points at the smoke. Three chained questions reach the fire, he does the math himself, and the meeting ends with a date."
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Templates to copy",
+      "sub": "The office script and the generator for your diagnostic script.",
+      "blocos": [
+        {
+          "rot": "Ready-made line · when they ask for a proposal before the conversation",
+          "icone": "chat",
+          "conteudo": "\"I can send it, yes. But without understanding what's going on over there, one\nof two things will happen: either I underestimate the work — and then there are no resources left to deliver\nwhat I promised properly — or I protect myself and quote a price above what you would need to\npay. Neither one serves you.\nGive me 20 minutes of questions and I'll send you a number that makes sense for your case.\nCan we do <day> at <time>?\""
+        },
+        {
+          "rot": "Prompt · generator for your diagnostic script",
+          "icone": "arquivo",
+          "conteudo": "Build my diagnostic conversation script, in US English, on one page.\nCONTEXT\n- I sell: <e.g.: AI diagnostic and 90-day mentorship with managers>\n- My typical client: <e.g.: clinics with 10 to 50 employees>\n- The problem I usually solve: <one sentence>\nREQUIRED STRUCTURE (5 milestones)\n1. Opening (2 min) — 3 sentence options to open without sounding scripted.\n2. Situation — 5 questions about how the process works today.\n3. Root — 4 uncomfortable questions: cost of not acting, who else is affected,\n   why now, what happens in 6 months without change.\n4. Number — the sequence of 4 questions that takes you from \"we lose time\" to a value per month.\n5. Close of the meeting — how to recap and how to propose the next step with two dates.\nRULES\n- No technical jargon: write the way the business owner speaks.\n- Each question on one line, ready to be said out loud.\n- At the end, list the 3 most likely mistakes I will make with this script."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Practice in the simulation and leave with your script.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Simulated conversation",
+          "min": "10 min",
+          "texto": "Have the conversation with the owner of the trucking company. If you don't reach the top score, read the comments along the way and start over.",
+          "pronto": "the scoreboard shows the maximum possible points and you can tell which question took you from smoke to fire."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Your one-page script",
+          "min": "30 min",
+          "texto": "Run the script generator with your service and your typical client. Read milestone 4 out loud while pretending to be an evasive client.",
+          "pronto": "the script has the 5 milestones on one page and the sequence for milestone 4 ends in a number (quantity, frequency or value)."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "Which of these is a root question?",
+          "opcoes": [
+            "\"What is your budget for this project?\"",
+            "\"How much is it costing you not to solve this today, and who else feels this bottleneck?\"",
+            "\"Do you already use any AI tools?\""
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "The root question makes the client do the math and shows how far the problem reaches. The other two are surface questions: they warm things up, but they don't open anything."
+        },
+        {
+          "p": "The client says \"we lose time on this.\" What is the next step to get to the number?",
+          "opcoes": [
+            "Estimate it yourself and present the figure",
+            "Ask how often it happens, then what is lost each time and how much that is worth",
+            "Go straight to the proposal"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Frequency × unit × value, and at the end you hand it back so they can confirm it. Their math is worth more than your estimate."
+        },
+        {
+          "p": "\"We already tried something similar and it didn't work.\" How do you respond?",
+          "opcoes": [
+            "\"With me it's different, you can trust me.\"",
+            "\"What exactly didn't work? I want to make sure I don't repeat it.\"",
+            "Ignore it and follow the script"
+          ],
+          "certa": 1,
+          "ref": "simconversa",
+          "explica": "It's a silent objection. Don't argue against it: open it up with a question, while there's still time to answer it."
+        },
+        {
+          "p": "When did you leave the conversation with a diagnosis, and not just a pleasant chat?",
+          "opcoes": [
+            "When you spoke well of your service",
+            "When you can explain the problem in 3 sentences, you have a number they said themselves, and you know what happens if nothing changes",
+            "When the client asked for the proposal by email"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "The three diagnostic tests. Leaving \"to send a proposal\" without knowing which problem it's for is the opposite signal."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "The sale is decided here",
+          "texto": "The rest of the process only formalizes what was agreed in the diagnosis."
+        },
+        {
+          "t": "Root, not surface",
+          "texto": "Cost of inaction, who else suffers, why now."
+        },
+        {
+          "t": "Pain without a number can't support a price",
+          "texto": "Frequency × unit × value, confirmed by them."
+        },
+        {
+          "t": "Smoke and fire",
+          "texto": "Find the cause before proposing anything, and leave with a date."
+        }
+      ]
+    }
+  ]
+}

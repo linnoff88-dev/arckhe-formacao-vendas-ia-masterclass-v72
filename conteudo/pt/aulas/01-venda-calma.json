@@ -1,0 +1,112 @@
+{
+  "slug": "venda-calma",
+  "num": 1,
+  "menu": "Venda calma",
+  "titulo": "A venda calma: os quatro pilares",
+  "titulo_curto": "Venda calma",
+  "minutos": 15,
+  "lead": "Quem entende de IA costuma travar na conversa, não na técnica. Esta aula troca o improviso e o roteiro decorado por quatro pilares que funcionam juntos: curiosidade, autenticidade, escuta que conduz e fechamento leve. E mostra o que se vende no fim: confiança e acompanhamento, não a construção.",
+  "objetivo": "trocar o improviso pelos 4 pilares da venda calma e achar a sua trava, vendendo como serviço de confiança e não como construção.",
+  "competencias": ["conduzir-conversa-comercial", "diagnosticar-travas-de-venda", "posicionar-servico-de-confianca"],
+  "aprende": [
+    {"t": "O que é vender um serviço de IA e o que não é"},
+    {"t": "As cinco travas de quem vende e onde cada uma é atacada"},
+    {"t": "Os quatro pilares: curiosidade, autenticidade, escuta e fechamento leve"},
+    {"t": "Por que, no fim, o que se vende é o acompanhamento"}
+  ],
+  "hero_alt": "Consultora sentada à frente da dona de uma pequena loja, inclinada para ouvir, com xícaras de café na mesa.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Os quatro pilares da venda calma",
+      "sub": "Quatro pilares em sequência e um destino. Clique em cada bloco.",
+      "nos": [
+        {"icone": "lupa", "titulo": "Curiosidade", "sub": "antes do pitch",
+         "detalhe": "Entender antes de propor. Pitch é a apresentação do que você faz: ele não some, só sai da frente. Quem começa pelo pitch adivinha; quem começa perguntando coleta o material da proposta."},
+        {"icone": "usuario", "titulo": "Autenticidade", "sub": "nada de personagem",
+         "detalhe": "Ninguém compra de quem recita funcionalidades num tom artificial. Roteiro é rodinha de bicicleta: obrigatório no começo, absorvido pela repetição, e a bicicleta é a sua voz."},
+        {"icone": "chat", "titulo": "Escuta que conduz", "sub": "quem fala, adivinha", "forte": true,
+         "detalhe": "Se você está falando, está adivinhando o que a pessoa precisa; se ela está falando, está te contando. Você escuta, organiza e devolve com uma direção: \"então o problema é X, é isso mesmo?\"."},
+        {"icone": "check", "titulo": "Fechamento leve", "sub": "quase administrativo",
+         "detalhe": "A venda é perdida no diagnóstico mal feito, não no fechamento. Quando a investigação foi boa, fechar é combinar data e forma de começar."},
+        {"icone": "calendario", "titulo": "Acompanhamento", "sub": "venda como serviço",
+         "detalhe": "Vender não é tirar dinheiro de alguém: é ajudar a resolver um problema. No Profissional 2030 isso tem nome: diagnosticar, revisar, acompanhar e ensinar. O que a conversa fecha é um acompanhamento com indicador e data, não um projeto de construção."}
+      ],
+      "legenda": "O bloco do fechamento é o menor de todos. Se ele parece o mais difícil, o problema está na escuta e no diagnóstico.",
+      "dica": "Construir ficou fácil; quem vende só a construção disputa preço. Quem investiga o problema vira a única pessoa que entendeu a empresa."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "O que este curso chama de vender",
+      "sub": "Três deslocamentos antes de qualquer técnica.",
+      "passos": [
+        {"titulo": "Vender é conduzir", "sub": "não apresentar tecnologia",
+         "texto": ["Vender um serviço de IA quase nunca é vender tecnologia. É fazer uma pessoa ocupada, que já foi decepcionada antes, aceitar mudar um pedaço da rotina da empresa.", "Vender é fazer perguntas até o problema real aparecer e sair de todo encontro com um próximo passo com data."],
+         "exemplo": {"rot": "Não é vender", "texto": "Listar funcionalidades e esperar entusiasmo; arrancar um sim com frase de efeito; baixar o preço até alguém aceitar. Isso não é venda, é rendição."}},
+        {"titulo": "Inventário de travas", "sub": "cinco travas, cinco endereços",
+         "texto": ["\"Não sei mostrar o valor\" → diagnóstico (aulas 3 e 4). \"Preciso virar outra pessoa\" → autenticidade (esta aula). \"Não sei cobrar\" → preço (aula 8).", "\"Já assumo que vão dizer não\" → ler os sinais reais (aula 5). \"Sinto que estou insistindo\" → próximo passo combinado (aula 7). Nenhuma das cinco é técnica."]},
+        {"titulo": "Roteiro em três fases", "sub": "rodinha de bicicleta",
+         "texto": ["Conversas 1 a 10: roteiro escrito na frente, sem vergonha de olhar. Conversas 10 a 30: só os cinco marcos na cabeça (abrir, investigar, dimensionar, recapitular, combinar o próximo passo).", "Depois disso, só conversa. Se o roteiro faz você ignorar o que a pessoa acabou de dizer, ele virou obstáculo: solte."]},
+        {"titulo": "Sinais de personagem", "sub": "quando você está atuando",
+         "texto": ["Sua voz muda de altura quando chega no preço. Você usa palavras que nunca diria a um amigo, como \"solução robusta\".", "Depois da conversa você sente alívio, não interesse. Sinal de que atuou em vez de conversar."]}
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "Um prompt para treinar o pilar 1 e o plano de quatro semanas.",
+      "blocos": [
+        {"rot": "Prompt · cinco aberturas curiosas", "icone": "chat",
+         "conteudo": "Você é meu treinador de conversas comerciais. Eu vendo <o que você vende: diagnóstico de IA, mentoria de 90 dias com gestores, treinamento de equipes>\npara <tipo de empresa: clínica, transportadora, escritório de contabilidade...>.\nEscreva 5 aberturas de conversa que:\n1. começam com uma PERGUNTA sobre o negócio da pessoa, nunca sobre o meu serviço;\n2. usam o vocabulário de quem trabalha nesse setor, não jargão de tecnologia;\n3. cabem em duas frases faladas em voz alta;\n4. levam naturalmente a uma segunda pergunta — escreva também essa segunda pergunta.\nDepois, aponte quais das 5 soariam falsas se ditas por alguém que nunca trabalhou\nno setor, e reescreva essas de um jeito honesto: curioso sem fingir experiência."},
+        {"rot": "Plano de quatro semanas", "icone": "calendario",
+         "conteudo": "SEMANA 1 · pilar 1\nEm toda conversa, faça 3 perguntas antes de dar qualquer opinião.\nAnote o que apareceu que você não teria descoberto.\n\nSEMANA 2 · roteiro sem culpa\nCinco marcos numa folha: abrir, investigar, dimensionar, recapitular, combinar o próximo passo.\nUse nas duas próximas conversas reais.\n\nSEMANA 3 · proporção de fala\nAo fim de cada conversa, estime quanto % do tempo foi você falando. Meta: menos de 30%.\n\nSEMANA 4 · próximo passo marcado\nFeche ao menos uma conversa com data: \"combinamos de conversar de novo dia <dia>, às <hora>\"."}
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Prática",
+      "sub": "Comece por você e depois pela primeira frase da conversa.",
+      "exercicios": [
+        {"id": "e1", "titulo": "1 · A sua trava", "min": "10 min",
+         "texto": "Leia as cinco travas e escolha a que mais pesa em você. Escreva uma frase de quando ela apareceu na última conversa comercial, e a aula deste curso que a ataca.",
+         "pronto": "você tem escrita 1 trava, 1 situação real em que ela apareceu e o número da aula que vai atacá-la."},
+        {"id": "e2", "titulo": "2 · Cinco aberturas curiosas", "min": "20 min",
+         "texto": "Rode o prompt das cinco aberturas com o seu serviço e o seu tipo de cliente. Leia as cinco em voz alta e corte as que soam como locução de anúncio.",
+         "pronto": "sobraram pelo menos 3 aberturas que começam por pergunta sobre o negócio do cliente e nenhuma cita ferramenta ou o seu serviço."}
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Teste rápido",
+      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "perguntas": [
+        {"p": "Segundo a venda calma, onde a maior parte das vendas é perdida?", "opcoes": ["No fechamento, por falta de técnica na hora de pedir o sim", "No diagnóstico, por não ter investigado o problema com profundidade", "No preço, porque sempre existe alguém mais barato"], "certa": 1, "ref": "diagrama",
+         "explica": "Quando a investigação foi boa, fechar é quase administrativo. O erro comum é estudar técnicas de fechamento para compensar um diagnóstico raso."},
+        {"p": "Para que serve o roteiro escrito nas primeiras conversas?", "opcoes": ["Para ler em voz alta e não esquecer nada", "Para não esquecer as perguntas essenciais enquanto você ainda está nervoso; depois ele é absorvido", "Para parecer profissional diante do cliente"], "certa": 1, "ref": "passos",
+         "explica": "Roteiro é rodinha de bicicleta: obrigatório no começo e descartável depois. Ler em voz alta é justamente o que vira personagem."},
+        {"p": "Qual destas é uma abertura curiosa de verdade?", "opcoes": ["\"Nós temos uma solução robusta de agentes de IA para o seu setor.\"", "\"Como isso funciona hoje aí dentro?\"", "\"Eu também tenho uma clínica, sei bem como é.\" (sem ter)"], "certa": 1, "ref": "codigo",
+         "explica": "A pergunta sobre o processo de hoje entrega o funcionamento inteiro de graça. A primeira é pitch; a terceira é experiência inventada, que some na terceira pergunta."},
+        {"p": "No Profissional 2030, o que a conversa de venda fecha no fim?", "opcoes": ["O projeto de construção do agente, com prazo de entrega", "Um acompanhamento com indicador e data de revisão", "Um desconto para garantir o cliente"], "certa": 1, "ref": "diagrama",
+         "explica": "Construir ficou fácil e vira disputa de preço. O que a empresa compra é confiança: alguém que diagnostica, revisa, acompanha e ensina."}
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumo",
+      "itens": [
+        {"t": "Vender é conduzir uma conversa", "texto": "Não é apresentar tecnologia; é investigar até o problema aparecer."},
+        {"t": "Quatro pilares", "texto": "Curiosidade antes do pitch, autenticidade sem personagem, escuta que conduz e fechamento leve."},
+        {"t": "Roteiro é rodinha", "texto": "Obrigatório no começo, absorvido pela repetição."},
+        {"t": "O destino é o acompanhamento", "texto": "A venda calma termina num serviço de confiança, não num projeto de construção."}
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir além",
+      "links": [
+        {"t": "Área Profissional 2030: os quatro papéis", "href": "https://eventos.inema.pro/prof2030/"},
+        {"t": "Área Consultoria de IA", "href": "https://eventos.inema.pro/consultoria-ia/"}
+      ]
+    }
+  ]
+}

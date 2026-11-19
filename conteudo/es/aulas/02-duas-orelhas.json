@@ -1,0 +1,242 @@
+{
+  "slug": "duas-orelhas",
+  "num": 2,
+  "menu": "Escucha",
+  "titulo": "Dos orejas, una boca",
+  "titulo_curto": "Dos orejas, una boca",
+  "minutos": 15,
+  "lead": "Escuchar parece la parte fácil y es la más rara. Esta clase separa tres niveles de escucha, muestra la proporción de habla que cambia el resultado y enseña a crear sintonía en pocos minutos, sin simpatía forzada y sin convertirte en otra persona. Quien acompaña a una empresa durante meses necesita esto desde el primer minuto.",
+  "objetivo": "escuchar en 3 niveles, dejar que el cliente ocupe la mayor parte de la conversación y crear sintonía en 2 o 3 minutos, sin forzar.",
+  "competencias": [
+    "escuchar-en-tres-niveles",
+    "crear-sintonia",
+    "controlar-proporcion-de-habla"
+  ],
+  "aprende": [
+    {
+      "t": "La proporción de habla que decide la conversación"
+    },
+    {
+      "t": "Los tres niveles de escucha y cómo subir uno por conversación"
+    },
+    {
+      "t": "Sintonía en dos o tres minutos, y cuándo parar"
+    },
+    {
+      "t": "La energía que emites mientras lees al cliente"
+    }
+  ],
+  "hero_alt": "Hombre adulto escuchando con atención en una conversación de trabajo, con la mano quieta sobre un cuaderno.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Los tres niveles de escucha",
+      "sub": "Del más común al más raro. Haz clic en cada nivel.",
+      "estilo": "escada",
+      "nos": [
+        {
+          "icone": "chat",
+          "titulo": "Nivel 1 · palabras",
+          "sub": "escucho para responder",
+          "detalhe": "Oyes las palabras mientras armas tu respuesta. Técnicamente escuchaste; en la práctica, la mitad de tu atención buscaba el siguiente argumento. Produce conversaciones educadas y ventas perdidas."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Nivel 2 · sentido",
+          "sub": "escucho para entender",
+          "detalhe": "Persigues el sentido: ¿qué me está contando esta persona? La siguiente pregunta nace de la última respuesta, no de tu lista. Aquí la conversación se vuelve investigación."
+        },
+        {
+          "icone": "cerebro",
+          "titulo": "Nivel 3 · energía y silencio",
+          "sub": "lo no dicho",
+          "forte": true,
+          "detalhe": "Escuchas la entonación, las pausas y lo que no se dijo. Una pausa larga puede ser \"estoy pensando\" o \"me desconecté hace cinco minutos\", y la conducta correcta es opuesta en cada caso."
+        }
+      ],
+      "legenda": "El nivel más fácil es el más frecuente. Subir una capa por conversación ya cambia el resultado del mes.",
+      "dica": "Compara dos conversaciones con el mismo contenido: en una hablas el 80% y sales con hipótesis; en la otra el cliente habla el 80% y sales con hechos dichos por él."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Cómo reconocer y subir de nivel",
+      "sub": "Una prueba para el nivel 1, tres movimientos para el nivel 2 y lo que capta el nivel 3.",
+      "passos": [
+        {
+          "titulo": "Estás en el nivel 1",
+          "sub": "cuando…",
+          "texto": [
+            "Interrumpes con \"¡exacto!\" antes de que termine la frase. Al final recuerdas lo que dijiste, no lo que oíste. Haces las mismas preguntas en todas las conversaciones.",
+            "Prueba honesta: al colgar, escribe de memoria tres frases del cliente, con sus palabras. Si solo sale lo que tú dijiste, te quedaste en el nivel 1."
+          ]
+        },
+        {
+          "titulo": "Los movimientos del nivel 2",
+          "sub": "tirar del hilo, devolver, preguntar el efecto",
+          "texto": [
+            "Tirar del hilo: \"dijiste que esto siempre se atrasa; ¿cuánto se atrasa, normalmente?\". Devolver con sus palabras: \"entonces el cuello de botella no es el pedido, es la revisión. ¿Es eso?\".",
+            "Preguntar el efecto: \"y cuando se atrasa, ¿quién lo siente primero?\". La respuesta revela quién más quiere que esto se resuelva."
+          ]
+        },
+        {
+          "titulo": "Lo que capta el nivel 3",
+          "sub": "y lo que estorba",
+          "texto": [
+            "La voz que baja en un tema, la frase que empieza y no termina, el tema que cambia cada vez que te acercas.",
+            "Estorba: llenar cada pausa, anotar tanto que dejas de escuchar e interpretar por tu cuenta. Confirma con una pregunta, no con una suposición."
+          ]
+        },
+        {
+          "titulo": "La sintonía tiene su dosis",
+          "sub": "dos a tres minutos",
+          "texto": [
+            "El rapport es la sensación de sintonía. Haz un comentario ligero y observa si la persona responde. Si respondió con una pregunta, quiere conversar; si respondió en una línea, quiere trabajar: sigue.",
+            "El rapport falso (\"¡yo también tengo uno!\" sin tenerlo) se desmorona en la tercera pregunta y hace que la persona dude de todo lo que viene después."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Reflejar el ritmo y cuidar tu energía",
+      "sub": "Mientras tú lees al cliente, él te está leyendo a ti.",
+      "passos": [
+        {
+          "titulo": "Reflejar, no imitar",
+          "sub": "el ritmo del otro",
+          "texto": [
+            "Cliente rápido y animado: acompaña su energía y mantén las preguntas. Cliente reservado: baja el volumen y alarga las pausas. Cliente directo: reduce la conversación ligera a treinta segundos.",
+            "Prueba de manipulación: si tendría sentido con el cliente sabiendo lo que estás haciendo, no es manipulación."
+          ]
+        },
+        {
+          "titulo": "Antes",
+          "sub": "define el objetivo",
+          "texto": [
+            "Saber qué quieres de esa conversación elimina la mitad de la ansiedad. Sin objetivo, improvisas, y la improvisación suena a inseguridad."
+          ]
+        },
+        {
+          "titulo": "Durante",
+          "sub": "reacciona después",
+          "texto": [
+            "Si el cliente es áspero, recíbelo con naturalidad y devuelve una pregunta. Y celebra por dentro: festejar demasiado un sí comunica que eso es raro para ti."
+          ]
+        },
+        {
+          "titulo": "Después",
+          "sub": "registra lo que oíste",
+          "texto": [
+            "Anota sus frases, números y plazos, no lo que sentiste. Una frase anotada se vuelve propuesta la semana siguiente; la sensación desaparece en dos días."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelo para copiar",
+      "sub": "Entrena el nivel 2 sin gastar una conversación real: la IA hace de cliente difícil.",
+      "blocos": [
+        {
+          "rot": "Prompt · entrenamiento de escucha con cliente simulado",
+          "icone": "chat",
+          "conteudo": "Vas a simular un cliente para que yo entrene la escucha. Reglas:\nPAPEL: eres <dueño de una transportadora mediana, ocupado y escéptico>. Tienes un problema real\nde <describe en una línea, ej.: retrabajo en la verificación de pedidos>, pero NO me lo vas a entregar\nservido: responde corto, menciona síntomas y solo profundiza si hago una buena pregunta.\nMI TAREA: descubrir el problema de raíz y cuánto cuesta, solo preguntando.\nREGLAS DE LA SIMULACIÓN:\n- Una intervención a la vez. Nunca escribas mi parte.\n- Si propongo una solución antes de entender el problema, resiste como lo haría un cliente real.\n- Si hago dos preguntas en el mismo mensaje, responde solo la segunda.\nAL FINAL (cuando escriba \"fim\"): sal del papel y dame un informe con\n(a) cuál era el problema de raíz que yo debería haber encontrado,\n(b) mis preguntas que funcionaron y por qué,\n(c) los momentos en que hablé cuando debí haber esperado,\n(d) una nota de 0 a 10 para mi escucha, siendo duro."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Una conversación real y un entrenamiento.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Tres frases literales",
+          "min": "10 min",
+          "texto": "En tu próxima conversación de trabajo (comercial o no), al colgar, escribe de memoria tres frases que dijo la otra persona, con sus palabras, y estima tu proporción de habla.",
+          "pronto": "tienes 3 frases del otro entre comillas, sin paráfrasis, y un número para tu proporción de habla."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Entrenamiento de escucha con IA",
+          "min": "25 min",
+          "texto": "Ejecuta el prompt del cliente simulado con el tipo de empresa que atiendes. Conduce solo preguntando y escribe \"fim\" cuando creas que llegaste a la raíz.",
+          "pronto": "el informe final señala al menos 1 momento en que atropellaste; si solo hubo elogios, repítelo pidiendo severidad."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "El cliente respondió tu pregunta ligera con una frase corta y no devolvió nada. ¿Qué indica eso?",
+          "opcoes": [
+            "Que no le caíste bien; vale la pena insistir con otro tema personal",
+            "Que quiere ir al asunto; cierra la conversación ligera y empieza la investigación",
+            "Que la conversación está perdida y es mejor reprogramar"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Dale el hilo y mira si tira de él. Una respuesta corta es señal de alguien que quiere trabajar: respétalo y sigue. Insistir en la charla suena forzado."
+        },
+        {
+          "p": "¿Qué movimiento es típico del nivel 2 de escucha?",
+          "opcoes": [
+            "Interrumpir con \"¡exacto!\" para mostrar que entendiste",
+            "Devolver con sus palabras: \"entonces el cuello de botella es la verificación, ¿es eso?\"",
+            "Seguir la lista de preguntas en el orden preparado"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "En el nivel 2 la siguiente pregunta nace de la última respuesta. Interrumpir y seguir la lista fija son señales del nivel 1."
+        },
+        {
+          "p": "Una pausa larga del cliente en medio de la conversación. ¿Qué hacer?",
+          "opcoes": [
+            "Llenarla enseguida, para que no quede incómodo",
+            "Esperar y, si hace falta, confirmar con una pregunta qué significa",
+            "Cambiar de tema"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Una pausa puede ser \"estoy pensando\" o \"me desconecté\". Llenarla borra la señal antes de que la leas; confirmar con una pregunta evita adivinar."
+        },
+        {
+          "p": "¿Por qué celebrar demasiado un sí pequeño perjudica?",
+          "opcoes": [
+            "Porque comunica necesidad: parece que eso es raro para ti",
+            "Porque el cliente puede pedir descuento",
+            "No perjudica; muestra entusiasmo"
+          ],
+          "certa": 0,
+          "ref": "passos",
+          "explica": "El entusiasmo excesivo plantea la pregunta \"¿por qué nadie más compra?\". Un \"genial, vamos a acordar los próximos pasos\" transmite rutina, y la rutina tranquiliza a quien compra."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Quien habla, adivina",
+          "texto": "El cliente ocupa la mayor parte del tiempo; tú sales con hechos dichos por él."
+        },
+        {
+          "t": "Tres niveles",
+          "texto": "Responder, entender y escuchar la energía. Sube un nivel por conversación."
+        },
+        {
+          "t": "La sintonía tiene su dosis",
+          "texto": "Dos a tres minutos, y sigue el hilo solo si la persona lo tira."
+        },
+        {
+          "t": "A ti también te leen",
+          "texto": "La necesidad excesiva aleja; la naturalidad tranquiliza."
+        }
+      ]
+    }
+  ]
+}

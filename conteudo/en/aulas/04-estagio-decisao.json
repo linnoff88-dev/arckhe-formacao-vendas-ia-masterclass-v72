@@ -1,0 +1,280 @@
+{
+  "slug": "estagio-decisao",
+  "num": 4,
+  "menu": "Decision",
+  "titulo": "Where the client is in the decision",
+  "titulo_curto": "Decision stage",
+  "minutos": 18,
+  "lead": "Saying the same thing to someone who is just starting to notice the problem and to someone who is about to sign is the most expensive mistake in the process. Here you locate the person in minutes, change your role accordingly, test the five gates of the decision, and disqualify people who aren't clients without feeling guilty.",
+  "objetivo": "place the client at top, middle or bottom, test the 5 decision gates, and disqualify without guilt anyone who isn't ready now.",
+  "competencias": [
+    "identificar-estagio-de-decisao",
+    "testar-comportas-de-decisao",
+    "desqualificar-sem-culpa"
+  ],
+  "aprende": [
+    {
+      "t": "Top, middle and bottom, and your role in each"
+    },
+    {
+      "t": "The cascade of the five decision gates"
+    },
+    {
+      "t": "The question matrix that reveals the stage"
+    },
+    {
+      "t": "Prepare the conversation with AI without making up facts"
+    }
+  ],
+  "hero_alt": "Desk seen from above with three columns of blank paper cards and a hand moving one card.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "The decision cascade",
+      "sub": "Every purchase goes through five gates. One closed gate is enough to stop the whole flow.",
+      "nos": [
+        {
+          "icone": "relogio",
+          "titulo": "Is it urgent?",
+          "sub": "does it hurt now or later",
+          "forte": true,
+          "detalhe": "Test: \"what changes if this keeps going the way it is for six more months?\". With no consequence, there is no decision."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Is there a solution?",
+          "sub": "this can be solved",
+          "detalhe": "Test: \"have you ever seen anyone solve this? What makes you think it can or can't be done?\"."
+        },
+        {
+          "icone": "escudo",
+          "titulo": "Do I trust them?",
+          "sub": "delivers what they say",
+          "forte": true,
+          "detalhe": "Test: \"what would you need to see to feel comfortable starting with me?\". This is the gate that Professional 2030 works on all the time: saying what you know and what you don't know how to do."
+        },
+        {
+          "icone": "grafico",
+          "titulo": "Is it better?",
+          "sub": "beats what we already have",
+          "detalhe": "Test: \"what result would need to change for it to be worth replacing what you have today?\"."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Does it fit?",
+          "sub": "budget and time",
+          "detalhe": "Test: \"besides the price, what else needs to be in place to start next month?\"."
+        }
+      ],
+      "legenda": "\"It's too expensive\" is almost always the urgency gate or the stalled trust gate, not the budget gate. Pushing on the last one is arguing over the symptom."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Three stages, three roles",
+      "sub": "You don't change personality: you change function.",
+      "passos": [
+        {
+          "titulo": "Top · teacher",
+          "sub": "\"something here isn't right\"",
+          "texto": [
+            "The person knows something is bothering them, but can't name it or tell that a solution exists. Validate the discomfort, explain the possible causes, show that the problem has a name.",
+            "Don't sell anything. Anyone who tries to close here looks opportunistic."
+          ]
+        },
+        {
+          "titulo": "Middle · advisor",
+          "sub": "\"how do I solve this?\"",
+          "texto": [
+            "They have understood the problem and are comparing paths and vendors. Set yourself apart by how well you understand the problem, not by your list of features.",
+            "This is where curiosity, authenticity and listening matter most."
+          ]
+        },
+        {
+          "titulo": "Bottom · the one who stays alongside",
+          "sub": "\"with whom and when\"",
+          "texto": [
+            "They have already decided. The job now is to remove friction: deadlines, steps, who takes part, how it starts. Make it easy; don't sell again.",
+            "In Professional 2030, this is where ongoing advisory comes in: the person who leads the rollout together with the managers, not the one who delivers and disappears."
+          ]
+        },
+        {
+          "titulo": "The two classic mistakes",
+          "sub": "selling early, teaching late",
+          "texto": [
+            "Selling at the top: they are still understanding the problem and you have already sent the quote. They pull back.",
+            "Teaching at the bottom: they want to start and you give a twenty-minute lecture. They cool off and the topic goes back to the queue."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "The matrix that reveals the stage",
+      "sub": "The quality of the answer, not the content, tells you where the person is.",
+      "passos": [
+        {
+          "titulo": "\"What made you look for this now?\"",
+          "sub": "trigger",
+          "texto": [
+            "Answers well: there is a concrete trigger, already at least middle of the funnel. Stalls (\"I'm just looking\"): top."
+          ]
+        },
+        {
+          "titulo": "\"Which numbers would you like to see change?\"",
+          "sub": "metric",
+          "texto": [
+            "Names a metric and a target: middle or bottom. \"I've never measured that\": top, and you just found the next topic."
+          ]
+        },
+        {
+          "titulo": "\"What if we start 30 days later?\"",
+          "sub": "urgency",
+          "texto": [
+            "They describe the consequence in detail: bottom. \"I don't know, I guess nothing\": there is no urgency. Go back to the first gate."
+          ]
+        },
+        {
+          "titulo": "\"Who else needs to agree?\"",
+          "sub": "decision",
+          "texto": [
+            "They name people and roles: bottom. Evasive: either they aren't the decision-maker, or they haven't thought about it yet.",
+            "Almost everyone who \"asks for the price right away\" is actually at the top."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Transformation and disqualification",
+      "sub": "What to sell and who to say goodbye to.",
+      "passos": [
+        {
+          "titulo": "Sell the transformation",
+          "sub": "the two-portraits test",
+          "texto": [
+            "Nobody dreams of an automated workflow; people dream of the life on the other side of it. Talk about the current state and the desired state, with a deadline and in their own language.",
+            "Before you propose anything, write two sentences: what their day looks like today and what it will look like afterward. If you can't, the diagnosis was shallow."
+          ]
+        },
+        {
+          "titulo": "Signs it's not the right time",
+          "sub": "disqualifying is respect",
+          "texto": [
+            "They refuse any conversation and only want the proposal, even after you explain. They can't say what changes if nothing is done. They push the date back two or three times.",
+            "They want the service at a price so low that it could only be delivered with poor quality."
+          ],
+          "exemplo": {
+            "rot": "How to leave without burning the bridge",
+            "texto": "From what you've told me, I don't think now is the right time, and I wouldn't feel right charging you for something that won't pay off yet. When what you mentioned happens, reach out and we'll pick this back up."
+          }
+        }
+      ]
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Template to copy",
+      "sub": "Half an hour before the conversation: a briefing that doesn't invent facts.",
+      "blocos": [
+        {
+          "rot": "Prompt · pre-conversation briefing",
+          "icone": "lupa",
+          "conteudo": "You are my commercial pre-conversation analyst. I'm about to talk to a company.\nCOMPANY: <name> — <website, if any>\nINDUSTRY: <e.g., last-mile logistics>\nAPPROXIMATE SIZE: <e.g., 30 employees>\nWHAT I SELL: <one sentence: AI diagnostic, review, mentorship or training>\nGive me, in American English:\n1. SUMMARY in 5 lines of what this company probably does and how it makes money.\n   Clearly mark with [ASSUMPTION] everything that is your own inference.\n2. FIVE PAIN HYPOTHESES typical for this industry and size, from most to least likely.\n3. For each hypothesis, ONE root question that tests it without sounding like market research.\n4. THREE things I should NOT say in this conversation (jargon or a promise that sounds empty).\n5. One opening line, in the vocabulary of people who work in this industry.\nNever invent a number, client or specific fact about the company. If you don't know, write\n\"I don't know — ask in the conversation\"."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Practice",
+      "sub": "Prepare for a conversation and locate the client within it.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Pre-conversation briefing",
+          "min": "20 min",
+          "texto": "Run the briefing for the next company you're going to talk to (or for a real company in your niche). Check every factual claim.",
+          "pronto": "every claim about the company is marked [ASSUMPTION] or \"I don't know — ask in the conversation\", and you've discarded any number without a source."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · The matrix in a conversation",
+          "min": "15 min",
+          "texto": "Use at least two questions from the matrix in a real conversation. When you hang up, write down the person's stage and the sentence that revealed it.",
+          "pronto": "you have written down the stage (top, middle or bottom), the exact sentence that revealed it and the gate that seems stuck."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Quick quiz",
+      "sub": "4 questions. The explanation appears after your attempt.",
+      "perguntas": [
+        {
+          "p": "You ask \"what happens if we start 30 days later?\" and hear \"I don't know, I guess nothing.\" What does that indicate?",
+          "opcoes": [
+            "That they're at the bottom of the funnel and it's time to send the proposal",
+            "That there's no urgency: go back to investigating the consequence of not acting",
+            "That price is the only obstacle and it's worth offering a discount"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Without a consequence there's no decision. The closed gate is urgency, and a discount doesn't open that gate."
+        },
+        {
+          "p": "The client says \"it's expensive.\" Which gate is usually stuck?",
+          "opcoes": [
+            "Always the budget one",
+            "Almost always the urgency or trust one",
+            "The one about whether a solution exists"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "When the pain is small or they don't trust you, any price seems high. Arguing about value is treating the symptom."
+        },
+        {
+          "p": "At the bottom of the funnel, what is your role?",
+          "opcoes": [
+            "Teacher: explain the causes of the problem",
+            "The one who facilitates and guides the rollout: deadlines, steps, who takes part",
+            "Salesperson: reinforce the benefits one more time"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "They've already decided. Teaching or selling again cools the decision; removing friction and agreeing on how it starts is what they need."
+        },
+        {
+          "p": "The pre-conversation briefing came back with an exact revenue figure for the company, with no source. What should you do?",
+          "opcoes": [
+            "Use it in the conversation to impress",
+            "Drop the passage: wrong data costs more than showing up with no data",
+            "Ask the model to confirm"
+          ],
+          "certa": 1,
+          "ref": "codigo",
+          "explica": "The dossier rule is to never invent a fact. A number without a source is a guess, and citing a guess as fact brings down the trust gate."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Summary",
+      "itens": [
+        {
+          "t": "Three stages, three roles",
+          "texto": "Teacher at the top, advisor in the middle, the one who stays by your side at the bottom."
+        },
+        {
+          "t": "Buying is a cascade",
+          "texto": "A closed gate stops everything, and it is almost never the price gate."
+        },
+        {
+          "t": "The answer reveals the stage",
+          "texto": "Use the matrix in the first few minutes."
+        },
+        {
+          "t": "Disqualifying is respect",
+          "texto": "Someone who isn't a client today may become a referral tomorrow."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "slug": "fechamento",
+  "num": 7,
+  "menu": "Cierre",
+  "titulo": "La secuencia de cierre en tres pasos",
+  "titulo_curto": "Cierre en 3 pasos",
+  "minutos": 20,
+  "lead": "Cerrar no es un golpe de suerte al final de la conversación: es una secuencia de tres movimientos, precedida por una agenda y seguida por una fecha en el calendario. Y lo que se cierra aquí no es un proyecto de construcción: es un acompañamiento, la mentoría de 90 días con los gerentes, con indicador y fecha de revisión.",
+  "objetivo": "recapitular, conectar y conducir hasta un compromiso de acompañamiento con indicador y fecha de revisión, sin devolver la decisión.",
+  "competencias": [
+    "conduzir-fechamento",
+    "propor-acompanhamento",
+    "marcar-proximo-passo"
+  ],
+  "aprende": [
+    {
+      "t": "La agenda de treinta segundos y los dos desenlaces aceptables"
+    },
+    {
+      "t": "Recapitular, conectar y conducir, en ese orden"
+    },
+    {
+      "t": "Por qué el puente es el acompañamiento, no la construcción"
+    },
+    {
+      "t": "Agendar la próxima dentro de esta y limpiar el embudo"
+    }
+  ],
+  "hero_alt": "Consultora y un gerente mirando juntos un calendario de papel en la pared y marcando una fecha.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Del encuentro al compromiso",
+      "sub": "Agenda, tres pasos y la fecha. Haz clic en cada bloque.",
+      "nos": [
+        {
+          "icone": "lista",
+          "titulo": "Agenda",
+          "sub": "30 segundos",
+          "detalhe": "\"Primero te hago algunas preguntas, después te muestro lo que suele resolver, y si tiene sentido acordamos el próximo paso. ¿Te funciona? ¿Quieres incluir algo?\" Recoge el primer sí pequeño, y el punto que él incluye es la prioridad real."
+        },
+        {
+          "icone": "chat",
+          "titulo": "1 · Recapitular",
+          "sub": "con sus palabras",
+          "detalhe": "Tres o cuatro puntos, como máximo, con las palabras que él usó, no con tu vocabulario técnico. Termina con \"¿es así?\" y espera la confirmación."
+        },
+        {
+          "icone": "alvo",
+          "titulo": "2 · Conectar",
+          "sub": "problema → objetivo → puente",
+          "forte": true,
+          "detalhe": "El problema en sus palabras → el objetivo que él declaró → el puente en una frase → el retrato del después. El puente de Profesional 2030 es el acompañamiento: la mentoría de 90 días con el gerente que conoce el proceso, hasta el traspaso seguro a TI."
+        },
+        {
+          "icone": "seta",
+          "titulo": "3 · Conducir",
+          "sub": "no devuelvas la pelota",
+          "detalhe": "\"Entonces el camino es este. ¿Empezamos el día 20 o el día 27?\" Dos opciones concretas, no una pregunta abierta. \"¿Y bien, qué opinas?\" devuelve la decisión a quien acaba de recibir mucha información."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Compromiso",
+          "sub": "indicador y revisión",
+          "detalhe": "El cierre sale con tres cosas: la fecha de inicio, el indicador que va a mostrar si funcionó (el número del diagnóstico) y la fecha de la primera revisión. Después de los 90 días, el acompañamiento mensual."
+        }
+      ],
+      "legenda": "Todo encuentro tiene solo dos desenlaces aceptables: cerrar o agendar el próximo encuentro con fecha. \"Después te aviso\" es el comienzo de la desaparición.",
+      "dica": "Conducir no es presionar. Si el diagnóstico se hizo y la recapitulación fue confirmada, proponer la fecha es el paso natural."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Los tres pasos, con las frases",
+      "sub": "En el orden en que las vas a usar.",
+      "passos": [
+        {
+          "titulo": "Recapitular",
+          "sub": "lo que funciona y lo que vacía",
+          "texto": [
+            "Funciona: \"por lo que me contaste: el pedido llega por tres canales, la verificación es manual y en las semanas con más carga pierden unos cinco cierres. ¿Es así?\".",
+            "Vacía: \"identifiqué cuellos de botella de flujo y oportunidades de orquestación\". Él no habló así. Desde la pantalla, escribe los puntos mientras él habla y compártelos al instante."
+          ]
+        },
+        {
+          "titulo": "Conectar",
+          "sub": "una conexión por punto",
+          "texto": [
+            "Problema: \"la verificación manual retrasa el cierre\". Objetivo: \"dijiste que quieres cerrar el mes sin que nadie se quede despierto toda la madrugada\".",
+            "Puente y retrato: \"propongo acompañar a quien se encarga de la verificación durante 90 días, hasta que el proceso nuevo funcione con el equipo y pase a TI con pruebas. Al final del mes, en vez de dos noches, queda una revisión\"."
+          ]
+        },
+        {
+          "titulo": "Por qué no vender la construcción",
+          "sub": "construir se volvió fácil",
+          "texto": [
+            "Entregar solo la construcción se vuelve una disputa de precio cuando el cliente puede hacerlo solo con IA. Y el sistema que nadie usa muere sin el gestor cerca.",
+            "El Mentor acompaña al gestor del prototipo hasta la validación con TI, con método, pruebas y seguridad. Eso es lo que la empresa compra: confianza."
+          ]
+        },
+        {
+          "titulo": "Conducir",
+          "sub": "dos opciones, no una pregunta",
+          "texto": [
+            "Conducido: \"¿empezamos el 20 o el 27? La primera revisión del indicador queda agendada contigo y con el gestor\".",
+            "Devuelto: \"¿qué te parece?\", \"cualquier cosa me avisas\", \"te dejo pensarlo con calma\". El resultado por defecto es \"necesito pensarlo\"."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "simconversa",
+      "titulo": "Conversación simulada: la segunda conversación",
+      "sub": "El mismo dueño de la transportadora de la clase 3, ahora para cerrar (personaje ficticio). Elige la respuesta que darías.",
+      "personagem": {
+        "nome": "Dueño de una transportadora mediana",
+        "papel": "segunda conversación · con el responsable de la verificación"
+      },
+      "inicio": "abre",
+      "falas": {
+        "abre": {
+          "cliente": "Buen día. Traje al responsable de la verificación, como acordamos. Puedes empezar.",
+          "opcoes": [
+            {
+              "t": "Gracias por su tiempo. Pensé así: recapitulo lo que entendí, muestro el camino y, si tiene sentido, acordamos el inicio. ¿Quieren incluir algo?",
+              "vai": "recap",
+              "nota": 2,
+              "comenta": "Agenda de treinta segundos: dirección, respeto por el tiempo y un primer sí pequeño."
+            },
+            {
+              "t": "Voy directo a la propuesta, para no quitarles tiempo.",
+              "vai": "recap",
+              "nota": 1,
+              "comenta": "Saltarse la agenda parece eficiente, pero pierdes la oportunidad de saber qué es lo que más preocupa a los dos."
+            }
+          ]
+        },
+        "recap": {
+          "cliente": "Puede ser. Y quiero saber una cosa: ¿cuánto tiempo pasa hasta que el equipo use esto de verdad?",
+          "opcoes": [
+            {
+              "t": "Por lo que ustedes me contaron: el registro duplicado hace que unos tres pedidos por semana vuelvan, la verificación lo revisa todo a mano y el último sistema quedó sin uso. ¿Es así?",
+              "vai": "amarra",
+              "nota": 2,
+              "comenta": "Recapituló con las palabras de ellos, en tres puntos, y esperó la confirmación. Y guardó la pregunta de él para la conexión."
+            },
+            {
+              "t": "Identifiqué cuellos de botella de flujo de datos y oportunidades de orquestación.",
+              "vai": "amarra",
+              "nota": 0,
+              "comenta": "Nadie ahí habló así. Ellos necesitan reconocerse en lo que dices."
+            }
+          ]
+        },
+        "amarra": {
+          "cliente": "Es eso. Pero la otra vez compramos un sistema listo y nadie lo usó.",
+          "opcoes": [
+            {
+              "t": "Por eso no propongo entregar un sistema listo. Propongo acompañar al responsable de la verificación durante 90 días: él arma el proceso nuevo con el equipo, lo probamos y lo pasamos a TI con seguridad. El indicador es el número de pedidos que vuelven por semana.",
+              "vai": "conduz",
+              "nota": 2,
+              "comenta": "Problema → objetivo → puente → retrato del después. Y el puente es el acompañamiento, que responde a la pregunta de él: el equipo lo usa porque lo construyó junto."
+            },
+            {
+              "t": "Esta vez yo lo construyo y lo entrego listo en tres semanas.",
+              "vai": "conduz",
+              "nota": 1,
+              "comenta": "Él acaba de decir que el sistema listo murió sin uso. Vender la construcción repite el problema y se vuelve una disputa de precio."
+            },
+            {
+              "t": "La solución tiene integración con el sistema, panel de control y agentes que orquestan la verificación.",
+              "vai": "fim-complexo",
+              "nota": 0,
+              "comenta": "Los recursos que no se conectan con ningún problema de él aumentan la percepción de complejidad, enemiga de la decisión."
+            }
+          ]
+        },
+        "conduz": {
+          "cliente": "Tiene sentido.",
+          "opcoes": [
+            {
+              "t": "Y entonces, ¿qué opinan? ¿Seguimos?",
+              "vai": "fim-pensar",
+              "nota": 0,
+              "comenta": "Devolviste toda la decisión a quien acaba de recibir mucha información."
+            },
+            {
+              "t": "Entonces, ¿empezamos el 20 o el 27? Y dejamos agendada la primera revisión del indicador con ustedes dos, treinta días después del inicio.",
+              "vai": "fim-bom",
+              "nota": 2,
+              "comenta": "Cierre conducido: dos fechas, el indicador y la revisión agendada dentro de la misma reunión."
+            },
+            {
+              "t": "Te voy a mandar el link de mi agenda para que elijas.",
+              "vai": "fim-pensar",
+              "nota": 0,
+              "comenta": "Un link de agenda no es un desenlace: traslada el trabajo para después, y ese después suele no llegar."
+            }
+          ]
+        },
+        "fim-pensar": {
+          "fim": true,
+          "titulo": "\"Lo voy a pensar\"",
+          "texto": "Dice que va a hablar con su socio y te responde. Sin fecha, la oportunidad entra en la lista de \"quedó en contestarme\", y la buena conversación muere sin motivo aparente."
+        },
+        "fim-complexo": {
+          "fim": true,
+          "titulo": "Demasiado complejo",
+          "texto": "El responsable de la conferencia se asusta con la cantidad de piezas. El dueño pide pensarlo. Nada de lo que enumeraste respondía a su pregunta: cuánto tiempo pasa hasta que el equipo lo use de verdad."
+        },
+        "fim-bom": {
+          "fim": true,
+          "titulo": "Compromiso de acompañamiento",
+          "texto": "Elige el día 27. Sale de la reunión con la fecha de inicio, el indicador (pedidos que vuelven por semana) y la primera revisión en la agenda de los dos. No vendiste un sistema: vendiste 90 días de acompañamiento junto a quien conoce el proceso."
+        }
+      },
+      "licao": "Recapitular con sus palabras, conectar con el objetivo y conducir con dos fechas. El puente es el acompañamiento, y el cierre lleva indicador y revisión."
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "La frase de cierre, la frase para agendar la siguiente y la limpieza del embudo.",
+      "blocos": [
+        {
+          "rot": "Frase de cierre · acompañamiento con indicador",
+          "icone": "chat",
+          "conteudo": "RECAPITULAR\n\"Por lo que me contaste: <punto 1 con sus palabras>, <punto 2>, <punto 3>.\n¿Es así?\"  [espera la confirmación]\n\nCONECTAR (una vez por punto, máximo 3)\n\"Dijiste que quieres <objetivo de la persona>.\nPor eso propongo acompañar a <gestor que conoce el proceso> durante 90 días:\nél arma la solución con el equipo, nosotros la probamos y la pasamos a TI con seguridad.\nEn la práctica: <retrato del después>.\"\n\nCONDUCIR\n\"El indicador es <número del diagnóstico>. ¿Empezamos el día <fecha A> o el día <fecha B>?\nY dejamos agendada desde ya la primera revisión del indicador para <fecha de revisión>.\"\n\nDESPUÉS DE LOS 90 DÍAS\nAcompañamiento mensual: revisión del indicador, casos nuevos, riesgos."
+        },
+        {
+          "rot": "Frase lista · agendar la siguiente",
+          "icone": "calendario",
+          "conteudo": "\"Excelente. Para armar esto bien, necesito una conversación más de treinta minutos,\nya con <quién más necesita participar>.\nTengo el martes por la mañana o el jueves por la tarde. ¿Cuál te viene mejor?\"\n[si duda]\n\"Sin problema — lo dejamos agendado ahora y, si hace falta, lo ajustamos después.\n¿Prefieres martes o jueves?\"\n[si lo empuja a la semana siguiente]\n\"Listo, vemos la semana siguiente. ¿Lunes o miércoles?\""
+        },
+        {
+          "rot": "Prompt · limpieza del embudo",
+          "icone": "lista",
+          "conteudo": "Eres mi gerente comercial y vas a ser duro conmigo. Abajo está mi lista de\noportunidades abiertas. Para cada una, yo informo: quién es, último contacto,\nqué quedó acordado y si hay fecha agendada.\nLISTA:\n- <empresa/persona> | último contacto: <fecha> | acordado: <qué quedó> | próxima fecha: <sí/no>\n- (repite para cada una)\nClasifica cada línea en: REAL (tiene fecha y paso definido), TIBIA (interés claro,\nsin fecha) o FANTASMA (sin fecha y sin paso, o detenida hace más de 21 días).\nPara cada una, escribe:\n1. La clasificación y el porqué, en una línea.\n2. Un mensaje corto y sin súplica para reabrir — en el caso de las TIBIAS, terminando\n   siempre con dos opciones de fecha.\n3. Para las FANTASMAS, un mensaje de cierre elegante que deje la puerta abierta.\nAl final, dime cuántas oportunidades REALES tengo de verdad."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Tu frase de cierre y tu embudo de verdad.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Tu frase de cierre",
+          "min": "25 min",
+          "texto": "Toma un diagnóstico real (o la conversación simulada de la clase 3) y completa la frase de cierre. Practica en voz alta y haz la conversación simulada de esta clase hasta llegar al puntaje máximo.",
+          "pronto": "la frase tiene 3 puntos con las palabras del cliente, el puente de acompañamiento (no de construcción), el indicador, dos fechas de inicio y la fecha de revisión."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Limpieza del embudo",
+          "min": "20 min",
+          "texto": "Enumera todas las oportunidades abiertas, con la columna de la fecha, y ejecuta el prompt de limpieza. Envía los mensajes a las tibias.",
+          "pronto": "sabes cuántas oportunidades REALES tienes y cada línea tiene una acción, incluso las de cerrar."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "Terminaste la recapitulación y la conexión. ¿Cuál es la mejor frase siguiente?",
+          "opcoes": [
+            "\"Entonces, ¿qué opinas? ¿Tiene sentido que sigamos?\"",
+            "\"¿Cuándo quieres empezar: el día 20 o el día 27?\"",
+            "\"Te voy a mandar el link de mi agenda.\""
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Dos opciones concretas reducen la decisión a una elección simple. Las otras devuelven la pelota o trasladan trabajo para después."
+        },
+        {
+          "p": "¿Cuál es el orden de la conexión?",
+          "opcoes": [
+            "Solución → problema → objetivo",
+            "Problema → objetivo → puente → retrato del después",
+            "Precio → solución → plazo"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Quien empieza por la solución presenta un producto; quien empieza por el problema le está resolviendo la vida a alguien."
+        },
+        {
+          "p": "El cliente cuenta que el último sistema que compró quedó sin uso. ¿Qué proponer?",
+          "opcoes": [
+            "Un sistema mejor, entregado listo",
+            "Acompañar durante 90 días al gestor que conoce el proceso, hasta el traspaso seguro a TI",
+            "Un descuento para compensar la mala experiencia"
+          ],
+          "certa": 1,
+          "ref": "simconversa",
+          "explica": "Una construcción lista repite el problema y se vuelve disputa de precio. El acompañamiento responde a lo que se trabó: el equipo usa lo que construye junto contigo."
+        },
+        {
+          "p": "¿Qué necesita tener un cierre de acompañamiento, además de la fecha de inicio?",
+          "opcoes": [
+            "El indicador y la fecha de la primera revisión",
+            "La lista completa de recursos",
+            "Una garantía de resultado"
+          ],
+          "certa": 0,
+          "ref": "diagrama",
+          "explica": "El indicador sale del número del diagnóstico y la revisión agendada muestra si funcionó. Una garantía de resultado es una promesa, no un método."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "Empieza con una agenda",
+          "texto": "Treinta segundos que dan dirección y cosechan el primer sí."
+        },
+        {
+          "t": "Recapitular, conectar, conducir",
+          "texto": "En ese orden, siempre, con las palabras de la persona."
+        },
+        {
+          "t": "El puente es el acompañamiento",
+          "texto": "Mentoría de 90 días con el gerente y después acompañamiento mensual, no construcción."
+        },
+        {
+          "t": "Sin fecha, no hay oportunidad",
+          "texto": "Dos opciones, marcadas dentro del propio encuentro, con indicador y revisión."
+        }
+      ]
+    },
+    {
+      "tipo": "links",
+      "titulo": "Para ir más allá",
+      "links": [
+        {
+          "t": "Formación Mentor de IA: cómo conducir los 90 días",
+          "href": "https://inematds.github.io/prof2030-mentor/"
+        },
+        {
+          "t": "Área Profesional 2030: los cuatro roles",
+          "href": "https://eventos.inema.pro/prof2030/"
+        }
+      ]
+    }
+  ]
+}

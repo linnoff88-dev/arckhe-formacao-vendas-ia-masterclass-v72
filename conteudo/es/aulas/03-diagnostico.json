@@ -1,0 +1,406 @@
+{
+  "slug": "diagnostico",
+  "num": 3,
+  "menu": "Diagnóstico",
+  "titulo": "La conversación de diagnóstico",
+  "titulo_curto": "Conversación de diagnóstico",
+  "minutos": 20,
+  "lead": "Aquí es donde la venta se gana o se pierde. Lo que viene después (propuesta, precio, firma) solo ordena lo que se acordó en esta conversación. Vas a separar las preguntas que llenan tiempo de las que abren el problema, convertir el dolor en número y llegar al fuego cuando el cliente solo mostró el humo.",
+  "objetivo": "conducir la conversación de diagnóstico en 5 hitos, encontrar el fuego detrás del humo y salir con el dolor en número dicho por el cliente.",
+  "competencias": [
+    "conduzir-diagnostico",
+    "fazer-perguntas-de-raiz",
+    "quantificar-a-dor"
+  ],
+  "aprende": [
+    {
+      "t": "Los cinco hitos de la conversación de diagnóstico"
+    },
+    {
+      "t": "Preguntas de superficie × preguntas de raíz"
+    },
+    {
+      "t": "Convertir el dolor en número en cuatro preguntas"
+    },
+    {
+      "t": "Practicar en una conversación simulada con marcador"
+    }
+  ],
+  "hero_alt": "Consultor y el dueño de una empresa de transporte de pie en el galpón, junto a la mesa de revisión de pedidos.",
+  "secoes": [
+    {
+      "tipo": "diagrama",
+      "titulo": "Los cinco hitos del diagnóstico",
+      "sub": "Cabe en una página. No es para leer en voz alta: es para no salir sin lo que necesitas.",
+      "nos": [
+        {
+          "icone": "chat",
+          "titulo": "Abrir",
+          "sub": "2 minutos y la agenda",
+          "detalhe": "Dos minutos de conversación ligera y la propuesta de agenda del encuentro: primero yo pregunto, después muestro lo que suele resolver, y si tiene sentido acordamos el próximo paso."
+        },
+        {
+          "icone": "camadas",
+          "titulo": "Situación",
+          "sub": "cómo funciona hoy",
+          "detalhe": "Cómo funciona hoy, con quién, en qué etapas. Son preguntas de superficie: calientan y no cuestan nada, pero quien se queda solo en ellas termina sin nada útil."
+        },
+        {
+          "icone": "lupa",
+          "titulo": "Raíz",
+          "sub": "2 o 3 preguntas incómodas",
+          "forte": true,
+          "detalhe": "Costo de no actuar, quién sufre más, por qué ahora. Dos o tres por conversación, espaciadas, con tiempo para responder. Ocho seguidas se vuelven un testimonio y la persona se cierra."
+        },
+        {
+          "icone": "grafico",
+          "titulo": "Número",
+          "sub": "la cuenta es de él",
+          "detalhe": "Frecuencia → unidad → valor de la unidad → devolución: \"entonces esto te está costando cerca de X al mes, ¿es por ahí?\". Él confirma y el número pasa a ser suyo."
+        },
+        {
+          "icone": "calendario",
+          "titulo": "Cerrar el encuentro",
+          "sub": "recapitular y agendar",
+          "detalhe": "Recapitular con sus palabras y acordar el próximo paso con fecha. Nada de \"te voy a mandar una propuesta\" sin saber para qué problema."
+        }
+      ],
+      "legenda": "Sales un diagnóstico hecho cuando puedes explicar el problema del cliente en tres frases, tienes un número dicho por él y sabes qué pasa si no hace nada."
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Las herramientas del diagnóstico",
+      "sub": "El consultorio, la pregunta de raíz, la cuenta y el fuego.",
+      "passos": [
+        {
+          "titulo": "La analogía del consultorio",
+          "sub": "cuando piden precio antes",
+          "texto": [
+            "Nadie sale del consultorio con la receta sin que el médico pregunte nada, y a nadie le parece raro. Usa esa imagen cuando el cliente quiere saltarse la investigación e ir directo al presupuesto.",
+            "Una propuesta a oscuras sale demasiado cara o demasiado barata. Las preguntas primero llevan a la propuesta del problema real."
+          ]
+        },
+        {
+          "titulo": "Superficie × raíz",
+          "sub": "lo que cambia el nivel",
+          "texto": [
+            "Superficie: \"¿cuál es el presupuesto?\", \"¿cuántas personas hay en el equipo?\", \"¿ya usan alguna herramienta?\".",
+            "Raíz: \"¿cuánto cuesta hoy no resolver esto?\", \"¿quién más siente este cuello de botella?\", \"¿por qué se volvió prioridad ahora?\", \"si nada cambia en seis meses, ¿qué pasa?\"."
+          ]
+        },
+        {
+          "titulo": "Dolor en número",
+          "sub": "frecuencia × unidad × valor",
+          "texto": [
+            "\"¿Con qué frecuencia pasa esto?\" → \"cada vez, ¿qué se pierde?\" → \"¿y eso suele valer cuánto?\" → \"entonces está costando cerca de X al mes, ¿es más o menos así?\".",
+            "Si no hay dinero directo, usa tiempo, pero tradúcelo en consecuencia: las personas son generosas consigo mismas al contar horas."
+          ]
+        },
+        {
+          "titulo": "Humo y fuego",
+          "sub": "el dolor que no sabe nombrar",
+          "texto": [
+            "\"El equipo tarda en responder\" es el humo. Tres preguntas encadenadas (¿por qué tarda? ¿de dónde viene la información? ¿quién revisa eso?) llegan al fuego: registro duplicado en el origen.",
+            "Atender el pedido literal entrega una curita donde hacía falta cirugía."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "passos",
+      "titulo": "Cuando el cliente se guarda información",
+      "sub": "Tres motivos y las objeciones que llegan disfrazadas.",
+      "passos": [
+        {
+          "titulo": "Tres motivos",
+          "sub": "no sabe, tiene favorito, se quemó",
+          "texto": [
+            "No sabe: cree que el síntoma es el problema; las preguntas lo resuelven. Ya tiene un favorito: está contrastando lo que dijo otro proveedor.",
+            "Ya se quemó: pagó por algo parecido que no funcionó. Aquí solo abre la transparencia."
+          ],
+          "exemplo": {
+            "rot": "Frase",
+            "texto": "Para proponerte lo correcto y no desperdiciar tu dinero, necesito entender mejor este punto. ¿Qué podrías contarme?"
+          }
+        },
+        {
+          "titulo": "Objeciones silenciosas",
+          "sub": "toda frase tibia merece una pregunta",
+          "texto": [
+            "\"Ya intentamos algo parecido y no funcionó\" → \"¿qué fue exactamente lo que no funcionó? Quiero asegurarme de no repetir el mismo error\".",
+            "\"Lo voy a ver con el equipo\" → \"¿quién más tiene que estar en esa conversación para que avance?\". Una objeción abierta a tiempo es información; si se cierra hasta el final, se vuelve \"lo voy a pensar\"."
+          ]
+        }
+      ]
+    },
+    {
+      "tipo": "simconversa",
+      "titulo": "Conversación simulada: el dueño de la transportadora",
+      "sub": "Conversación simulada para practicar (personaje ficticio). Elige la respuesta que darías tú; el comentario aparece justo después.",
+      "personagem": {
+        "nome": "Dueño de una transportadora mediana",
+        "papel": "ocupado y escéptico · decide con el socio"
+      },
+      "inicio": "abre",
+      "falas": {
+        "abre": {
+          "cliente": "Mi equipo tarda demasiado en responder a los clientes. Quiero un robot que responda rápido. ¿Me mandas el precio?",
+          "opcoes": [
+            {
+              "t": "Te lo mando hoy. Un robot de atención sale por un valor fijo.",
+              "vai": "fim-escuro",
+              "nota": 0,
+              "comenta": "Propuesta a oscuras: sin saber qué está pasando, el precio sale demasiado caro o demasiado barato, y vendes una curita."
+            },
+            {
+              "t": "Puedo mandártelo. Pero sin entender qué pasa ahí, me equivoco en el valor, para arriba o para abajo. ¿Me das 20 minutos de preguntas?",
+              "vai": "situacao",
+              "nota": 2,
+              "comenta": "Es la frase del consultorio: devuelves el pedido sin parecer resistente y le muestras que la prisa le sale cara."
+            },
+            {
+              "t": "Claro. ¿Cuáles son las mayores dificultades de ustedes hoy?",
+              "vai": "situacao",
+              "nota": 1,
+              "comenta": "Evitaste el precio a oscuras, pero la pregunta es demasiado genérica para rendir."
+            }
+          ]
+        },
+        "situacao": {
+          "cliente": "El pedido llega por WhatsApp, correo y teléfono. La asistente lo revisa en el sistema y responde. A veces tarda un día.",
+          "opcoes": [
+            {
+              "t": "Un robot responde en segundos, en los tres canales. Eso lo resuelve.",
+              "vai": "fim-curativo",
+              "nota": 0,
+              "comenta": "Atendiste el humo. Todavía no sabes por qué tarda la respuesta."
+            },
+            {
+              "t": "¿Y por qué tarda un día? ¿Qué pasa entre que llega el pedido y ella responde?",
+              "vai": "raiz",
+              "nota": 2,
+              "comenta": "Tiraste del hilo: la siguiente pregunta nació de su respuesta, no de una lista."
+            },
+            {
+              "t": "Entiendo. ¿Cuál es el presupuesto de ustedes para esto?",
+              "vai": "raiz",
+              "nota": 1,
+              "comenta": "Pregunta de superficie: no cuesta nada, pero no abre el problema. Él responde a regañadientes y tú sigues sin la causa."
+            }
+          ]
+        },
+        "raiz": {
+          "cliente": "Porque la información del pedido no siempre coincide. Ella tiene que revisarla con el almacén antes de responder.",
+          "opcoes": [
+            {
+              "t": "Entonces el robot consulta el almacén solo y responde.",
+              "vai": "fim-curativo",
+              "nota": 0,
+              "comenta": "Automatizar la revisión de una información errónea solo hace que se equivoque más rápido. Faltó preguntar de dónde viene el error."
+            },
+            {
+              "t": "¿De dónde viene esa información que no coincide? ¿Y quién la revisa hoy?",
+              "vai": "numero",
+              "nota": 2,
+              "comenta": "Tercera pregunta encadenada. Es la que lleva del humo al fuego."
+            }
+          ]
+        },
+        "numero": {
+          "cliente": "Quien la revisa es el área de verificación. Muchas veces el cliente está registrado dos veces, con direcciones distintas, y el pedido sale mal.",
+          "opcoes": [
+            {
+              "t": "¿Con qué frecuencia pasa eso? Y cada vez que sale mal, ¿qué pierden ustedes?",
+              "vai": "objecao",
+              "nota": 2,
+              "comenta": "Frecuencia y unidad: el comienzo de la cuenta que él mismo va a hacer y que va a sostener el valor de tu trabajo."
+            },
+            {
+              "t": "Lo encontramos: el problema es el registro de clientes. Propongo limpiar la base.",
+              "vai": "objecao",
+              "nota": 1,
+              "comenta": "Encontraste el fuego, pero te saltaste el número. Un dolor sin número no sostiene el precio ni muestra si el trabajo funcionó después."
+            }
+          ]
+        },
+        "objecao": {
+          "cliente": "Unos tres pedidos por semana regresan, y perdemos el flete y a veces al cliente. Pero mira, ya probamos un sistema parecido y no funcionó.",
+          "opcoes": [
+            {
+              "t": "Conmigo es diferente, puedes estar tranquilo.",
+              "vai": "fim-defesa",
+              "nota": 0,
+              "comenta": "Respuesta de defensa ante una herida antigua. Él se cierra, porque no fue escuchado."
+            },
+            {
+              "t": "¿Qué fue exactamente lo que no funcionó? Quiero asegurarme de no repetirlo.",
+              "vai": "fecho",
+              "nota": 2,
+              "comenta": "Abriste la objeción silenciosa temprano, cuando todavía se puede responder."
+            },
+            {
+              "t": "Entiendo. Volviendo a los pedidos que regresan…",
+              "vai": "fecho",
+              "nota": 1,
+              "comenta": "Dejaste pasar una frase tibia. Suele volver al final, en forma de \"lo voy a pensar\"."
+            }
+          ]
+        },
+        "fecho": {
+          "cliente": "Compramos un sistema, pero nadie del equipo lo usaba. Quedó abandonado.",
+          "opcoes": [
+            {
+              "t": "Por lo que me contaste: el pedido llega por tres canales, el registro duplicado hace que unos tres pedidos por semana regresen, y el último sistema quedó sin uso. ¿Es así? Quiero una conversación de 30 minutos contigo y con quien se encarga de la verificación. ¿El martes por la mañana o el jueves por la tarde?",
+              "vai": "fim-bom",
+              "nota": 2,
+              "comenta": "Recapituló con las palabras de él, confirmó y fijó el siguiente paso con quien siente el cuello de botella, con dos opciones de fecha."
+            },
+            {
+              "t": "Perfecto, voy a preparar una propuesta y te la envío por correo.",
+              "vai": "fim-sumico",
+              "nota": 0,
+              "comenta": "Salió sin fecha y sin confirmar el problema. Una propuesta por correo sin conversación suele ser el comienzo de la desaparición."
+            }
+          ]
+        },
+        "fim-escuro": {
+          "fim": true,
+          "titulo": "Precio a ciegas",
+          "texto": "Él compara tu valor con otros dos presupuestos de robot y elige el más barato. Nadie ahí sabe que el problema es el registro de clientes, y el robot va a responder rápido con la información errónea."
+        },
+        "fim-curativo": {
+          "fim": true,
+          "titulo": "Curita sobre el humo",
+          "texto": "Entregas la respuesta rápida, pero los pedidos siguen regresando, porque el error está en el registro duplicado de origen. El cliente queda insatisfecho y tú te quedas sin entender por qué."
+        },
+        "fim-defesa": {
+          "fim": true,
+          "titulo": "La herida no fue escuchada",
+          "texto": "Él agradece y dice que lo va a ver con su socio. La mala experiencia con el sistema anterior sigue en pie, ahora con tu nombre del lado de quienes prometen demasiado."
+        },
+        "fim-sumico": {
+          "fim": true,
+          "titulo": "Propuesta sin destino",
+          "texto": "La propuesta llega, él la abre, no responde. Sin conversación agendada y sin el problema confirmado, la oportunidad se vuelve una línea más de \"quedó de responderme\"."
+        },
+        "fim-bom": {
+          "fim": true,
+          "titulo": "El fuego, el número y la fecha",
+          "texto": "Sales con el problema de raíz en las palabras de él, un número que él mismo dijo y la próxima conversación agendada con quien se encarga de la verificación. Y sabes que el último sistema murió por falta de uso: en la clase 7, eso se convierte en la propuesta de acompañamiento."
+        }
+      },
+      "licao": "El cliente señala el humo. Tres preguntas encadenadas llegan al fuego, la cuenta la hace él y el encuentro termina con fecha."
+    },
+    {
+      "tipo": "codigo",
+      "titulo": "Modelos para copiar",
+      "sub": "La frase del consultorio y el generador de tu guion de diagnóstico.",
+      "blocos": [
+        {
+          "rot": "Frase lista · cuando piden propuesta antes de la conversación",
+          "icone": "chat",
+          "conteudo": "\"Sí puedo enviarla. Pero, sin entender qué está pasando ahí, va a pasar\nuna de dos cosas: o subestimo el trabajo — y entonces no me queda recurso para entregar\nbien lo que prometí — o me protejo y pongo un valor por encima de lo que necesitarías\npagar. Ninguna de las dos te sirve.\nDame 20 minutos de preguntas y te envío un número que tenga sentido para tu caso.\n¿Te parece el <dia> a las <hora>?\""
+        },
+        {
+          "rot": "Prompt · generador de tu guion de diagnóstico",
+          "icone": "arquivo",
+          "conteudo": "Arma mi guion de conversación de diagnóstico, en español latinoamericano neutro, en una página.\nCONTEXTO\n- Yo vendo: <ej.: diagnóstico de IA y mentoría de 90 días con gerentes>\n- Mi cliente típico: <ej.: clínicas con 10 a 50 empleados>\n- El problema que suelo resolver: <una frase>\nESTRUCTURA OBLIGATORIA (5 hitos)\n1. Apertura (2 min) — 3 opciones de frase para abrir sin parecer guion.\n2. Situación — 5 preguntas sobre cómo funciona hoy el proceso.\n3. Raíz — 4 preguntas incómodas: costo de no actuar, quién más se ve afectado,\n   por qué ahora, qué pasa en 6 meses sin cambio.\n4. Número — la secuencia de 4 preguntas que lleva de \"perdemos tiempo\" a un valor por mes.\n5. Cierre del encuentro — cómo recapitular y cómo proponer el siguiente paso con dos fechas.\nREGLAS\n- Nada de jerga técnica: escribe como habla el dueño de la empresa.\n- Cada pregunta en una línea, lista para decirse en voz alta.\n- Al final, enumera los 3 errores más probables que voy a cometer con este guion."
+        }
+      ]
+    },
+    {
+      "tipo": "pratica",
+      "titulo": "Práctica",
+      "sub": "Practica en la simulación y sal con tu guion.",
+      "exercicios": [
+        {
+          "id": "e1",
+          "titulo": "1 · Conversación simulada",
+          "min": "10 min",
+          "texto": "Haz la conversación con el dueño de la transportadora. Si no llegas al puntaje máximo, lee los comentarios del camino y empieza de nuevo.",
+          "pronto": "el marcador muestra el máximo de puntos posibles y sabes decir qué pregunta te llevó del humo al fuego."
+        },
+        {
+          "id": "e2",
+          "titulo": "2 · Tu guion de una página",
+          "min": "30 min",
+          "texto": "Ejecuta el generador del guion con tu servicio y tu cliente típico. Lee el hito 4 en voz alta simulando un cliente evasivo.",
+          "pronto": "el guion tiene los 5 hitos en una página y la secuencia del hito 4 llega a un número (cantidad, frecuencia o valor)."
+        }
+      ]
+    },
+    {
+      "tipo": "quiz",
+      "titulo": "Prueba rápida",
+      "sub": "4 preguntas. La explicación aparece después de tu intento.",
+      "perguntas": [
+        {
+          "p": "¿Cuál de estas es una pregunta de raíz?",
+          "opcoes": [
+            "\"¿Cuál es el presupuesto de ustedes para este proyecto?\"",
+            "\"¿Cuánto les está costando no resolver esto hoy, y quién más siente ese cuello de botella?\"",
+            "\"¿Ya usan alguna herramienta de IA?\""
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "La pregunta de raíz obliga al cliente a calcular y revela el alcance del problema. Las otras dos son de superficie: calientan, pero no abren nada."
+        },
+        {
+          "p": "El cliente dice \"perdemos tiempo con esto\". ¿Cuál es el siguiente paso para llegar al número?",
+          "opcoes": [
+            "Estimar tú mismo y presentar el valor",
+            "Preguntar la frecuencia, después qué se pierde cada vez y cuánto vale eso",
+            "Pasar directo a la propuesta"
+          ],
+          "certa": 1,
+          "ref": "passos",
+          "explica": "Frecuencia × unidad × valor, y al final se lo devuelves para que lo confirme. Su cálculo vale más que tu estimación."
+        },
+        {
+          "p": "\"Ya intentamos algo parecido y no funcionó.\" ¿Cómo responder?",
+          "opcoes": [
+            "\"Conmigo es diferente, puedes confiar.\"",
+            "\"¿Qué fue exactamente lo que no funcionó? Quiero asegurarme de no repetirlo.\"",
+            "Ignorarlo y seguir el guion"
+          ],
+          "certa": 1,
+          "ref": "simconversa",
+          "explica": "Es una objeción silenciosa. No discutas contra ella: ábrela con una pregunta, mientras todavía se puede responder."
+        },
+        {
+          "p": "¿Cuándo saliste de la conversación con un diagnóstico, y no solo con una charla agradable?",
+          "opcoes": [
+            "Cuando hablaste bien de tu servicio",
+            "Cuando explica el problema en 3 frases, hay un número dicho por él y sabes qué pasa si nada cambia",
+            "Cuando el cliente pidió la propuesta por correo electrónico"
+          ],
+          "certa": 1,
+          "ref": "diagrama",
+          "explica": "Las tres pruebas del diagnóstico. Salir \"de enviar una propuesta\" sin saber para qué problema es la señal opuesta."
+        }
+      ]
+    },
+    {
+      "tipo": "resumo",
+      "titulo": "Resumen",
+      "itens": [
+        {
+          "t": "La venta se decide aquí",
+          "texto": "El resto del proceso solo formaliza lo que quedó acordado en el diagnóstico."
+        },
+        {
+          "t": "Raíz, no superficie",
+          "texto": "Costo de no actuar, quién más sufre, por qué ahora."
+        },
+        {
+          "t": "Un dolor sin número no sostiene un precio",
+          "texto": "Frecuencia × unidad × valor, confirmado por él."
+        },
+        {
+          "t": "Humo y fuego",
+          "texto": "Encuentra la causa antes de proponer cualquier cosa, y sal con una fecha."
+        }
+      ]
+    }
+  ]
+}
