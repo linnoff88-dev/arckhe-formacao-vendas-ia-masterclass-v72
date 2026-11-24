@@ -4,7 +4,7 @@ Curso 5 de 5 da Formação Vendas com IA (ordem sugerida 1 → 3 → 2 → 4 →
 
 Visão: construir ficou fácil, confiar não. A conversa inteira deste curso termina vendendo **acompanhamento**, não o projeto de construção: o fechamento é um compromisso de acompanhamento com indicador e data de revisão.
 
-Fonte (não alterada): `~/projetos/formacao-vendas-ia-masterclass` (COURSE_PLAN.md e `curso/trilha*/modulo-*.html`, 8 módulos). Área prof2030 (`https://eventos.inema.pro/prof2030/`) para o papel Mentor. Regras: sem promessa de renda; dólar só como faixa ilustrativa com "adapte ao seu mercado"; sem citar a fonte original; nada inventado (as falas de cliente nas conversas simuladas são ficção rotulada; o que elas ensinam vem da fonte).
+Fonte (não alterada): `~/projetos/formacao-vendas-ia-masterclass` (COURSE_PLAN.md e `curso/trilha*/modulo-*.html`, 8 módulos). Área prof2030 (`https://eventos.ARCKHÉ.pro/prof2030/`) para o papel Mentor. Regras: sem promessa de renda; dólar só como faixa ilustrativa com "adapte ao seu mercado"; sem citar a fonte original; nada inventado (as falas de cliente nas conversas simuladas são ficção rotulada; o que elas ensinam vem da fonte).
 
 ## As 8 aulas
 

@@ -1,9 +1,9 @@
-﻿
-## Mais no INEMA.CLUB
 
-- Ficha do curso: https://www.inema.club/cursos/334-formacao-vendas-com-ia-5-masterclass-a-venda-calma-v7-2/
-- Guia: https://www.inema.club/aprender-inteligencia-artificial/
-- Todos os cursos: https://www.inema.club/cursos/
+## Mais no ARCKHÉ AI
+
+- Ficha do curso: https://www.ARCKHÉ AI/cursos/334-formacao-vendas-com-ia-5-masterclass-a-venda-calma-v7-2/
+- Guia: https://www.ARCKHÉ AI/aprender-inteligencia-artificial/
+- Todos os cursos: https://www.ARCKHÉ AI/cursos/
 
 ---
 
