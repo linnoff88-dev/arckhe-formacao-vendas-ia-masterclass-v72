@@ -5,8 +5,8 @@
   "titulo": "Preço, objeções e o motor do processo",
   "titulo_curto": "Preço e processo",
   "minutos": 20,
-  "lead": "A última aula fecha o ciclo: o que dizer quando pedem preço antes da hora, por que quem mais pechincha costuma ser o pior cliente, como a objeção muda com o estágio e quais números do seu processo transformam sorte em método. E o trabalho que começa depois da assinatura: o acompanhamento.",
-  "objetivo": "responder ao preço cedo, ceder escopo e não preço, e medir os 4 números do processo para atacar uma passagem por vez.",
+  "lead": "A última aula fecha o ciclo: o que dizer quando pedem preço antes da hora, por que quem mais pechincha costuma ser o pior cliente, como a objeçêo muda com o estágio e quais números do seu processo transformam sorte em método. E o trabalho que começa depois da assinatura: o acompanhamento.",
+  "objetivo": "responder ao preço cedo, ceder escopo e nêo preço, e medir os 4 números do processo para atacar uma passagem por vez.",
   "competencias": ["responder-preco-cedo", "negociar-escopo", "medir-processo-comercial"],
   "aprende": [
     {"t": "\"Quanto custa?\" cedo demais e a faixa que devolve a conversa"},
@@ -14,7 +14,7 @@
     {"t": "O trabalho que começa depois da assinatura"},
     {"t": "Os quatro números do processo e o seu plano datado"}
   ],
-  "hero_alt": "Mesa de trabalho com um caderno aberto mostrando um funil desenhado à mão, uma calculadora e uma xícara.",
+  "hero_alt": "Mesa de trabalho com um caderno aberto mostrando um funil desenhado à mêo, uma calculadora e uma xícara.",
   "secoes": [
     {
       "tipo": "diagrama",
@@ -23,16 +23,16 @@
       "nos": [
         {"icone": "chat", "titulo": "Conversas", "sub": "quantas eu inicio",
          "detalhe": "Quantas conversas você inicia por semana. É a entrada do motor."},
-        {"icone": "lupa", "titulo": "Diagnósticos", "sub": "quantas viram investigação",
+        {"icone": "lupa", "titulo": "Diagnósticos", "sub": "quantas viram investigaçêo",
          "detalhe": "Quantas viram diagnóstico de verdade: com raiz, número e próximo passo."},
         {"icone": "arquivo", "titulo": "Propostas", "sub": "apresentadas ao vivo",
-         "detalhe": "Quantas viram proposta apresentada, não enviada por escrito e esquecida."},
+         "detalhe": "Quantas viram proposta apresentada, nêo enviada por escrito e esquecida."},
         {"icone": "check", "titulo": "Fechados", "sub": "taxa de fechamento", "forte": true,
          "detalhe": "Quantas fecham. Divida pela primeira e você tem a sua taxa de fechamento. O gargalo está na passagem mais estreita, e é só ela que vale atacar de cada vez."},
         {"icone": "calendario", "titulo": "Acompanhamento", "sub": "depois da assinatura",
-         "detalhe": "Fechar é a parte divertida; o trabalho começa depois. Cliente mantido custa muito menos que cliente novo, e cliente satisfeito indica: quem chega por indicação entra pelo fundo do funil."}
+         "detalhe": "Fechar é a parte divertida; o trabalho começa depois. Cliente mantido custa muito menos que cliente novo, e cliente satisfeito indica: quem chega por indicaçêo entra pelo fundo do funil."}
       ],
-      "legenda": "Olhe as porcentagens entre as caixas, não os totais. A etapa com a menor passagem é onde você trabalha este mês.",
+      "legenda": "Olhe as porcentagens entre as caixas, nêo os totais. A etapa com a menor passagem é onde você trabalha este mês.",
       "dica": "Uma planilha de cinco colunas resolve. Comece medindo, mesmo que seja no papel."
     },
     {
@@ -41,14 +41,14 @@
       "sub": "Commodity é ser escolhido só pelo preço. A tabela de preço fica nos cursos 2 e 4; aqui fica a conversa.",
       "passos": [
         {"titulo": "\"Quanto custa?\" cedo", "sub": "a pergunta por trás",
-         "texto": ["No fim da conversa, é sinal de compra: responda direto. Nos dois primeiros minutos, é pedido para virar uma linha de comparação.", "Contrapergunta: \"para eu te responder direito, o preço é o que vai decidir, ou tem outra coisa pesando?\"."],
-         "exemplo": {"rot": "Fala com leveza", "texto": "Eu poderia te dizer um milhão agora e a gente encerrava por aqui, mas você veria o quanto isso é sem sentido, porque eu ainda não sei o que está acontecendo aí. Me deixa entender o problema primeiro."}},
+         "texto": ["No fim da conversa, é sinal de compra: responda direto. Nos dois primeiros minutos, é pedido para virar uma linha de comparaçêo.", "Contrapergunta: \"para eu te responder direito, o preço é o que vai decidir, ou tem outra coisa pesando?\"."],
+         "exemplo": {"rot": "Fala com leveza", "texto": "Eu poderia te dizer um milhêo agora e a gente encerrava por aqui, mas você veria o quanto isso é sem sentido, porque eu ainda nêo sei o que está acontecendo aí. Me deixa entender o problema primeiro."}},
         {"titulo": "A faixa honesta", "sub": "o que move o número",
-         "texto": ["Dê uma faixa larga e diga o que faz o número andar: escopo (quantos processos entram), integração (com quantos sistemas conversa) e acompanhamento (por quanto tempo eu fico junto).", "\"Tem cliente que gasta US$ 40 e tem cliente que gasta US$ 40 mil\" é verdade e devolve a conversa ao problema (valores ilustrativos: adapte ao seu mercado)."]},
+         "texto": ["Dê uma faixa larga e diga o que faz o número andar: escopo (quantos processos entram), integraçêo (com quantos sistemas conversa) e acompanhamento (por quanto tempo eu fico junto).", "\"Tem cliente que gasta US$ 40 e tem cliente que gasta US$ 40 mil\" é verdade e devolve a conversa ao problema (valores ilustrativos: adapte ao seu mercado)."]},
         {"titulo": "Quem pechincha demais", "sub": "a prévia do relacionamento",
-         "texto": ["Negociação legítima: \"está acima do que consigo agora, dá para começar por uma parte menor?\". Reduza escopo, não preço pelo mesmo trabalho.", "Se ceder no preço, ceda também no escopo. Desconto puro ensina que o seu número era inflado."]},
-        {"titulo": "Objeção por estágio", "sub": "o mesmo \"está caro\"",
-         "texto": ["Topo: medo de errar, ensine. Meio: comparação, diferencie pelo entendimento e pelo que você não faz. Fundo: momento, reduza escopo ou marque início futuro com data.", "Pergunta que separa: \"caro em relação ao orçamento, ou ao que você acha que isso vai render?\". Objeções básicas: curso 3."]}
+         "texto": ["Negociaçêo legítima: \"está acima do que consigo agora, dá para começar por uma parte menor?\". Reduza escopo, nêo preço pelo mesmo trabalho.", "Se ceder no preço, ceda também no escopo. Desconto puro ensina que o seu número era inflado."]},
+        {"titulo": "Objeçêo por estágio", "sub": "o mesmo \"está caro\"",
+         "texto": ["Topo: medo de errar, ensine. Meio: comparaçêo, diferencie pelo entendimento e pelo que você nêo faz. Fundo: momento, reduza escopo ou marque início futuro com data.", "Pergunta que separa: \"caro em relaçêo ao orçamento, ou ao que você acha que isso vai render?\". Objeções básicas: curso 3."]}
       ]
     },
     {
@@ -56,14 +56,14 @@
       "titulo": "Depois da assinatura e o seu copiloto",
       "sub": "Onde nasce o acompanhamento mensal e onde a IA ajuda.",
       "passos": [
-        {"titulo": "A primeira semana", "sub": "define a percepção",
-         "texto": ["Combine o começo com data, envie o que ficou acordado e faça uma entrega visível pequena logo no início. Cliente novo é cliente inseguro.", "\"Recebi, olho hoje e te retorno até amanhã\" resolve boa parte da ansiedade."]},
+        {"titulo": "A primeira semana", "sub": "define a percepçêo",
+         "texto": ["Combine o começo com data, envie o que ficou acordado e faça uma entrega visível pequena logo no início. Cliente novo é cliente inseguro.", "\"Recebi, olho hoje e te retorno até amanhê\" resolve boa parte da ansiedade."]},
         {"titulo": "Acompanhamento mensal", "sub": "a base que se renova",
-         "texto": ["Manter exige entrega e comunicação; conquistar do zero exige prospecção. A segunda conta é sempre mais barata.", "Depois da mentoria de 90 dias, o acompanhamento mensal mantém o indicador revisado e a confiança viva."]},
+         "texto": ["Manter exige entrega e comunicaçêo; conquistar do zero exige prospecçêo. A segunda conta é sempre mais barata.", "Depois da mentoria de 90 dias, o acompanhamento mensal mantém o indicador revisado e a confiança viva."]},
         {"titulo": "Automatize o aviso, nunca a entrega", "sub": "o limite",
-         "texto": ["Uma resposta automática \"recebi, retorno até amanhã\" é útil. Uma entrega feita no automático, sem alguém olhando, é o começo de um cliente perdido."]},
-        {"titulo": "Seu copiloto de vendas", "sub": "o que a IA faz e o que não faz",
-         "texto": ["Ajuda muito: pesquisa de pré-conversa, roteiros por setor, simulação de cliente difícil, análise das anotações e do funil.", "Não substitui você: perceber a mudança de tom, esperar mais três segundos em silêncio, assumir um limite do seu serviço na frente do cliente."]}
+         "texto": ["Uma resposta automática \"recebi, retorno até amanhê\" é útil. Uma entrega feita no automático, sem alguém olhando, é o começo de um cliente perdido."]},
+        {"titulo": "Seu copiloto de vendas", "sub": "o que a IA faz e o que nêo faz",
+         "texto": ["Ajuda muito: pesquisa de pré-conversa, roteiros por setor, simulaçêo de cliente difícil, análise das anotações e do funil.", "Nêo substitui você: perceber a mudança de tom, esperar mais três segundos em silêncio, assumir um limite do seu serviço na frente do cliente."]}
       ]
     },
     {
@@ -72,7 +72,7 @@
       "sub": "Ache o gargalo e saia com um único experimento.",
       "blocos": [
         {"rot": "Prompt · auditoria do seu processo comercial", "icone": "grafico",
-         "conteudo": "Você é meu auditor de processo comercial. Seja específico e evite conselho genérico.\nMEUS NÚMEROS DO ÚLTIMO MÊS\n- Conversas iniciadas: <n>\n- Viraram diagnóstico de verdade: <n>\n- Viraram proposta apresentada ao vivo: <n>\n- Fechadas: <n>\n- Ticket médio: <valor>\nCOMO EU TRABALHO HOJE\n- Abertura: <o que eu faço nos primeiros minutos>\n- Perguntas de raiz que eu costumo fazer: <liste>\n- Como eu falo de preço: <descreva>\n- Como eu termino as conversas: <descreva>\nEntregue:\n1. Onde está o MAIOR gargalo, com a conta que sustenta essa conclusão.\n2. As três causas mais prováveis desse gargalo, ligadas ao que eu descrevi acima.\n3. UM experimento para as próximas 2 semanas: o que mudar, em qual etapa,\n   e qual número precisa se mexer para dizer que funcionou.\n4. O que eu NÃO devo mexer agora, para não confundir os resultados."}
+         "conteudo": "Você é meu auditor de processo comercial. Seja específico e evite conselho genérico.\nMEUS NÚMEROS DO ÚLTIMO MÊS\n- Conversas iniciadas: <n>\n- Viraram diagnóstico de verdade: <n>\n- Viraram proposta apresentada ao vivo: <n>\n- Fechadas: <n>\n- Ticket médio: <valor>\nCOMO EU TRABALHO HOJE\n- Abertura: <o que eu faço nos primeiros minutos>\n- Perguntas de raiz que eu costumo fazer: <liste>\n- Como eu falo de preço: <descreva>\n- Como eu termino as conversas: <descreva>\nEntregue:\n1. Onde está o MAIOR gargalo, com a conta que sustenta essa conclusêo.\n2. As três causas mais prováveis desse gargalo, ligadas ao que eu descrevi acima.\n3. UM experimento para as próximas 2 semanas: o que mudar, em qual etapa,\n   e qual número precisa se mexer para dizer que funcionou.\n4. O que eu NêO devo mexer agora, para nêo confundir os resultados."}
       ]
     },
     {
@@ -85,12 +85,12 @@
         {"aula": "diagnostico", "icone": "lupa", "quando": "Semana 2", "titulo": "Diagnosticar", "sub": "Fumaça, fogo e número",
          "saida": "Roteiro de uma página e a conversa simulada.", "passo": "Requer a escuta. Cinco marcos, perguntas de raiz e a dor em número dito por ele."},
         {"aula": "sinais-energia", "icone": "cerebro", "quando": "Semana 3", "titulo": "Ler a sala", "sub": "Sinais e vieses",
-         "saida": "Leitura dos cinco sinais com citação.", "passo": "Requer o diagnóstico. Leia voz, verbos e resistência, e use os vieses só com fatos (aula 6)."},
+         "saida": "Leitura dos cinco sinais com citaçêo.", "passo": "Requer o diagnóstico. Leia voz, verbos e resistência, e use os vieses só com fatos (aula 6)."},
         {"aula": "fechamento", "icone": "calendario", "quando": "Semana 4", "titulo": "Fechar o acompanhamento", "sub": "Três passos e a data",
-         "saida": "Fala de fechamento com indicador e revisão.", "passo": "Requer as três anteriores: recapitular, amarrar ao objetivo e conduzir até a mentoria de 90 dias."}
+         "saida": "Fala de fechamento com indicador e revisêo.", "passo": "Requer as três anteriores: recapitular, amarrar ao objetivo e conduzir até a mentoria de 90 dias."}
       ],
-      "resultado": {"titulo": "Ao final do curso", "texto": "Você escuta, diagnostica com número, lê a sala e fecha um acompanhamento com indicador e data de revisão.", "total": "16 exercícios"},
-      "legenda": "Venda calma (aula 1), estágio da decisão (aula 4), vieses (aula 6) e processo (aula 8) entram no plano gerado abaixo."
+      "resultado": {"titulo": "Ao final do curso", "texto": "Você escuta, diagnostica com número, lê a sala e fecha um acompanhamento com indicador e data de revisêo.", "total": "16 exercícios"},
+      "legenda": "Venda calma (aula 1), estágio da decisêo (aula 4), vieses (aula 6) e processo (aula 8) entram no plano gerado abaixo."
     },
     {
       "tipo": "gerador",
@@ -102,7 +102,7 @@
         {"titulo": "Aula 1 · Venda calma", "aula": "venda-calma"},
         {"titulo": "Aula 2 · Duas orelhas, uma boca", "aula": "duas-orelhas"},
         {"titulo": "Aula 3 · Conversa de diagnóstico", "aula": "diagnostico"},
-        {"titulo": "Aula 4 · Estágio da decisão", "aula": "estagio-decisao"},
+        {"titulo": "Aula 4 · Estágio da decisêo", "aula": "estagio-decisao"},
         {"titulo": "Aula 5 · Cinco sinais de energia", "aula": "sinais-energia"},
         {"titulo": "Aula 6 · Três vieses", "aula": "tres-vieses"},
         {"titulo": "Aula 7 · Fechamento em 3 passos", "aula": "fechamento"},
@@ -126,16 +126,16 @@
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
-        {"p": "O cliente pede desconto de 30% no mesmo trabalho. Qual é a melhor resposta?", "opcoes": ["Dar o desconto para não perder a oportunidade", "Reduzir o escopo proporcionalmente e propor começar por uma parte menor", "Manter o preço e encerrar a conversa"], "certa": 1, "ref": "passos",
+        {"p": "O cliente pede desconto de 30% no mesmo trabalho. Qual é a melhor resposta?", "opcoes": ["Dar o desconto para nêo perder a oportunidade", "Reduzir o escopo proporcionalmente e propor começar por uma parte menor", "Manter o preço e encerrar a conversa"], "certa": 1, "ref": "passos",
          "explica": "Ceda escopo, nunca só preço. Desconto puro ensina que o número era inflado, e a próxima conversa começa do novo patamar."},
-        {"p": "Nos dois primeiros minutos, o cliente pergunta \"quanto custa?\". O que isso costuma significar?", "opcoes": ["Que ele já decidiu comprar", "Que ele quer transformar você numa linha de comparação de preços", "Que ele não tem orçamento"], "certa": 1, "ref": "passos",
+        {"p": "Nos dois primeiros minutos, o cliente pergunta \"quanto custa?\". O que isso costuma significar?", "opcoes": ["Que ele já decidiu comprar", "Que ele quer transformar você numa linha de comparaçêo de preços", "Que ele nêo tem orçamento"], "certa": 1, "ref": "passos",
          "explica": "No fim da conversa a pergunta é sinal de compra; no começo é pedido de referência. Devolva com uma faixa honesta e volte ao problema."},
         {"p": "Seu funil: 20 conversas, 15 diagnósticos, 4 propostas, 3 fechados. Onde trabalhar este mês?", "opcoes": ["Iniciar mais conversas", "Na passagem de diagnóstico para proposta, a mais estreita", "No fechamento"], "certa": 1, "ref": "diagrama",
          "explica": "Olhe as porcentagens entre as caixas: 75%, 27% e 75%. A passagem mais estreita é a única que vale atacar de cada vez."},
-        {"p": "Por que o acompanhamento depois da assinatura importa tanto?", "opcoes": ["Porque cliente mantido custa menos que cliente novo, e cliente satisfeito indica", "Porque o contrato obriga", "Não importa: o trabalho de vendas termina na assinatura"], "certa": 0, "ref": "passos",
-         "explica": "Quem chega por indicação já vem com confiança emprestada e entra pelo fundo do funil. É também o que o Profissional 2030 vende: acompanhar."}
+        {"p": "Por que o acompanhamento depois da assinatura importa tanto?", "opcoes": ["Porque cliente mantido custa menos que cliente novo, e cliente satisfeito indica", "Porque o contrato obriga", "Nêo importa: o trabalho de vendas termina na assinatura"], "certa": 0, "ref": "passos",
+         "explica": "Quem chega por indicaçêo já vem com confiança emprestada e entra pelo fundo do funil. É também o que o Profissional 2030 vende: acompanhar."}
       ]
     },
     {
@@ -155,7 +155,7 @@
         {"t": "Curso 2 · Playbook de Consultoria (escada de preço e cardápio)", "href": "https://linnoff88-dev.github.io/
         {"t": "Curso 4 · Do Zero ao Primeiro Cliente (faixas por serviço)", "href": "https://linnoff88-dev.github.io/
         {"t": "Curso 3 · Fundamentos (fechar sem forçar e objeções)", "href": "https://linnoff88-dev.github.io/
-        {"t": "Continue no Profissional 2030: formação Mentor", "href": "https://linnoff88-dev.github.io/
+        {"t": "Continue no Profissional 2030: formaçêo Mentor", "href": "https://linnoff88-dev.github.io/
         {"t": "Área Profissional 2030: os quatro papéis", "href": "https://eventos.ARCKHÉ.pro/prof2030/"}
       ]
     }

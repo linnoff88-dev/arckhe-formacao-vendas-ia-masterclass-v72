@@ -5,13 +5,13 @@
   "titulo": "Os cinco sinais de energia",
   "titulo_curto": "Cinco sinais de energia",
   "minutos": 17,
-  "lead": "Toda conversa carrega informação que não está nas palavras. Esta aula ensina a ler cinco sinais concretos (voz, verbos, modo de contar, resistência e a fala de quem já decidiu) e o que fazer com cada um no momento em que aparece. Ler o outro começa por ler a si mesmo.",
+  "lead": "Toda conversa carrega informaçêo que nêo está nas palavras. Esta aula ensina a ler cinco sinais concretos (voz, verbos, modo de contar, resistência e a fala de quem já decidiu) e o que fazer com cada um no momento em que aparece. Ler o outro começa por ler a si mesmo.",
   "objetivo": "ler voz, verbos, modo de contar, resistência e fala de quem já decidiu, e agir quando cada sinal aparece.",
   "competencias": ["ler-sinais-de-energia", "responder-a-resistencia", "reconhecer-decisao-tomada"],
   "aprende": [
     {"t": "Por que reagir no impulso custa a venda"},
     {"t": "Os cinco sinais e o que fazer com cada um"},
-    {"t": "Abrir resistência com pergunta, não com defesa"},
+    {"t": "Abrir resistência com pergunta, nêo com defesa"},
     {"t": "Parar de vender quando ele já comprou"}
   ],
   "hero_alt": "Consultora com fones de ouvido numa videochamada, olhos fechados por um instante, concentrada na voz do cliente.",
@@ -24,16 +24,16 @@
         {"icone": "megafone", "titulo": "Voz", "sub": "muda antes das palavras",
          "detalhe": "Tom baixou: desacelere e pergunte exatamente sobre aquele ponto. Tom subiu: acompanhe e aprofunde, ali está o desejo. Inclinou para a frente: pare de apresentar e combine o próximo passo."},
         {"icone": "caneta", "titulo": "Verbos", "sub": "o grau de compromisso", "forte": true,
-         "detalhe": "\"Eu deveria\" (obrigação de fora, quase zero) → \"eu preciso\" (motivação real) → \"eu vou tentar\" (talvez, saída pronta) → \"eu vou fazer\" (compromisso). O assunto pode ser o mesmo; muda a chance de acontecer."},
-        {"icone": "chat", "titulo": "História × solução", "sub": "como ele conta",
-         "detalhe": "Modo história (personagens, o dia que deu errado): está envolvido; responda com um caso parecido. Modo solução (etapas, sistemas, prazos): responda com clareza operacional e puxe uma história."},
+         "detalhe": "\"Eu deveria\" (obrigaçêo de fora, quase zero) → \"eu preciso\" (motivaçêo real) → \"eu vou tentar\" (talvez, saída pronta) → \"eu vou fazer\" (compromisso). O assunto pode ser o mesmo; muda a chance de acontecer."},
+        {"icone": "chat", "titulo": "História × soluçêo", "sub": "como ele conta",
+         "detalhe": "Modo história (personagens, o dia que deu errado): está envolvido; responda com um caso parecido. Modo soluçêo (etapas, sistemas, prazos): responda com clareza operacional e puxe uma história."},
         {"icone": "escudo", "titulo": "Resistência", "sub": "\"e se…\", \"já tentamos\", \"ótimo, mas\"",
-         "detalhe": "Nenhuma é um não. Todas são portas, e a maioria passa reto por elas respondendo à parte fácil da frase. Resistência se abre com pergunta, nunca com defesa."},
+         "detalhe": "Nenhuma é um nêo. Todas sêo portas, e a maioria passa reto por elas respondendo à parte fácil da frase. Resistência se abre com pergunta, nunca com defesa."},
         {"icone": "check", "titulo": "Já comprou", "sub": "cale-se",
          "detalhe": "\"Quando isso estiver rodando, a gente consegue medir?\" Ela se vendeu sozinha. Responda em uma ou duas frases e emende no próximo passo com duas datas."}
       ],
-      "legenda": "Voz animada com verbo fraco: entusiasmo sem compromisso, falta urgência. Voz contida com verbo forte: decisão tomada em silêncio, combine a data.",
-      "dica": "Antes dos cinco sinais vem você: percebo o que eu sinto → escolho o que faço com isso → percebo o que ele sente → conduzo a relação."
+      "legenda": "Voz animada com verbo fraco: entusiasmo sem compromisso, falta urgência. Voz contida com verbo forte: decisêo tomada em silêncio, combine a data.",
+      "dica": "Antes dos cinco sinais vem você: percebo o que eu sinto → escolho o que faço com isso → percebo o que ele sente → conduzo a relaçêo."
     },
     {
       "tipo": "passos",
@@ -42,12 +42,12 @@
       "passos": [
         {"titulo": "Reagir custa caro", "sub": "escolher a resposta",
          "texto": ["Um cliente pode te tratar mal por motivos que nada têm a ver com você. Quem responde à altura encerra ali.", "Quem responde \"entendi, me conta mais sobre isso\" às vezes descobre um problema grande escondido atrás da grosseria."]},
-        {"titulo": "Verbo fraco", "sub": "não corrija, pergunte",
-         "texto": ["\"Você disse que deveria resolver isso. O que faria virar um preciso?\" \"Quando você fala em tentar, o que te deixa em dúvida?\"", "Quase sempre a resposta revela a objeção escondida."]},
+        {"titulo": "Verbo fraco", "sub": "nêo corrija, pergunte",
+         "texto": ["\"Você disse que deveria resolver isso. O que faria virar um preciso?\" \"Quando você fala em tentar, o que te deixa em dúvida?\"", "Quase sempre a resposta revela a objeçêo escondida."]},
         {"titulo": "Resistência", "sub": "a porta e a pergunta",
-         "texto": ["\"E se não funcionar com a nossa realidade?\" é medo de errar na frente dos outros → \"o que precisaria acontecer nas primeiras semanas para você ficar tranquilo?\".", "\"Ótimo, mas a gente é diferente\" é não ter se sentido compreendido → \"diferente em quê, especificamente?\"."]},
+         "texto": ["\"E se nêo funcionar com a nossa realidade?\" é medo de errar na frente dos outros → \"o que precisaria acontecer nas primeiras semanas para você ficar tranquilo?\".", "\"Ótimo, mas a gente é diferente\" é nêo ter se sentido compreendido → \"diferente em quê, especificamente?\"."]},
         {"titulo": "Já comprou", "sub": "como se perde uma venda ganha",
-         "texto": ["Emendar três benefícios que ninguém pediu. Antecipar uma objeção que ele não levantou e plantá-la na cabeça dele.", "Falar tanto que ele começa a se perguntar como será trabalhar com você todo dia."]}
+         "texto": ["Emendar três benefícios que ninguém pediu. Antecipar uma objeçêo que ele nêo levantou e plantá-la na cabeça dele.", "Falar tanto que ele começa a se perguntar como será trabalhar com você todo dia."]}
       ]
     },
     {
@@ -56,7 +56,7 @@
       "sub": "Logo depois da conversa: das suas anotações a uma leitura dos cinco sinais.",
       "blocos": [
         {"rot": "Prompt · leitura de conversa", "icone": "cerebro",
-         "conteudo": "Você é meu analista de conversas comerciais. Abaixo estão as MINHAS ANOTAÇÕES de uma\nconversa que acabei de ter. Analise usando cinco sinais: (1) voz e ritmo, (2) verbos de\ncompromisso — deveria / preciso / vou tentar / vou fazer, (3) modo história × modo solução,\n(4) padrões de resistência, (5) frases de quem já decidiu.\nANOTAÇÕES:\n<cole aqui suas anotações, com as frases dele o mais literais que você lembrar>\nEntregue:\n1. Uma leitura sinal por sinal, citando a frase que sustenta cada conclusão.\n   Se não houver evidência para um sinal, escreva \"sem evidência\" — não invente.\n2. Em que estágio da decisão essa pessoa provavelmente está, e por quê.\n3. Qual é a comporta travada: urgência, viabilidade, confiança, comparação ou orçamento.\n4. UMA única ação recomendada para o próximo contato, com a frase pronta."}
+         "conteudo": "Você é meu analista de conversas comerciais. Abaixo estêo as MINHAS ANOTAÇÕES de uma\nconversa que acabei de ter. Analise usando cinco sinais: (1) voz e ritmo, (2) verbos de\ncompromisso — deveria / preciso / vou tentar / vou fazer, (3) modo história × modo soluçêo,\n(4) padrões de resistência, (5) frases de quem já decidiu.\nANOTAÇÕES:\n<cole aqui suas anotações, com as frases dele o mais literais que você lembrar>\nEntregue:\n1. Uma leitura sinal por sinal, citando a frase que sustenta cada conclusêo.\n   Se nêo houver evidência para um sinal, escreva \"sem evidência\" — nêo invente.\n2. Em que estágio da decisêo essa pessoa provavelmente está, e por quê.\n3. Qual é a comporta travada: urgência, viabilidade, confiança, comparaçêo ou orçamento.\n4. UMA única açêo recomendada para o próximo contato, com a frase pronta."}
       ]
     },
     {
@@ -65,26 +65,26 @@
       "sub": "O hábito de cinco minutos e a leitura que ele permite.",
       "exercicios": [
         {"id": "e1", "titulo": "1 · Cinco minutos de frases literais", "min": "5 min",
-         "texto": "Logo depois da próxima conversa, reserve cinco minutos para anotar frases literais, não impressões. \"Ele disse: a gente já tentou isso e queimou dinheiro\" vale mais que \"ele pareceu resistente\".",
-         "pronto": "você tem pelo menos 5 frases do cliente entre aspas e nenhuma linha de impressão sem frase que a sustente."},
+         "texto": "Logo depois da próxima conversa, reserve cinco minutos para anotar frases literais, nêo impressões. \"Ele disse: a gente já tentou isso e queimou dinheiro\" vale mais que \"ele pareceu resistente\".",
+         "pronto": "você tem pelo menos 5 frases do cliente entre aspas e nenhuma linha de impressêo sem frase que a sustente."},
         {"id": "e2", "titulo": "2 · Leitura dos cinco sinais", "min": "15 min",
-         "texto": "Cole as suas anotações no prompt de leitura. Ignore toda conclusão que vier sem citação.",
-         "pronto": "cada conclusão da leitura cita uma frase sua, e você tem 1 ação com frase pronta para o próximo contato."}
+         "texto": "Cole as suas anotações no prompt de leitura. Ignore toda conclusêo que vier sem citaçêo.",
+         "pronto": "cada conclusêo da leitura cita uma frase sua, e você tem 1 açêo com frase pronta para o próximo contato."}
       ]
     },
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
-        {"p": "O cliente diz: \"quando isso estiver rodando, a gente consegue medir os resultados?\". O que fazer?", "opcoes": ["Aproveitar o interesse e apresentar os outros benefícios", "Responder em duas frases e emendar no próximo passo com duas datas", "Antecipar as objeções que ele ainda não levantou"], "certa": 1, "ref": "diagrama",
+        {"p": "O cliente diz: \"quando isso estiver rodando, a gente consegue medir os resultados?\". O que fazer?", "opcoes": ["Aproveitar o interesse e apresentar os outros benefícios", "Responder em duas frases e emendar no próximo passo com duas datas", "Antecipar as objeções que ele ainda nêo levantou"], "certa": 1, "ref": "diagrama",
          "explica": "É a fala de quem já comprou. A partir daí, a única coisa que estraga a venda é continuar falando."},
         {"p": "Qual verbo mostra o maior compromisso?", "opcoes": ["\"Eu deveria\"", "\"Eu vou tentar\"", "\"Eu vou fazer\""], "certa": 2, "ref": "diagrama",
-         "explica": "\"Deveria\" é obrigação de fora e \"vou tentar\" já traz a saída pronta. \"Vou fazer\" é compromisso."},
-        {"p": "\"A gente já tentou algo assim.\" Qual resposta abre a resistência?", "opcoes": ["\"Mas comigo é diferente.\"", "\"Me conta o que aconteceu: quero garantir que não vou repetir aquilo.\"", "\"Hoje a tecnologia evoluiu muito.\""], "certa": 1, "ref": "passos",
+         "explica": "\"Deveria\" é obrigaçêo de fora e \"vou tentar\" já traz a saída pronta. \"Vou fazer\" é compromisso."},
+        {"p": "\"A gente já tentou algo assim.\" Qual resposta abre a resistência?", "opcoes": ["\"Mas comigo é diferente.\"", "\"Me conta o que aconteceu: quero garantir que nêo vou repetir aquilo.\"", "\"Hoje a tecnologia evoluiu muito.\""], "certa": 1, "ref": "passos",
          "explica": "É uma ferida antiga. Rebater com argumento fecha a pessoa; perguntar mostra que você ouviu."},
-        {"p": "Voz animada, mas o verbo é \"eu deveria\". O que isso indica?", "opcoes": ["Decisão tomada: combine a data", "Entusiasmo sem compromisso: falta urgência", "Desinteresse disfarçado"], "certa": 1, "ref": "diagrama",
-         "explica": "Os sinais se leem juntos. Energia alta com verbo fraco pede voltar à comporta da urgência, não fechar."}
+        {"p": "Voz animada, mas o verbo é \"eu deveria\". O que isso indica?", "opcoes": ["Decisêo tomada: combine a data", "Entusiasmo sem compromisso: falta urgência", "Desinteresse disfarçado"], "certa": 1, "ref": "diagrama",
+         "explica": "Os sinais se leem juntos. Energia alta com verbo fraco pede voltar à comporta da urgência, nêo fechar."}
       ]
     },
     {

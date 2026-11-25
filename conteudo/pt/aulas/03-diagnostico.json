@@ -14,25 +14,25 @@
     {"t": "Transformar dor em número em quatro perguntas"},
     {"t": "Treinar numa conversa simulada com placar"}
   ],
-  "hero_alt": "Consultor e o dono de uma transportadora em pé no galpão, ao lado da mesa de conferência de pedidos.",
+  "hero_alt": "Consultor e o dono de uma transportadora em pé no galpêo, ao lado da mesa de conferência de pedidos.",
   "secoes": [
     {
       "tipo": "diagrama",
       "titulo": "Os cinco marcos do diagnóstico",
-      "sub": "Cabe em uma página. Não é para ler em voz alta: é para não sair sem o que precisa.",
+      "sub": "Cabe em uma página. Nêo é para ler em voz alta: é para nêo sair sem o que precisa.",
       "nos": [
         {"icone": "chat", "titulo": "Abrir", "sub": "2 minutos e a pauta",
          "detalhe": "Dois minutos de conversa leve e a proposta de pauta do encontro: primeiro eu pergunto, depois mostro o que costuma resolver, e se fizer sentido combinamos o próximo passo."},
-        {"icone": "camadas", "titulo": "Situação", "sub": "como funciona hoje",
-         "detalhe": "Como funciona hoje, com quem, em quais etapas. São perguntas de superfície: aquecem e não custam nada, mas quem fica só nelas termina sem nada útil."},
+        {"icone": "camadas", "titulo": "Situaçêo", "sub": "como funciona hoje",
+         "detalhe": "Como funciona hoje, com quem, em quais etapas. Sêo perguntas de superfície: aquecem e nêo custam nada, mas quem fica só nelas termina sem nada útil."},
         {"icone": "lupa", "titulo": "Raiz", "sub": "2 ou 3 perguntas incômodas", "forte": true,
-         "detalhe": "Custo de não agir, quem mais sofre, por que agora. Duas ou três por conversa, espaçadas, com tempo de resposta. Oito seguidas viram depoimento e a pessoa fecha."},
+         "detalhe": "Custo de nêo agir, quem mais sofre, por que agora. Duas ou três por conversa, espaçadas, com tempo de resposta. Oito seguidas viram depoimento e a pessoa fecha."},
         {"icone": "grafico", "titulo": "Número", "sub": "a conta é dele",
-         "detalhe": "Frequência → unidade → valor da unidade → devolução: \"então isso está custando perto de X por mês, é por aí?\". Ele confirma e o número passa a ser dele."},
+         "detalhe": "Frequência → unidade → valor da unidade → devoluçêo: \"entêo isso está custando perto de X por mês, é por aí?\". Ele confirma e o número passa a ser dele."},
         {"icone": "calendario", "titulo": "Fechar o encontro", "sub": "recapitular e marcar",
          "detalhe": "Recapitular com as palavras dele e combinar o próximo passo com data. Nada de \"vou te mandar uma proposta\" sem saber para qual problema."}
       ],
-      "legenda": "Você saiu com diagnóstico quando consegue explicar o problema do cliente em três frases, tem um número dito por ele e sabe o que acontece se ele não fizer nada."
+      "legenda": "Você saiu com diagnóstico quando consegue explicar o problema do cliente em três frases, tem um número dito por ele e sabe o que acontece se ele nêo fizer nada."
     },
     {
       "tipo": "passos",
@@ -40,25 +40,25 @@
       "sub": "O consultório, a pergunta de raiz, a conta e o fogo.",
       "passos": [
         {"titulo": "A analogia do consultório", "sub": "quando pedem preço antes",
-         "texto": ["Ninguém sai do consultório com a receita sem que o médico pergunte nada, e ninguém acha isso estranho. Use essa imagem quando o cliente quer pular a investigação e ir direto ao orçamento.", "Proposta no escuro sai cara ou barata demais. Perguntas primeiro levam à proposta do problema real."]},
+         "texto": ["Ninguém sai do consultório com a receita sem que o médico pergunte nada, e ninguém acha isso estranho. Use essa imagem quando o cliente quer pular a investigaçêo e ir direto ao orçamento.", "Proposta no escuro sai cara ou barata demais. Perguntas primeiro levam à proposta do problema real."]},
         {"titulo": "Superfície × raiz", "sub": "o que muda o patamar",
-         "texto": ["Superfície: \"qual o orçamento?\", \"quantas pessoas na equipe?\", \"já usam alguma ferramenta?\".", "Raiz: \"quanto está custando não resolver isso hoje?\", \"quem mais sente esse gargalo?\", \"por que virou prioridade agora?\", \"se nada mudar em seis meses, o que acontece?\"."]},
+         "texto": ["Superfície: \"qual o orçamento?\", \"quantas pessoas na equipe?\", \"já usam alguma ferramenta?\".", "Raiz: \"quanto está custando nêo resolver isso hoje?\", \"quem mais sente esse gargalo?\", \"por que virou prioridade agora?\", \"se nada mudar em seis meses, o que acontece?\"."]},
         {"titulo": "Dor em número", "sub": "frequência × unidade × valor",
-         "texto": ["\"Isso acontece com que frequência?\" → \"cada vez, o que se perde?\" → \"e isso costuma valer quanto?\" → \"então está custando perto de X por mês, é por aí?\".", "Sem dinheiro direto, use tempo, mas traduza em consequência: as pessoas são generosas consigo mesmas ao contar horas."]},
-        {"titulo": "Fumaça e fogo", "sub": "a dor que ele não sabe nomear",
-         "texto": ["\"O time demora a responder\" é a fumaça. Três perguntas encadeadas (por que demora? de onde vem a informação? quem checa isso?) chegam ao fogo: cadastro duplicado na origem.", "Atender ao pedido literal entrega um curativo onde precisava de cirurgia."]}
+         "texto": ["\"Isso acontece com que frequência?\" → \"cada vez, o que se perde?\" → \"e isso costuma valer quanto?\" → \"entêo está custando perto de X por mês, é por aí?\".", "Sem dinheiro direto, use tempo, mas traduza em consequência: as pessoas sêo generosas consigo mesmas ao contar horas."]},
+        {"titulo": "Fumaça e fogo", "sub": "a dor que ele nêo sabe nomear",
+         "texto": ["\"O time demora a responder\" é a fumaça. Três perguntas encadeadas (por que demora? de onde vem a informaçêo? quem checa isso?) chegam ao fogo: cadastro duplicado na origem.", "Atender ao pedido literal entrega um curativo onde precisava de cirurgia."]}
       ]
     },
     {
       "tipo": "passos",
-      "titulo": "Quando o cliente segura informação",
+      "titulo": "Quando o cliente segura informaçêo",
       "sub": "Três motivos e as objeções que chegam disfarçadas.",
       "passos": [
-        {"titulo": "Três motivos", "sub": "não sabe, tem favorito, se queimou",
-         "texto": ["Ele não sabe: acredita que o sintoma é o problema; perguntas resolvem. Ele já tem um favorito: está conferindo o que outro fornecedor disse.", "Ele já se queimou: pagou por algo parecido que não funcionou. Aqui só transparência abre."],
-         "exemplo": {"rot": "Frase", "texto": "Para eu te propor a coisa certa e não desperdiçar seu dinheiro, preciso entender melhor esse ponto. O que você conseguiria me contar?"}},
+        {"titulo": "Três motivos", "sub": "nêo sabe, tem favorito, se queimou",
+         "texto": ["Ele nêo sabe: acredita que o sintoma é o problema; perguntas resolvem. Ele já tem um favorito: está conferindo o que outro fornecedor disse.", "Ele já se queimou: pagou por algo parecido que nêo funcionou. Aqui só transparência abre."],
+         "exemplo": {"rot": "Frase", "texto": "Para eu te propor a coisa certa e nêo desperdiçar seu dinheiro, preciso entender melhor esse ponto. O que você conseguiria me contar?"}},
         {"titulo": "Objeções silenciosas", "sub": "toda frase morna merece pergunta",
-         "texto": ["\"Já tentamos algo parecido e não deu certo\" → \"o que exatamente não funcionou? Quero garantir que não vou repetir o mesmo erro\".", "\"Vou ver com a equipe\" → \"quem mais precisa estar nessa conversa para ela andar?\". Objeção aberta cedo é informação; fechada até o fim vira \"vou pensar\"."]}
+         "texto": ["\"Já tentamos algo parecido e nêo deu certo\" → \"o que exatamente nêo funcionou? Quero garantir que nêo vou repetir o mesmo erro\".", "\"Vou ver com a equipe\" → \"quem mais precisa estar nessa conversa para ela andar?\". Objeçêo aberta cedo é informaçêo; fechada até o fim vira \"vou pensar\"."]}
       ]
     },
     {
@@ -75,7 +75,7 @@
              "comenta": "Proposta no escuro: sem saber o que está acontecendo, o preço sai caro ou barato demais, e você vende um curativo."},
             {"t": "Consigo mandar. Só que, sem entender o que acontece aí, eu erro o valor para cima ou para baixo. Me dá 20 minutos de perguntas?", "vai": "situacao", "nota": 2,
              "comenta": "É a fala do consultório: você devolve o pedido sem parecer resistente e mostra que a pressa custa caro para ele."},
-            {"t": "Claro. Quais são as maiores dificuldades de vocês hoje?", "vai": "situacao", "nota": 1,
+            {"t": "Claro. Quais sêo as maiores dificuldades de vocês hoje?", "vai": "situacao", "nota": 1,
              "comenta": "Você evitou o preço no escuro, mas a pergunta é genérica demais para render."}
           ]
         },
@@ -83,19 +83,19 @@
           "cliente": "O pedido chega por WhatsApp, e-mail e telefone. A atendente confere no sistema e responde. Às vezes leva um dia.",
           "opcoes": [
             {"t": "Um robô responde em segundos, nos três canais. Resolve.", "vai": "fim-curativo", "nota": 0,
-             "comenta": "Você atendeu a fumaça. Ainda não sabe por que a resposta demora."},
+             "comenta": "Você atendeu a fumaça. Ainda nêo sabe por que a resposta demora."},
             {"t": "E por que leva um dia? O que acontece entre o pedido chegar e ela responder?", "vai": "raiz", "nota": 2,
-             "comenta": "Puxou o fio: a próxima pergunta nasceu da resposta dele, não de uma lista."},
+             "comenta": "Puxou o fio: a próxima pergunta nasceu da resposta dele, nêo de uma lista."},
             {"t": "Entendi. Qual é o orçamento de vocês para isso?", "vai": "raiz", "nota": 1,
-             "comenta": "Pergunta de superfície: não custa nada, mas não abre o problema. Ele responde de má vontade e você segue sem a causa."}
+             "comenta": "Pergunta de superfície: nêo custa nada, mas nêo abre o problema. Ele responde de má vontade e você segue sem a causa."}
           ]
         },
         "raiz": {
-          "cliente": "Porque a informação do pedido nem sempre bate. Ela tem que checar com o depósito antes de responder.",
+          "cliente": "Porque a informaçêo do pedido nem sempre bate. Ela tem que checar com o depósito antes de responder.",
           "opcoes": [
-            {"t": "Então o robô consulta o depósito sozinho e responde.", "vai": "fim-curativo", "nota": 0,
-             "comenta": "Automatizar a checagem de uma informação errada só erra mais rápido. Faltou perguntar de onde vem o erro."},
-            {"t": "De onde vem essa informação que não bate? E quem checa isso hoje?", "vai": "numero", "nota": 2,
+            {"t": "Entêo o robô consulta o depósito sozinho e responde.", "vai": "fim-curativo", "nota": 0,
+             "comenta": "Automatizar a checagem de uma informaçêo errada só erra mais rápido. Faltou perguntar de onde vem o erro."},
+            {"t": "De onde vem essa informaçêo que nêo bate? E quem checa isso hoje?", "vai": "numero", "nota": 2,
              "comenta": "Terceira pergunta encadeada. É ela que leva da fumaça ao fogo."}
           ]
         },
@@ -105,16 +105,16 @@
             {"t": "Isso acontece com que frequência? E cada vez que sai errado, o que vocês perdem?", "vai": "objecao", "nota": 2,
              "comenta": "Frequência e unidade: o começo da conta que ele mesmo vai fazer e que vai sustentar o valor do seu trabalho."},
             {"t": "Achamos: o problema é o cadastro. Proponho limpar a base.", "vai": "objecao", "nota": 1,
-             "comenta": "Você achou o fogo, mas pulou o número. Dor sem número não sustenta preço nem mostra se o trabalho deu certo depois."}
+             "comenta": "Você achou o fogo, mas pulou o número. Dor sem número nêo sustenta preço nem mostra se o trabalho deu certo depois."}
           ]
         },
         "objecao": {
-          "cliente": "Uns três pedidos por semana voltam, e a gente perde o frete e às vezes o cliente. Mas olha, a gente já tentou um sistema parecido e não deu certo.",
+          "cliente": "Uns três pedidos por semana voltam, e a gente perde o frete e às vezes o cliente. Mas olha, a gente já tentou um sistema parecido e nêo deu certo.",
           "opcoes": [
             {"t": "Comigo é diferente, pode ficar tranquilo.", "vai": "fim-defesa", "nota": 0,
-             "comenta": "Resposta de defesa a uma ferida antiga. Ele se fecha, porque não foi ouvido."},
-            {"t": "O que exatamente não funcionou? Quero garantir que não vou repetir aquilo.", "vai": "fecho", "nota": 2,
-             "comenta": "Você abriu a objeção silenciosa cedo, quando ainda dá para responder."},
+             "comenta": "Resposta de defesa a uma ferida antiga. Ele se fecha, porque nêo foi ouvido."},
+            {"t": "O que exatamente nêo funcionou? Quero garantir que nêo vou repetir aquilo.", "vai": "fecho", "nota": 2,
+             "comenta": "Você abriu a objeçêo silenciosa cedo, quando ainda dá para responder."},
             {"t": "Entendi. Voltando aos pedidos que voltam…", "vai": "fecho", "nota": 1,
              "comenta": "Você deixou passar uma frase morna. Ela costuma voltar no fim, em forma de \"vou pensar\"."}
           ]
@@ -122,20 +122,20 @@
         "fecho": {
           "cliente": "Compramos um sistema, mas ninguém da equipe usava. Ficou abandonado.",
           "opcoes": [
-            {"t": "Pelo que você me contou: o pedido chega por três canais, o cadastro duplicado faz uns três pedidos por semana voltarem, e o último sistema ficou sem uso. É isso? Quero uma conversa de 30 minutos com você e quem cuida da conferência. Terça de manhã ou quinta à tarde?", "vai": "fim-bom", "nota": 2,
+            {"t": "Pelo que você me contou: o pedido chega por três canais, o cadastro duplicado faz uns três pedidos por semana voltarem, e o último sistema ficou sem uso. É isso? Quero uma conversa de 30 minutos com você e quem cuida da conferência. Terça de manhê ou quinta à tarde?", "vai": "fim-bom", "nota": 2,
              "comenta": "Recapitulou com as palavras dele, confirmou e marcou o próximo passo com quem sente o gargalo, em duas opções de data."},
             {"t": "Perfeito, vou preparar uma proposta e te mando por e-mail.", "vai": "fim-sumico", "nota": 0,
              "comenta": "Saiu sem data e sem confirmar o problema. Proposta por e-mail sem conversa costuma ser o começo do sumiço."}
           ]
         },
         "fim-escuro": {"fim": true, "titulo": "Preço no escuro",
-          "texto": "Ele compara o seu valor com outros dois orçamentos de robô e escolhe o mais barato. Ninguém ali sabe que o problema é o cadastro, e o robô vai responder rápido com a informação errada."},
+          "texto": "Ele compara o seu valor com outros dois orçamentos de robô e escolhe o mais barato. Ninguém ali sabe que o problema é o cadastro, e o robô vai responder rápido com a informaçêo errada."},
         "fim-curativo": {"fim": true, "titulo": "Curativo na fumaça",
           "texto": "Você entrega a resposta rápida, mas os pedidos continuam voltando, porque o erro está no cadastro duplicado na origem. O cliente fica insatisfeito e você fica sem entender por quê."},
-        "fim-defesa": {"fim": true, "titulo": "A ferida não foi ouvida",
+        "fim-defesa": {"fim": true, "titulo": "A ferida nêo foi ouvida",
           "texto": "Ele agradece e diz que vai ver com o sócio. A experiência ruim com o sistema anterior continua de pé, agora com você do lado de quem promete demais."},
         "fim-sumico": {"fim": true, "titulo": "Proposta sem endereço",
-          "texto": "A proposta chega, ele abre, não responde. Sem conversa marcada e sem o problema confirmado, a oportunidade vira mais uma linha de \"ficou de me retornar\"."},
+          "texto": "A proposta chega, ele abre, nêo responde. Sem conversa marcada e sem o problema confirmado, a oportunidade vira mais uma linha de \"ficou de me retornar\"."},
         "fim-bom": {"fim": true, "titulo": "O fogo, o número e a data",
           "texto": "Você sai com o problema de raiz nas palavras dele, um número que ele mesmo disse e a próxima conversa marcada com quem cuida da conferência. E sabe que o último sistema morreu por falta de uso: na aula 7, isso vira a proposta de acompanhamento."}
       },
@@ -147,18 +147,18 @@
       "sub": "A fala do consultório e o gerador do seu roteiro de diagnóstico.",
       "blocos": [
         {"rot": "Fala pronta · quando pedem proposta antes da conversa", "icone": "chat",
-         "conteudo": "\"Consigo mandar, sim. Só que, sem entender o que está acontecendo aí, vai acontecer\numa de duas coisas: ou eu subestimo o trabalho — e aí não sobra recurso para entregar\ndireito o que prometi — ou eu me protejo e coloco um valor acima do que você precisaria\npagar. Nenhuma das duas te serve.\nMe dá 20 minutos de perguntas e eu te mando um número que faz sentido para o seu caso.\nPode ser <dia> às <hora>?\""},
+         "conteudo": "\"Consigo mandar, sim. Só que, sem entender o que está acontecendo aí, vai acontecer\numa de duas coisas: ou eu subestimo o trabalho — e aí nêo sobra recurso para entregar\ndireito o que prometi — ou eu me protejo e coloco um valor acima do que você precisaria\npagar. Nenhuma das duas te serve.\nMe dá 20 minutos de perguntas e eu te mando um número que faz sentido para o seu caso.\nPode ser <dia> às <hora>?\""},
         {"rot": "Prompt · gerador do seu roteiro de diagnóstico", "icone": "arquivo",
-         "conteudo": "Monte meu roteiro de conversa de diagnóstico, em português do Brasil, em uma página.\nCONTEXTO\n- Eu vendo: <ex.: diagnóstico de IA e mentoria de 90 dias com gestores>\n- Meu cliente típico: <ex.: clínicas com 10 a 50 funcionários>\n- O problema que eu costumo resolver: <uma frase>\nESTRUTURA OBRIGATÓRIA (5 marcos)\n1. Abertura (2 min) — 3 opções de frase para abrir sem parecer roteiro.\n2. Situação — 5 perguntas sobre como o processo funciona hoje.\n3. Raiz — 4 perguntas incômodas: custo de não agir, quem mais é afetado,\n   por que agora, o que acontece em 6 meses sem mudança.\n4. Número — a sequência de 4 perguntas que leva de \"perdemos tempo\" a um valor por mês.\n5. Fecho do encontro — como recapitular e como propor o próximo passo com duas datas.\nREGRAS\n- Nada de jargão técnico: escreva como o dono da empresa fala.\n- Cada pergunta em uma linha, pronta para ser dita em voz alta.\n- No fim, liste os 3 erros mais prováveis que eu vou cometer com esse roteiro."}
+         "conteudo": "Monte meu roteiro de conversa de diagnóstico, em português do Brasil, em uma página.\nCONTEXTO\n- Eu vendo: <ex.: diagnóstico de IA e mentoria de 90 dias com gestores>\n- Meu cliente típico: <ex.: clínicas com 10 a 50 funcionários>\n- O problema que eu costumo resolver: <uma frase>\nESTRUTURA OBRIGATÓRIA (5 marcos)\n1. Abertura (2 min) — 3 opções de frase para abrir sem parecer roteiro.\n2. Situaçêo — 5 perguntas sobre como o processo funciona hoje.\n3. Raiz — 4 perguntas incômodas: custo de nêo agir, quem mais é afetado,\n   por que agora, o que acontece em 6 meses sem mudança.\n4. Número — a sequência de 4 perguntas que leva de \"perdemos tempo\" a um valor por mês.\n5. Fecho do encontro — como recapitular e como propor o próximo passo com duas datas.\nREGRAS\n- Nada de jargêo técnico: escreva como o dono da empresa fala.\n- Cada pergunta em uma linha, pronta para ser dita em voz alta.\n- No fim, liste os 3 erros mais prováveis que eu vou cometer com esse roteiro."}
       ]
     },
     {
       "tipo": "pratica",
       "titulo": "Prática",
-      "sub": "Treine na simulação e saia com o seu roteiro.",
+      "sub": "Treine na simulaçêo e saia com o seu roteiro.",
       "exercicios": [
         {"id": "e1", "titulo": "1 · Conversa simulada", "min": "10 min",
-         "texto": "Faça a conversa com o dono da transportadora. Se não chegar ao placar máximo, leia os comentários do caminho e recomece.",
+         "texto": "Faça a conversa com o dono da transportadora. Se nêo chegar ao placar máximo, leia os comentários do caminho e recomece.",
          "pronto": "o placar mostra o máximo de pontos possíveis e você sabe dizer qual pergunta levou da fumaça ao fogo."},
         {"id": "e2", "titulo": "2 · Seu roteiro de uma página", "min": "30 min",
          "texto": "Rode o gerador do roteiro com o seu serviço e o seu cliente típico. Leia o marco 4 em voz alta simulando um cliente evasivo.",
@@ -168,15 +168,15 @@
     {
       "tipo": "quiz",
       "titulo": "Teste rápido",
-      "sub": "4 perguntas. A explicação aparece depois da sua tentativa.",
+      "sub": "4 perguntas. A explicaçêo aparece depois da sua tentativa.",
       "perguntas": [
-        {"p": "Qual destas é uma pergunta de raiz?", "opcoes": ["\"Qual é o orçamento de vocês para este projeto?\"", "\"Quanto está custando não resolver isso hoje, e quem mais sente esse gargalo?\"", "\"Vocês já usam alguma ferramenta de IA?\""], "certa": 1, "ref": "passos",
-         "explica": "A pergunta de raiz obriga o cliente a calcular e revela o alcance do problema. As outras duas são de superfície: aquecem, mas não abrem nada."},
+        {"p": "Qual destas é uma pergunta de raiz?", "opcoes": ["\"Qual é o orçamento de vocês para este projeto?\"", "\"Quanto está custando nêo resolver isso hoje, e quem mais sente esse gargalo?\"", "\"Vocês já usam alguma ferramenta de IA?\""], "certa": 1, "ref": "passos",
+         "explica": "A pergunta de raiz obriga o cliente a calcular e revela o alcance do problema. As outras duas sêo de superfície: aquecem, mas nêo abrem nada."},
         {"p": "O cliente diz \"a gente perde tempo com isso\". Qual é o próximo passo para chegar ao número?", "opcoes": ["Estimar você mesmo e apresentar o valor", "Perguntar a frequência, depois o que se perde a cada vez e quanto isso vale", "Passar direto para a proposta"], "certa": 1, "ref": "passos",
-         "explica": "Frequência × unidade × valor, e no fim a devolução para ele confirmar. O cálculo dele vale mais que a sua estimativa."},
-        {"p": "\"Já tentamos algo parecido e não deu certo.\" Como responder?", "opcoes": ["\"Comigo é diferente, pode confiar.\"", "\"O que exatamente não funcionou? Quero garantir que não vou repetir.\"", "Ignorar e seguir o roteiro"], "certa": 1, "ref": "simconversa",
-         "explica": "É uma objeção silenciosa. Não argumente contra ela: abra-a com pergunta, enquanto ainda dá para responder."},
-        {"p": "Quando você saiu da conversa com diagnóstico, e não só com uma conversa agradável?", "opcoes": ["Quando falou bem do seu serviço", "Quando explica o problema em 3 frases, tem um número dito por ele e sabe o que acontece se nada mudar", "Quando o cliente pediu a proposta por e-mail"], "certa": 1, "ref": "diagrama",
+         "explica": "Frequência × unidade × valor, e no fim a devoluçêo para ele confirmar. O cálculo dele vale mais que a sua estimativa."},
+        {"p": "\"Já tentamos algo parecido e nêo deu certo.\" Como responder?", "opcoes": ["\"Comigo é diferente, pode confiar.\"", "\"O que exatamente nêo funcionou? Quero garantir que nêo vou repetir.\"", "Ignorar e seguir o roteiro"], "certa": 1, "ref": "simconversa",
+         "explica": "É uma objeçêo silenciosa. Nêo argumente contra ela: abra-a com pergunta, enquanto ainda dá para responder."},
+        {"p": "Quando você saiu da conversa com diagnóstico, e nêo só com uma conversa agradável?", "opcoes": ["Quando falou bem do seu serviço", "Quando explica o problema em 3 frases, tem um número dito por ele e sabe o que acontece se nada mudar", "Quando o cliente pediu a proposta por e-mail"], "certa": 1, "ref": "diagrama",
          "explica": "Os três testes do diagnóstico. Sair \"de mandar uma proposta\" sem saber para qual problema é o sinal oposto."}
       ]
     },
@@ -185,8 +185,8 @@
       "titulo": "Resumo",
       "itens": [
         {"t": "A venda é decidida aqui", "texto": "O resto do processo só formaliza o que ficou combinado no diagnóstico."},
-        {"t": "Raiz, não superfície", "texto": "Custo de não agir, quem mais sofre, por que agora."},
-        {"t": "Dor sem número não sustenta preço", "texto": "Frequência × unidade × valor, confirmado por ele."},
+        {"t": "Raiz, nêo superfície", "texto": "Custo de nêo agir, quem mais sofre, por que agora."},
+        {"t": "Dor sem número nêo sustenta preço", "texto": "Frequência × unidade × valor, confirmado por ele."},
         {"t": "Fumaça e fogo", "texto": "Ache a causa antes de propor qualquer coisa, e saia com data."}
       ]
     }
